@@ -56,3 +56,38 @@ Our conversational city recommendation system comprises three integrated layers:
 **Quality Assurance & Fallbacks:**
 - Chunk retrieval validation: if <3 relevant chunks returned, broaden query scope
 - Dialogue state tracking: maintain preference-history DAG to detect contradictions, request clarification
+
+ **TIMELINE PROPOSAL **
+ ## Week 5-6: Dialogue Foundation & RAG Setup
+**April 7 - April 20, 2026**
+
+### Objectives
+- Deploy Qwen 9B locally and validate inference pipeline
+- Implement Chroma RAG integration with city dataset
+- Build preference elicitation prompt templates
+- Establish baseline dialogue evaluation metrics
+---
+
+## Week 7-8: Multi-Criteria Ranking & Recommendation Engine
+### Objectives
+- Implement 8-dimension city evaluation framework
+- Build preference-to-weight conversion logic
+- Create recommendation generation pipeline
+- Integrate dialogue-to-ranking transitions
+
+## Week 9-10: Optimization & Performance Tuning
+### Objectives
+- Optimize Qwen 9B inference latency
+- Improve dialogue naturalness and edge-case handling
+- Expand dataset annotations and metadata
+- Validate <1s response time across diverse queries
+
+---
+
+## Week 11-12: System Hardening & Deployment
+**May 19 - June 1, 2026**
+### Objectives
+- Conduct full system validation with diverse user cohorts
+- Complete production-ready documentation
+- Implement monitoring and error handling
+- Prepare deployment package 
