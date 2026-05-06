@@ -1,0 +1,105 @@
+{
+  "city_key": "tulcea",
+  "display_name": "Tulcea",
+  "metadata": {
+    "city": "Tulcea",
+    "city_key": "tulcea",
+    "country": "România",
+    "education_institutions": [
+      "Brad Segal",
+      "Grigore Moisil",
+      "Spiru Haret",
+      "George Georgescu",
+      "Ion Creangă",
+      "Henri Coandă",
+      "Anghel Saligny",
+      "Nicolae Cornățeanu",
+      "Delta Dunării",
+      "Sfântul Ioan Casian",
+      "Atlas",
+      "Danubius"
+    ],
+    "ethnic_roma_pct": 1.57,
+    "ethnic_romanians_pct": 74.83,
+    "ethnicity_unknown_pct": 19.93,
+    "has_national_roads": true,
+    "has_railway": true,
+    "high_schools_count": 11,
+    "national_roads": [
+      "DN2",
+      "DN22"
+    ],
+    "population_2021": 65624,
+    "religion_orthodox_pct": 74.62,
+    "religion_unknown_pct": 21.38,
+    "schools_count": 13,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 18122,
+    "raw_char_count": 19431,
+    "section_count": 9,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 812,
+      "level": 1,
+      "text": "Tulcea\nTulcea (în turcă Tulça, Hora-Tepé, Tolçu, în greacă Αιγισσός-Aegyssus, în bulgară Тулица-Tulitsa, în rusă/ ucraineană Тулча-Tulcha) este municipiul de reședință al județului cu același nume, Dobrogea, România, format din localitățile componente Tudor Vladimirescu și Tulcea (reședința). Este situat pe 7 coline din Dealurile Tulcei, pe o vatră populată continuu începând din perioada culturii Gumelnița (2900 - 2200 î.C.), continuând cu așezarea greacă Aegyssus (secolul VIII î.C.), cu portul și orașul roman din secolele I - II d. C. , cu orașul numit Tulcea din vremea lui Mircea cel Bătrân. Sub stăpânirea otomană orașul decade, un reviriment înregistrându-se odată cu deschiderea canalului Sulina. Orașul a fost atestat documentar în anul 1506. S-a aflat sub stăpânire otomană între anii 1420 și 1877.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 2439,
+      "level": 1,
+      "text": "Istoria apartenenței statale România 1878– Imperiul Otoman –1878\nCele mai vechi urme de locuire din zona orașului datează de acum circa 5–6000 de ani. Prin anii 600–500î.e.n. aici a existat și o cetate getică, care a avut continuitate și după cucerirea romană care a survenit după sfârșitul domniei regelui get Burebista pe la 44î.e.n. Tulcea actuală a fost fondată în dreptul unui vad pe Dunăre în timpul stăpânirii otomane a regiunii, care a început pe la 1420. Fiind mare parte din timp într-o zonă de graniță, orașul a fost adesea distrus în timpul războaielor ruso-turce, ultimul și cel mai distrugător pentru Tulcea fiind cel din 1829.\nÎncepând cu 1839, pentru a demonstra voința de modernizare, sultanii otomani au declanșat reformele denumite Tanzimat. După Războiul Crimeei, în contextul acestora, în regiunea malului drept al cursului inferior al Dunării, Imperiul a organizat vilayetul Dunării, o provincie pe care o dorea un model pentru organizarea altor provincii ale statului multietnic. În cadrul acestui vilayet, Tulcea juca rolul de capitală a subunității administrative ce cuprindea nord-estul extrem: sangeacul Tulcea. S-a construit un palat administrativ unde își avea sediul instituția mutesarifului de sangeac; între 1856 și 1878, postul acesta a fost ocupat succesiv de Suleiman Bei, Resid Paşa, Razim Paşa, Ismail Paşa, Fahri Bei, Ali Bei și Said Bei.\nÎn urma Războiului Ruso-Turc din 1877–1878, cu participarea României, aceasta a primit prin tratatul de la Berlin Dobrogea de Nord împreună cu recunoașterea internațională a independenței, Tulcea devenind de atunci parte a statului român.\nTulcea în 1896\nÎn perioada 1840-1859, localitatea a fost populată cu coloniști de origine germană, cunoscuți ca germani dobrogeni. Majoritatea acestora aveau să părăsească localitatea în 1940, fiind strămutați cu forța în Germania Nazistă, sub lozinca Heim ins Reich (Acasă în Reich).\nPână la reforma administrativă din anul 1950, Tulcea a fost reședința județului Tulcea (interbelic). După instaurarea regimului comunist în România, Tulcea a devenit reședința unui raion din Regiunea Dobrogea.\nDupă cel de al Doilea Război Mondial, orașul s-a extins și s-a modernizat. În prezent, vatra orașului atinge o suprafață de 115km² și o populație de 68.608 locuitori (în anul 2011). Tulcea este un oraș industrial, port pentru navele de pasageri, precum și pentru cele care transportă produse industriale, mai ales materii prime.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 86,
+      "level": 1,
+      "text": "Orașul Tulcea se află la 30 de metri altitudine și la 292 kilometri față de București.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 562,
+      "level": 1,
+      "text": "Clima municipiului Tulcea este temperat-continentală cu influențe sub-mediteraneene. Iarna se face simțit aerul arctic, din nord, care provoacă scăderea temperaturii. Temperatura maximă înregistrată a fost de 40,3 grade, iar minima a fost de -26,8 grade Celsius în anul 1942.\nTemperatura medie anuală din Tulcea este una dintre cele mai ridicate din țară, fiind de 10,8 grade. Precipitațiile medii anuale sunt de 350–500mm. Debitele Dunării sunt în medie, la Tulcea, de aproximativ 5000-6000 mc/s, minimele fiind de 2000 mc/s, iar maximele de 15.000-16.000 mc/s.",
+      "title": "Climă"
+    },
+    {
+      "char_count": 972,
+      "level": 1,
+      "text": "Componența etnică a municipiului Tulcea\nRomâni (74,83%) Ruși lipoveni (1,9%) Romi (1,57%) Alte etnii (1,77%) Necunoscută (19,93%)\nComponența confesională a municipiului Tulcea\nOrtodocși (74,62%) Creștini de rit vechi (1,25%) Musulmani (1,1%) Alte religii (1,64%) Necunoscută (21,38%)\nConform recensământului efectuat în 2021, populația municipiului Tulcea se ridică la 65.624 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 73.707 locuitori. Majoritatea locuitorilor sunt români (74,83%), cu minorități de ruși lipoveni (1,9%) și romi (1,57%), iar pentru 19,93% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (74,62%), cu minorități de creștini de rit vechi (1,25%) și musulmani (1,1%), iar pentru 21,38% nu se cunoaște apartenența confesională.\nTulcea - evoluția demografică\n020.00040.00060.00080.000100.00019121948196619922011populațiePopulația istorică din Tulcea",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 1243,
+      "level": 1,
+      "text": "Fostul Palat Administrativ, în prezent Muzeul de Artă din Tulcea.\nMuzee\nInstitutul de Cercetări Eco-Muzeale (ICEM)\nMuzeul de Științe Naturale \"Delta Dunării\" - 1 Mai 1950\nMuzeul de Artă (Complexul Muzeal de Patrimoniu Cultural Nord- Dobrogean) - 1863-1865\nMuzeul Colecțiilor de Artă \"Casa Avramide\" (Complexul Muzeal de Patrimoniu Cultural Nord- Dobrogean) - Casa Avramide a fost construită la final de secol XIX de către Alexandru Avramide, un avut, în aceea perioadă, din Tulcea.\nMuzeul de Etnografie și Artă Populară (MEAP) - 1911\nMuzeul de Istorie și Arheologie - 1975\nNava Muzeu Republica\nLăcașuri de cult\nCatedrala Episcopală Sfântul Ierarh Nicolae\nMoscheea Azizyie\nTemplul Israelit\nBiserica Sfântul Gheorghe, cunoscută și ca „Biserica cu ceas” - 1857, 1927\nCimitirul evreiesc\nCatedrala Buna Vestire - 1869, 1848 - 1854\nBiserica Armenească\nDelta Dunării (2010)\nAlte clădiri și locuri\nTeatrul „Jean Bart” - 15 februarie 2008\nDelta Dunării\nPiața Civică\nWinmarkt (aflat în centrul orașului, fostul magazin „Diana”)\nCoral Plaza Mall (2008)\nComplexul Delta Dunării (acvariu)\nFaleza Dunării (modernizată în 2023)\nLacul Ciuperca\nParcuri\nParcul Personalităților\nParcul Albatros\nOrășelul Copiilor\nParcul „Carol”\nParcul Hotel Delta\nParcul Victoria",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 1843,
+      "level": 1,
+      "text": "Tulcea este un important centru industrial. Aici se realizează construcții și reparații de nave. Un aeroport se află în apropiere de oraș, pe șoseaua Tulcea - Constanța, la km 15. Centru de exploatare a stufului. Tot aici se află și unicul producător de alumină calcinată din țară, ALUM SA, precum și un important șantier de construcții navale, VARD Tulcea. Fiind supranumit și Orașul de la Porțile Deltei Dunării, o parte din economie s-a dezvoltat in jurul turismului, fapt atestat prin construcțiile și investițiile ce s-au făcut pentru construirea de noi hoteluri.\nAici funcționează mai multe centre comerciale: Penny Market, Hipermarket Dunărea, Coral Plaza Mall, Billa, Winmarkt, Lidl, Kaufland, Dedeman, Profi. Cele mai cunoscute și prospere hyper-market-uri tulcene sunt Lidas, înființată în anul 1993, ca afacere de familie, Fraher.\nMass-media în Tulcea\nZiarele din județul Tulcea sunt publicații locale, preponderent online, care informează despre politică locală, administrație, economie, cultură, turism și probleme de mediu din județul Tulcea.\nPublicații reprezentative\nOra deTulcea — portal online de știri locale actualizat permanent.\nZiarul DELTA — cotidian local cu tradiție pe print.\nZiarul de Tulcea — publicație online cu știri locale actualizat sporadic.\nDobrogeaNews — site regional cu secțiune dedicată Tulcei.\nTLnews — publicație online din Tulcea. :contentReference\nTulcea Noastră — ziar independent pentru comunitate. :contentReference\nObiectiv — Jurnalul de Tulcea — publicație locală tipărită și online.\nStiriTulcea — agregator / portal local de știri. :contentReference\nIstoric și format\nDeclinul tirajelor tipărite și migrarea consumului de știri spre mediul online este vizibilă și în Tulcea. Multe titluri combină ediții digitale cu ediții tipărite cu tiraje reduse și folosesc rețele sociale pentru diseminare.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 843,
+      "level": 1,
+      "text": "În municipiul Tulcea se află 11 licee, 13 școli generale și 24 de grădinițe.\nPrincipalele licee din oraș sunt:\nColegiul „Brad Segal” (denumirea veche Grupul Școlar de Industrie Alimentară)\nLiceul Teoretic „Grigore Moisil” (denumirea veche Liceul Industrial de Construcții)\nColegiul Dobrogean \"Spiru Haret\"\nLiceul de Artă „George Georgescu”\nLiceul Teoretic \"Ion Creangă\"\nColegiul Tehnic „Henri Coandă”\nColegiul „Anghel Saligny”\nColegiul Agricol „Nicolae Cornățeanu”\nColegiul Economic „Delta Dunării”\nSeminarul Teologic „Sfântul Ioan Casian” Tulcea\nCentre de formare profesională:\nȘcoala de Marină „Atlas”\nȘcoala Profesională „Danubius”\nDe asemenea, în Tulcea se află și un teatru construit recent, Teatrul „Jean Bart”, ce a fost inaugurat în data de 18 februarie 2008, iar cel mai mare acvariu din Romania a fost inaugurat la 25 februarie 2009.",
+      "title": "Educație"
+    },
+    {
+      "char_count": 7974,
+      "level": 1,
+      "text": "Orașul Tulcea are o rețea de transport în comun cu autobuze, exploatată de S.C. Transport Public S.A.. Principala linie de autobuz este linia 1, ce leagă Liceul A. Saligny de Cartierul Neptun (cu varianta 1b Liceul A. Saligny - ANL), însă există mai multe linii de autobuz ce acoperă aproape tot orașul. Intervalele de succedare sunt de aproximativ 20 de minute, însă zona centrală, cea mai solicitată, este străbătută de mai multe trasee (1, 1b, 2, 3, 4, 4b), graficele de circulație ale acestora făcând ca, pe această porțiune de traseu să circule un autobuz la 6 - 7 minute. De asemenea, operatorul de transport local efectuează și transport spre localitățile Babadag, Nalbant, Iazurile, Nufăru, Visterna și Zebil, dar și către Aeroportul Tulcea.\nPrețul unui bilet urban de o călătorie este de 3,5 RON , fiind folosită autotaxarea.\nÎn apropiere de Tulcea (în localitatea Mihail Kogălniceanu, Șoseaua Tulcea-Constanța (DN22), kilometrul 15) se află aeroportul Delta Dunării.\nCăi de acces în Tulcea\nCu mașina\nBrăila - 92 km\nBucurești – 283 km (via Hârșova - DN2)\nConstanța – 126 km\nGalați – 113 km (via Brăila)\nVaslui - 290 km (via Galați)\nCu trenul\nGara Tulcea Oraș\nÎn Tulcea există două gări: Tulcea Mărfuri și Tulcea Oraș. Aceasta din urmă este cea mai importantă și este capătul liniei 804, ce leagă Tulcea de Medgidia (144 km). Zilnic circulă o pereche de trenuri personale spre Constanța și una spre Medgidia.\nCu autocarul\nBucurești – Tulcea\nConstanța – Tulcea\nBrăila – Tulcea\nCu avionul\nAeroportul Delta Dunării Tulcea - la 15 km de orașul Tulcea\nAeroportul Internațional Mihail Kogălniceanu Constanța (~105 km de Tulcea) — la ~15 km de orașul Constanța\nCu vaporul\nTulcea – Sf. Gheorghe\nTulcea - Maliuc - Mila 23 - Crisan - Sulina\nTulcea - Chilia Veche\nDrumeții, trasee\nPentru că este Rezervație a Biosferei, solicitați avizul Administrației Rezervației Biosferei Delta Dunării. Și porniti apoi la drum.\nTraseul 1: Tulcea - Canalul Mila 35 - Gârla Sireasa - Gârla Șontea - Canalul Olguța - Dunărea Veche - Mila 23 - Crișan - Maliuc - Tulcea. Străbateți zone pitorești, accesibile numai cu bărcile, zone de o rară frumusețe, cu stufării, nuferi, sălcii ce adăpostesc numeroase păsări. În apropierea hotelului Lebăda se afla primul Centru de Informare și Educare deschis pe teritoriul RBDD, unde puteți primi o serie de informații despre RBDD, puteți viziona filme, diapozitive, consulta broșuri, pentru a înțelege mai bine importanța acestui minunat loc cu care natura ne-a înzestrat.\nTraseul 2: Tulcea - Canalul Litcov - Canalul Crișan - Caraorman - Hotelul Lebăda - Maliuc - Tulcea: traversați canalul Litcov realizat, se spune, de un pescar pe nume Litcov, care ar fi săpat acest canal cu hârlețul, creând astfel un nou drum spre locuri bogate în pește.\nTraseul 3: Tulcea - Maliuc - Hotel Lebăda - Canalul Crișan - Caraorman - sat Caraorman - lacul Puiu - popas Puiu - Roșu - lacul Roșu - lacul Roșuleț - canalul Roșu - Împuțita - canalul Busurca - Sulina - Tulcea: până la hotelul Lebăda, traseul este comun cu primele două;de aici, prin canalul Crișan se ajunge la localitatea Caraorman (in limba turcă înseamnă “pădure neagră”). Astfel că, Dunărea izvorăște din Munții Pădurea Neagră (Germania) și se varsă în Marea Neagră, în apropierea unei localități cu același nume cu locul de unde izvorăște. Urmând traseul, ajungeți în orașul Sulina, cel mai estic oraș din România, port la Dunăre și la Marea Neagră.\nTraseul 4: Hotelul Lebăda - Dunărea Veche - canalul Magearu - Dunărea Veche - Hotelul Lebăda: reprezintă o altă variantă de traseu pentru cei aflați la Hotelul Lebăda, parcurgând al doilea lob al Marelui M pana în localitatea Letea. În apropiere, se află pădurea Letea, cu o mare diversitate de specii.\nTraseul 5: Murighiol - canalul Dunavăț - canalul de legătură cu Dranov - canalul Dranov - golful Holbina - lacul Razim - Gura Portiței: traseul pornește din comuna Murighiol (situată la 42 km de Tulcea pe șosea și 53 km pe apă); denumirea localității vine de la cuvântul \"murughiol\", care în limba turcă înseamnă “lac violet”, explicând astfel nuanțele liliachi pe care le are apa lacului; urmând canalul Dunavăț, veche arteră de circulație, legătura între Brațul Sf. Gheorghe și lacul Razim, pătrundeți în complexul lagunar Razim-Sinoe, situat în extremitatea sudică a Deltei, cel mai mare complex lagunar din România.\nTraseul 6: Jurilovca - Gura Portiței: în comuna Jurilovca, situată la 93 km de Constanța, puteti admira casele lipovenești, construite după o anumită tradiție de către pescarii lipoveni sosiți pe aceste meleaguri în secolul al XVIII- lea.\nTraseul 7: Hotelul Lebăda - Dunărea Veche - canalul Eracle - gârla Lopatna -până la intersecția cu canalul de acces în lacul “Trei iezere”: un traseu deosebit de atrăgător, urmărind un spectaculos curs de apă ce duce la lacul Trei Iezere, pe canalul Eracle și gârla Lopatna.\nTrasee turistice pentru drumeții pe zone înalte\nLocalitatea Letea - Loc. C.A. Rosetti - Pădurea Letea - Lac Nebunu.\nAtracția principală este pădurea Letea (marginea acesteia aflată în afara zonei de protecție integrală).\nLocalitatea Caraorman - Pădurea Caraorman - Lac Erenciuc.\nPădurea Caraorman, principala atracție turistică, este zona de protecție integrală care poate fi vizitată numai cu aviz special și cu însoțitor (agent ecologic). O altă atracție este lacul Erenciuc; în zona forestieră de o parte și de alta a lacului, se poate admira arinul negru, unde cuibărește vulturul codalb.\nLocalitatea Murighiol - lac Sărături.\nTraseul se adresează în primul rând celor pasionați de observarea păsărilor, lacul Sărături constituind un habitat pentru diferite specii de păsări.\nLocuri de campare în Rezervație\nDunărea maritimă, mal drept între Mm 54-57 și Mm 50-52;\nDunăre, bratul Tulcea, mal drept intre Mm 34-35 și Mm 41-42;\nMalul gârlei Somova, lângă cherhanaua Somova;\nCanal Mila 36, ambele maluri, până la intersecția cu canalul Sireasa;\nCanalul Crișan, mal stâng, între brațul Sulina și canalul Iacub;\nMalul opus al Dunării vechi, în dreptul localității Mila 23, între canalul Eracle și canalul Olguța;\nBrațul Sf. Gheorghe - mal drept între km 49-102 și mal stâng între km 44 -47;\nCanalul Dunavăț - între intersecția cu brațul Sf Gheorghe și canalul Lipoveni; plaja Portița;\nCanalul Șontea - între canalul Păpădia și canalul Războinița;\nCanal Litcov -mal stâng între km 0 și 9.\nAalborg, Danemarca\nRovigo, Italia\nShumen, Bulgaria\nPersonalități ale județului Tulcea\nGeorge Boulanger (1893 - 1958), violonist, compozitor, emigrat în Argentina;\nAlexandru Ciucurencu (n. 27 septembrie 1903 – d. 27 decembrie 1977), pictor, membru corespondent al Academiei Române.\nGrigore Moisil (1906 - 1973), matematician, părintele informaticii românești;\nIon Adamache (1923 - 1998), inginer, inventator, emigrat în Canada;\nMioara Avram (1932 - 2004), lingvist;\nValentin Șerbu (1934 - 1994), scriitor;\nAlexander Rodewald (1943 - 2017), biolog și genetician, conducător al Institutului de biologie umană al Universității din Hamburg\nȘtefan Găvenea (n. 1944), artist plastic;\nEugeniu Barău (1946 - 2020), pictor;\nIlie Danilov (1946 - 2012, cunoscut și sub pseudonimul literar Leo Divinial - didactic universitar, doctor în filologie, autor de cărți și lucrări științifice în domeniul lingvistic, prozator, dramaturg, ziarist, membru al Uniunii Scriitorilor din România;\nIvan Patzaichin (1949 - 2021), sportiv de performanță;\nTora Vasilescu (n. 1951), actriță;\nRadu Gheorghe (n. 1951), actor;\nTraian Coșovei (1954 - 2014), scriitor;\nNicolae C. Ariton (n. 1958), scriitor;\nCrin Antonescu (n. 1959), om politic, fost președinte al PNL;\nAlexandra Canareica (n. 1965), solistă de muzică ușoară și profesoară de canto;\nAndaluzia Luca (n. 1971), deputat român și viceprimar al Municipiului Tulcea (2016-2020)\nMihai Chirilov (n. 1971), critic de film;\nMirela Roznoveanu (n. 1947), critic literar, eseist, romancier, poet, jurnalist, redactor de reviste, cercetător\nAlecsandru Dunaev (n. 1991), actor;\nCătălin Chirilă (n. 1998), caiacist.",
+      "title": "Transport"
+    }
+  ],
+  "source": {
+    "path": "cities_text/tulcea.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

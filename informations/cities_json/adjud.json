@@ -1,0 +1,103 @@
+{
+  "city_key": "adjud",
+  "display_name": "Adjud",
+  "metadata": {
+    "area_ha": 5911,
+    "city": "Adjud",
+    "city_key": "adjud",
+    "country": "România",
+    "county": "Vrancea",
+    "education_institutions": [
+      "Emil Botta",
+      "Gheorghe Balș"
+    ],
+    "ethnic_roma_pct": 5.57,
+    "ethnic_romanians_pct": 78.31,
+    "ethnicity_unknown_pct": 16.1,
+    "has_ambulance_station": true,
+    "has_hospital": true,
+    "has_national_roads": true,
+    "has_railway": true,
+    "high_schools_count": 2,
+    "kindergartens_count": 4,
+    "national_roads": [
+      "DN11A",
+      "DN2"
+    ],
+    "population_2011": 16045,
+    "population_2021": 15178,
+    "religion_orthodox_pct": 79.33,
+    "religion_pentecostal_pct": 1.5,
+    "religion_roman_catholic_pct": 1.31,
+    "religion_unknown_pct": 16.68,
+    "schools_count": 2,
+    "settlement_type": "municipiu"
+  },
+  "quality": {
+    "clean_char_count": 5185,
+    "raw_char_count": 7609,
+    "section_count": 9,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 339,
+      "level": 1,
+      "text": "Adjud\nAdjud (în trecut, Adjudu Nou, în maghiară Egyedhalma) este un municipiu în județul Vrancea, Moldova, România, format din localitățile componente Adjud (reședința) și Burcioaia, și din satele Adjudu Vechi și Șișcani. Adjud are o populație de 16.045 de locuitori (2011) și se află situat la nord de confluența râurilor Siret și Trotuș.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 811,
+      "level": 1,
+      "text": "Din cercetările geologice rezultă că subsolul municipiului prezintă straturi de pietrișuri și nisipuri levantine și cuaternare, formând, din punct de vedere hidrologic, depozite acvifere însemnate alimentate de râurile Trotuș și Siret și de precipitațiile atmosferice directe.\nClimatul temperat corespunde așezării sale și se caracterizează prin vânturi predominant din nord cu alternanță în sezonul cald dinspre sud și sud-est, cu temperatură medie anuală de 8-10 °C, media precipitațiilor fiind de 500 mm/m² într-un an. Cunoscut din vechime pentru așezarea sa la intersecția provinciilor românești Moldova, Țara Românească și Transilvania, este și astăzi un important nod feroviar și rutier. Suprafața municipiului era în anul 1997 de 5.911 ha, din care o suprafață de 105 ha. era ocupată de clădiri și curți.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 1673,
+      "level": 1,
+      "text": "Pe teritoriul de nord al localității a fost descoperită o așezare din Epoca bronzului, care datează aproximativ din mileniul II î.Hr și aparține culturii Monteoru. Tot aici au fost descoperite vestigiile unei așezări geto-dace din secolele V-III î.Hr.\nPrima mențiune documentară datează din 9 aprilie 1433, când localitatea este pomenită sub denumirea de Egydhalm („In oppido nostro Egydhalm” - în orașul nostru Colina lui Egyd, unde numele în cauză este forma maghiară a denumirii latine Aegidius). Localitatea a fost un important centru comercial în secolele XVI-XVII și a fost ridicată la rang de târg în 1838.\nAdjudul în timpul Războiului Ruso-Austro-Turc (14 octombrie 1788)\nLa sfârșitul secolului al XIX-lea, Adjud era o comună rurală din plasa Răcăciuni a județului Putna, formată numai din satul de reședință, cu 2171 de locuitori. În comună existau două biserici ortodoxe, două sinagogi, o școală de băieți cu 51 de elevi, una de fete cu 29 de eleve, un spital și un birou de telegraf și poștă. În acea vreme, pe teritoriul actual al municipiului funcționau în aceeași plasă comunele Adjudu Vechi și Burcioaia. Prima, formată din satele Adjudu Vechi și Șișcani, avea 814 locuitori și două biserici. A doua avea în compunere doar satul de reședință, cu 347 de locuitori, și o biserică.\nÎn 1950, Adjud a primit statut de oraș raional și a devenit reședința raionului Adjud din regiunea Putna, apoi (după 1952) din regiunea Bârlad și (după 1956) din regiunea Bacău. În 1968, a devenit oraș al județului Vrancea, iar comunele Burcioaia și Adjudu Vechi au fost desființate, localitățile lor fiind incluse în orașul Adjud. Adjudul a fost declarat municipiu în anul 2000.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 883,
+      "level": 1,
+      "text": "Componența etnică a municipiului Adjud\nRomâni (78,31%) Romi (5,57%) Alte etnii (0,03%) Necunoscută (16,1%)\nComponența confesională a municipiului Adjud\nOrtodocși (79,33%) Penticostali (1,5%) Romano-catolici (1,31%) Alte religii (1,18%) Necunoscută (16,68%)\nConform recensământului efectuat în 2021, populația municipiului Adjud se ridică la 15.178 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 16.045 de locuitori. Majoritatea locuitorilor sunt români (78,31%), cu o minoritate de romi (5,57%), iar pentru 16,1% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (79,33%), cu minorități de penticostali (1,5%) și romano-catolici (1,31%), iar pentru 16,68% nu se cunoaște apartenența confesională.\n0500010.00015.00020.00025.0001930195619772002populațiePopulația istorică din Adjud",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 321,
+      "level": 1,
+      "text": "Orașul este traversat de șoseaua națională DN2, care leagă Focșaniul de Bacău. La Adjud, acest drum se intersectează cu șoseaua națională DN11A, care duce spre nord-vest la Onești și spre est la Bârlad. Pe lângă transportul auto, localitatea Adjud dispune de transport feroviar. Prin Gara Adjud trec zilnic 52 de trenuri.",
+      "title": "Transport"
+    },
+    {
+      "char_count": 121,
+      "level": 1,
+      "text": "În oraș funcționează 4 grădinițe, 2 școli și 2 licee (colegiul national „Emil Botta” și colegiul tehnic „Gheorghe Balș”).",
+      "title": "Educație"
+    },
+    {
+      "char_count": 236,
+      "level": 1,
+      "text": "Spitalul Municipal Adjud, înființat în anul 1875, deservește atât populația municipiului Adjud, cât și zone limitrofe.\nMunicipiul este deservit și de substația de ambulanță a serviciului de ambulanță județean Vrancea, cu 3 autosanitare.",
+      "title": "Sănătate"
+    },
+    {
+      "char_count": 34,
+      "level": 1,
+      "text": "Monumentul Primului Război Mondial",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 463,
+      "level": 1,
+      "text": "Gheorghe Balș (1868 – 1934), inginer, istoric de artă;\nDan Botta (1907 – 1958), poet, eseist;\nEmil Botta (1911 - 1977), poet, prozator, actor, fratele lui Dan Botta;\nLuigi Martiș (1925 – 1994), general comunist, deputat MAN 1975–1985;\nIon Dichiseanu (1933 – 2021), actor;\nNelly Miricioiu (n. 1952), soprană;\nGelu Radu (n. 1957), halterofil, câștigător al medaliei de argint la Los Angeles în cadrul Jocurilor Olimpice din 1984;\nAngela Gheorghiu (n. 1965), soprană",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/adjud.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "city_key": "plopeni",
+  "display_name": "PlopeniPentru alte sensuri, vedeți Plopeni (dezambiguizare).",
+  "metadata": {
+    "city": "PlopeniPentru alte sensuri, vedeți Plopeni (dezambiguizare).",
+    "city_key": "plopeni",
+    "country": "România",
+    "county": "Prahova",
+    "ethnic_romanians_pct": 88.37,
+    "ethnicity_unknown_pct": 10.99,
+    "has_national_roads": false,
+    "has_railway": false,
+    "religion_orthodox_pct": 86.32,
+    "religion_unknown_pct": 11.82,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4346,
+    "raw_char_count": 5159,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 977,
+      "level": 1,
+      "text": "PlopeniPentru alte sensuri, vedeți Plopeni (dezambiguizare).\nPlopeni (în trecut Mărgineanca și apoi Stejarul) este un oraș în județul Prahova, Muntenia, România. Conform recensământului din anul 2011, Plopeni are o populație de 7.718 locuitori, fiind al doisprezecelea centru urban al județului Prahova din punct de vedere demografic. Localitatea este situată la circa 15 km nord de municipiul Ploiești și este înconjurată de păduri din stejar.\nAșezare\nOrașul se află în centrul județului, pe malul drept al Teleajenului. Este străbătut de șoseaua județeană DJ102, care îl leagă spre sud de Păulești și Ploiești (unde se intersectează cu DN1B), și spre nord de Dumbrăvești, Vărbilău, Slănic și Izvoarele (unde se termină în DN1A). Din acest drum, lângă Plopeni se ramifică spre nord-vest șoseaua județeană DJ100D, care duce la Cocorăștii Mislii, Scorțeni și Bănești (unde se termină în DN1). Prin oraș trece și calea ferată Buda-Slănic, pe care este deservit de stația Plopeni.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 749,
+      "level": 1,
+      "text": "Componența etnică a orașului Plopeni\nRomâni (88,37%) Alte etnii (0,64%) Necunoscută (10,99%)\nComponența confesională a orașului Plopeni\nOrtodocși (86,32%) Alte religii (1,86%) Necunoscută (11,82%)\nConform recensământului efectuat în 2021, populația orașului Plopeni se ridică la 6.709 locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 7.718 locuitori. Majoritatea locuitorilor sunt români (88,37%), iar pentru 10,99% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (86,32%), iar pentru 11,82% nu se cunoaște apartenența confesională.\nPlopeni - evoluția demografică\n0200040006000800010.00012.0001977199220022011populațiePopulația istorică din Plopeni",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 1114,
+      "level": 1,
+      "text": "În zona actuală a orașului s-a înființat în anul 1938 o fabrică de armament. Aceasta se afla pe teritoriul fostei comune Țintea (astăzi localitate administrată de orașul Băicoi), lângă satul Plopeni din comuna Dumbrăvești. În jurul fabricii a apărut în 1939 o colonie muncitorească, denumită Mărgineanca, de la pădurea din apropiere. În 1945, satul Mărgineanca a fost denumit Stejarul, iar în anul 1950 a fost arondat raionului Ploiești din regiunea Prahova și apoi regiunea Ploiești. În 1968, la reforma administrativă, județul Prahova a fost reînființat, iar satul Stejarul a primit numele de Plopeni (de la satul din apropiere, care avea apoi să fie cunoscut apoi și sub numele de Plopeni-Sat), și a fost declarat oraș. Până în 1989, comuna Dumbrăvești a fost comună suburbană a orașului.\nÎncepând cu anii '90 odată cu închiderea Uzinei Mecanice Plopeni, începe și declinul economic, demografic și social al orașului. În ciuda faptului că orașul a fost inclus în zona localităților defavorizate, facilitățile fiscale oferite de stat nu au atras investitorii așa cum se așteptaseră autoritățile.[necesită citare]",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1170,
+      "level": 1,
+      "text": "Singurul obiectiv din orașul Plopeni inclus în lista monumentelor istorice din județul Prahova ca monument de interes local este situl arheologic din poiana „La Cetate” („Cetatea Fetii”), unde s-au găsit urmele unei cetăți din secolele al VI-lea–al V-lea î.e.n.\nStemă\nStema orașului Plopeni din județul Prahova, potrivit anexei nr. 1 din Hotărârea de Guvern numărul 1985/2004, publicată în Monitorul Oficial al României, numărul 1160 din 8 decembrie 2004, se compune dintr-un scut triunghiular cu marginile rotunjite, tăiat în furcă. În prima partiție, pe fond albastru, se află o roată dințată ieșind, de argint. Partițiile doi și trei cuprind, în câmp de aur, câte o frunză de stejar așezată spre stânga, respectiv dreapta, terminată în partea de sus cu două ghinde. Scutul este timbrat de o coroană murală de argint cu trei turnuri crenelate.\nSemnificațiile elementelor însumate:\nRoata dințată semnifică principala caracteristică a localității ca oraș industrial. Frunza de stejar este elementul specific al zonei, de unde și numele localității Stejarul, în prezent Plopeni. Coroana murală cu trei turnuri crenelate semnifică faptul că localitatea are rangul de oraș.",
+      "title": "Monumente istorice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/plopeni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

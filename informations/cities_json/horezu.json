@@ -1,0 +1,57 @@
+{
+  "city_key": "horezu",
+  "display_name": "Horezu",
+  "metadata": {
+    "city": "Horezu",
+    "city_key": "horezu",
+    "country": "România",
+    "county": "Vâlcea",
+    "ethnic_roma_pct": 1.62,
+    "ethnic_romanians_pct": 94.08,
+    "ethnicity_unknown_pct": 4.27,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6263,
+    "population_2021": 6467,
+    "religion_orthodox_pct": 94.87,
+    "religion_unknown_pct": 4.67,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4691,
+    "raw_char_count": 5288,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 2759,
+      "level": 1,
+      "text": "Horezu\nHorezu este un oraș în județul Vâlcea, Oltenia, România, format din localitatea componentă Horezu (reședința), și din satele Ifrimești, Râmești, Romanii de Jos, Romanii de Sus, Tănăsești și Urșani.\nIstoric\nDezvoltarea așezărilor horezene este legată de traseele de transhumanță, de drumurile haiducilor care traversau zona, precum și de drumul sării care\n„pornea de la Ocnele Mari, trecea prin Pietrarii de Jos și din Horezu continua către Slătioara și ajungea la Cernești\".\nLocalitate, astăzi orașul HorezuDescoperirile făcute în urma cercetărilor arheologice din zona,, Ferigile de lângă Horezu au scos la iveală mărturii arheologice din secolele al IX-lea și al XIIl-lea privind localizarea unor așezări umane.\nDe menționat faptul că ,,regiunea subcarpatică a actualei zone Horezu a făcut parte din\n,, Cnezatul lui Farcaș, menționat documentar prin\n,, Diploma regelui Bela al IV-lea al Ungariei., este atestat documentar într-un hristov aparținând domnitorului Vlad Călugărul din anul 1487, care pomenea de ,, satul Hurez.\nDenumirea actuală provine de la numele de ,, ciuhurez\" (huhurez), pasăre asemănătoare bufniței care populează pădurile din jur. Numele de ,, Hurezi a aparținut inițial actualei localități componente\n,, Romanii de Jos, pe valea râului cu același nume, despre care se fac mențiuni documentare în secolul XV-lea. La sfârșitul secolului al XVII-lea este menționată documentar cifra de 100 de locuitori ,, rumâni în satul\n,, Romanii de Jos.\nStrada principală din târgul Horezu în perioada interbelică\nAici, la ,, Romanii de Jos domnul martir Constantin Brâncoveanu, construiește o mănăstire care reprezintă ,, o sinteză a artei și măiestriei poporului român până în acel timp, mănăstirea Horezu, construcție care s-a făcut între anii 1690-1693. A târnosit-o la 8 septembrie 1693.\nCu timpul, vatra satului se mută peste deal la circa 2 km, probabil datorită faptului că traseele de transhumanță, cât și celelalte drumuri se intersectau în acel loc. Era deci un loc prielnic dezvoltării unui târg, unde oamenii din zonă puteau proceda la diferite schimburi comerciale. Oierii vindeau lână și brânză, cumpărau cereale și produse de băcănie. Olarii vindeau produse ceramice necesare în gospodăriile rurale și-și luau hrană.\nTârgul ceramicii românești la Horezu este organizat începând cu anul 1971.\nCocoșul de Hurez, ca motiv popular, este simbolul depresiunii Horezu și reprezintă trezirea la viață a țăranului român.\nAtracții turistice\nDin punct de vedere turistic Horezu atrage anual mulți turiști. Principalele atracții turistice ale zonei sunt:\nCeramica de Horezu\nMănăstirea Horezu, sit aflat în Patrimoniul Mondial UNESCO\nCheile Bistriței Vâlcene și Cheile Oltețului\nParcul Național Buila-Vânturarița\nPodul Istoric peste Luncavăț",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 797,
+      "level": 1,
+      "text": "Componența etnică a orașului Horezu\nRomâni (94,08%) Romi (1,62%) Alte etnii (0,03%) Necunoscută (4,27%)\nComponența confesională a orașului Horezu\nOrtodocși (94,87%) Alte religii (0,46%) Necunoscută (4,67%)\nConform recensământului efectuat în 2021, populația orașului Horezu se ridică la 6.467 de locuitori, în creștere față de recensământul anterior din 2011, când fuseseră înregistrați 6.263 de locuitori. Majoritatea locuitorilor sunt români (94,08%), cu o minoritate de romi (1,62%), iar pentru 4,27% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (94,87%), iar pentru 4,67% nu se cunoaște apartenența confesională.\nHorezu - evoluția demografică\n0100020003000400050006000700080001977199220022011populațiePopulația istorică din Horezu",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 315,
+      "level": 1,
+      "text": "Galerie de imagini\nVase de ceramică din Horezu\nBiserica „Dumineca tuturor Sfinților” - Râmești din Dealu Bălăneștilor (monument istoric)\nCrucea bisericii din târg (monument istoric)\nBiserica „Intrarea în Biserică”, „Sfântul Ioan Botezătorul” - Biserica din Târg, str. Constantin Brâncoveanu nr. 2 (monument istoric)",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 68,
+      "level": 1,
+      "text": "Lazăr Comănescu, diplomat și profesor universitar\nMircea Jida, actor",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/horezu.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

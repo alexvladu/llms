@@ -1,0 +1,58 @@
+{
+  "city_key": "geoagiu",
+  "display_name": "Geoagiu",
+  "metadata": {
+    "city": "Geoagiu",
+    "city_key": "geoagiu",
+    "country": "România",
+    "county": "Hunedoara",
+    "ethnic_roma_pct": 14.53,
+    "ethnic_romanians_pct": 75.62,
+    "ethnicity_unknown_pct": 9.12,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 5294,
+    "population_2021": 5087,
+    "religion_orthodox_pct": 77.65,
+    "religion_pentecostal_pct": 3.54,
+    "religion_unknown_pct": 9.53,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3357,
+    "raw_char_count": 4503,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 419,
+      "level": 1,
+      "text": "Geoagiu\nGeoagiu (în maghiară Algyógy, în germană Gergesdorf) este un oraș în județul Hunedoara, Transilvania, România, format din localitatea componentă Geoagiu (reședința), și din satele Aurel Vlaicu, Băcâia, Bozeș, Cigmău, Gelmar, Geoagiu-Băi, Homorod, Mermezeu-Văleni, Renghet și Văleni. Geoagiu are o populație de 5.049 locuitori.\nDate geografice\nLocalitatea se află la punctul de vărsare a râului Geoagiu în Mureș.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 857,
+      "level": 1,
+      "text": "Componența etnică a orașului Geoagiu\nRomâni (75,62%) Romi (14,53%) Alte etnii (0,73%) Necunoscută (9,12%)\nComponența confesională a orașului Geoagiu\nOrtodocși (77,65%) Greco-catolici (4,5%) Penticostali (3,54%) Creștini după evanghelie (1,87%) Alte religii (2,91%) Necunoscută (9,53%)\nConform recensământului efectuat în 2021, populația orașului Geoagiu se ridică la 5.087 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 5.294 de locuitori. Majoritatea locuitorilor sunt români (75,62%), cu o minoritate de romi (14,53%), iar pentru 9,12% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (77,65%), cu minorități de greco-catolici (4,5%), penticostali (3,54%) și creștini după evanghelie (1,87%), iar pentru 9,53% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 571,
+      "level": 1,
+      "text": "Monumente\nCapela romanică din Geoagiu, secolul al XI-lea\nBiserica „Sfântul Nicolae”, 1528\nBiserica reformată din Geoagiu, cu ferestre gotice din secolele XV-XVI.\nDrumul Roman (sec. II, III) la NV de orașul Geoagiu\nIstoric\nPe teritoriul actualei așezări s-a aflat localitatea daco-romană Germisara , denumită mai apoi \"Thermae Dodonae\".\nLocalitatea Geoagiu este atestată documentar din anul 1291, când a fost menționată sub numele de \"Villa Gyog\" într-un document care enumeră hotarele comunei Binținți.\nOrașul are în componență și stațiunea balneoclimaterică Geoagiu-Băi.",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 366,
+      "level": 1,
+      "text": "Ioan Budai-Deleanu (1760 - 1820), scriitor, filolog, corifeu al Școlii Ardelene;\nKocsárd Kún (1803 - 1895), pedagog și om de cultură, director al Liceului Reformat din Orăștie;\nAurel Vlaicu (1882 - 1913), inginer, inventator și pionier al aviației;\nGyörgy Puskás (1911 - 2004), medic, profesor universitar.\nSorin Dragomir (1955-), matematician, profesor universitar.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/geoagiu.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

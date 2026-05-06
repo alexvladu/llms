@@ -1,0 +1,83 @@
+{
+  "city_key": "pâncota",
+  "display_name": "Pâncota",
+  "metadata": {
+    "city": "Pâncota",
+    "city_key": "pâncota",
+    "country": "România",
+    "county": "Arad",
+    "ethnic_roma_pct": 10.31,
+    "ethnic_romanians_pct": 72.27,
+    "ethnicity_unknown_pct": 11.18,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6946,
+    "population_2021": 6787,
+    "religion_orthodox_pct": 51.35,
+    "religion_pentecostal_pct": 24.41,
+    "religion_roman_catholic_pct": 5.44,
+    "religion_unknown_pct": 11.71,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4316,
+    "raw_char_count": 4913,
+    "section_count": 8,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 370,
+      "level": 1,
+      "text": "Pâncota\nPâncota (în maghiară Pankota, în germană Pankota) este un oraș în județul Arad, Crișana, România, format din localitatea componentă Pâncota (reședința), și din satul Măderat. Se află la 37 km de municipiul Arad, în zona centrală a județului, la contactul Câmpiei Aradului cu Munții Zarandului. Localitatea are un teritoriu administrativ cu suprafața de 70,9 km2.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 767,
+      "level": 1,
+      "text": "Orașul Pâncota din județul Arad, se află în partea de sud-vest a depresiunii Zărandului, în extremitatea nordică a Podgoriei Aradului. Prin localitate trece pârâul Sodom, ce izvorăște din Munții Highiș aflat la 25 km de Pâncota. Câmpia Tisei, parte a Câmpiei Aradului, este întreruptă de ivirile vulcanice din partea de NE a orașului.\nLocalități limitrofe sunt la nord Zărandul și Seleușul, la est Târnova, la sud Șiria, iar la vest Sântana.\nPotrivit tradiției locale, vechea vatră a localității era la poalele Dealului Pelegului, la\n\"Ogrăzile Vechi\". Preotul romano-catolic, Șerban din Ineu, menționează de altfel, într-una din însemnările sale, că numele de Pâncota ar deriva din cuvintele latinești pan cubitum care ar însemna colț de deal sau terminarea dealului.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 815,
+      "level": 1,
+      "text": "Prima atestare documentară a localității datează din anii 1202-1203 când așezarea era cunoscută sub denumirea de villa Pankota.\nPe teritoriul de astăzi al Pâncotei se găsea în anul 1216 o abație. Informația o aflăm din lucrarea istoricului Sándor Marki, potrivit căreia, populația localității se afla sub jurisdicția unei abații condusă de Andreas.\nDe mai multe ori vatra orașului a fost distrusă de năvălitori. Turcii au cucerit orașul în mai multe rânduri, din anul 1687 intră în administrarea Imperiului Habsburgic, iar din anul 1867 intră în administrația austro-ungară până la sfârșitul Primului Război Mondial.\nPâncota a fost renumită pentru târgurile și iarmaroacele sale încă din secolul al XVIII-lea. Recunoscut centru meșteșugăresc, breasla apare ca sistem de organizare la începutul secolului al XIX-lea.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1062,
+      "level": 1,
+      "text": "Componența etnică a orașului Pâncota\nRomâni (72,27%) Romi (10,31%) Maghiari (3,98%) Germani (1,31%) Alte etnii (0,94%) Necunoscută (11,18%)\nComponența confesională a orașului Pâncota\nOrtodocși (51,35%) Penticostali (24,41%) Romano-catolici (5,44%) Baptiști (2,86%) Adventiști (1,28%) Alte religii (2,95%) Necunoscută (11,71%)\nConform recensământului efectuat în 2021, populația orașului Pâncota se ridică la 6.787 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.946 de locuitori. Majoritatea locuitorilor sunt români (72,27%), cu minorități de romi (10,31%), maghiari (3,98%) și germani (1,31%), iar pentru 11,18% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (51,35%), cu minorități de penticostali (24,41%), romano-catolici (5,44%), baptiști (2,86%) și adventiști (1,28%), iar pentru 11,71% nu se cunoaște apartenența confesională.\nPâncota - evoluția demografică\n0100020003000400050006000700080001977199220022011populațiePopulația istorică din Pâncota",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 458,
+      "level": 1,
+      "text": "Pâncota în Harta Iozefină a Comitatului Arad, 1782-85\nEconomia orașului cunoaște în prezent o dinamică puternică cu creșteri semnificative semnalate în toate sectoarele de activitate. Industria materialelor de construcții, industria mobilei, industria usoara, industria alimentara, serviciile și turismul sunt sectoarele economice cele mai bine reprezentate. Pâncota este și un important centru al viei și vinului, cunoscut\natât în țară cât și în străinătate",
+      "title": "Economie"
+    },
+    {
+      "char_count": 252,
+      "level": 1,
+      "text": "Dintre cele mai importante obiective turistice ale orașului se remarcă ansamblul urban desfășurat de-a lungul străzii Tudor\nVladimirescu, vechiul han de poștă, palatul \"Sulkowski\" și nu în ultimul rând Canalul Matca - o importantă lucrare\nhidrotehnică.",
+      "title": "Turism"
+    },
+    {
+      "char_count": 53,
+      "level": 1,
+      "text": "Cetatea Turceasca Pâncota\nCastelul Dietrich-Sulkowski",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 272,
+      "level": 1,
+      "text": "Gergely Csiky (1842-1891), dramaturg maghiar;\nOszkár Asboth (31 martie 1891 – 27 februarie 1960), inventatorul elicopterului;\nIlie Moț (1946 - 1982/1983), fotbalist;\nIoan Bolovan (n. 1962), istoric, profesor universitar și prorector al Universității Babeș-Bolyai din Cluj.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/pâncota.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

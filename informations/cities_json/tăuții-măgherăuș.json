@@ -1,0 +1,70 @@
+{
+  "city_key": "tăuții-măgherăuș",
+  "display_name": "Tăuții-Măgherăuș",
+  "metadata": {
+    "city": "Tăuții-Măgherăuș",
+    "city_key": "tăuții-măgherăuș",
+    "country": "România",
+    "county": "Maramureș",
+    "ethnic_romanians_pct": 76.39,
+    "ethnicity_unknown_pct": 13.69,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 7136,
+    "population_2021": 8463,
+    "religion_orthodox_pct": 67.08,
+    "religion_pentecostal_pct": 1.36,
+    "religion_roman_catholic_pct": 8.26,
+    "religion_unknown_pct": 14.98,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3617,
+    "raw_char_count": 4679,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1612,
+      "level": 1,
+      "text": "Tăuții-MăgherăușAcest articol se referă la localitatea Tăuții-Măgherăuș, județul Maramureș. Pentru alte sensuri, vedeți Tăuți (dezambiguizare).\nTăuții-Măgherăuș (în maghiară Miszmogyorós) este un oraș în județul Maramureș, Transilvania, România, format din localitățile componente Băița, Bușag, Nistru și Tăuții-Măgherăuș (reședința), și din satele Bozânta Mare, Merișor și Ulmoasa.\nLocalitatea are o populație de 7.136 locuitori (2011) și a fost declarată oraș prin Legea nr. 83/2004, împreună cu alte trei comune din județul Maramureș: Șomcuta Mare, Săliștea de Sus și Ulmeni.\nÎn componența orașului intră și satele Băița, Bozânta Mare, Bușag, Merișor, Nistru și Ulmoasa.\nIstoric\nPrima atestare documentară: pentru Tăuți: 1440 (Thotfalw); pentru Măgherăuș: 1490 (Monyoros), în 1493 Kysmonyoros și Naghmonyoros (Măgherăușul Mare, Măgherăușul Mic), în 1750 Magyaros.\nLocalitatea Tăuții-Măgherăuș a fost de-a lungul istoriei proprietatea mai multor familii nobiliare maghiare. În 1608, prințul transilvanean Gabriel Báthory a donat Măgherăușul lui György Szirmai. În 1642 așezarea a intrat să facă parte din moșia Forestszáda și, în același timp, din Cetatea Satu Mare.\nTăuții-Măgherăuș este o veche așezare românească, în primul recensământ al Regatului Ungariei din 1880 fiind doar un sătuleț cu 347 de locuitori, dintre care 268 erau etnici români, 65 maghiari și 14 din alte etnii.\nEtimologie\nEtimologia numelui localității: Din n. grup tăuți (< subst. tăut < magh. Tóth „slovac\" + desinența de pl. -i) + Măgherăuș (< top. magh. Mogyorós < subst. magh. mogyorós „plin de aluni\" < magh. mogyoró „alun”, Kisch).",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 916,
+      "level": 1,
+      "text": "Componența etnică a orașului Tăuții-Măgherăuș\nRomâni (76,39%) Maghiari (8,65%) Alte etnii (1,26%) Necunoscută (13,69%)\nComponența confesională a orașului Tăuții-Măgherăuș\nOrtodocși (67,08%) Romano-catolici (8,26%) Reformați (3,02%) Greco-catolici (2,75%) Penticostali (1,36%) Alte religii (2,54%) Necunoscută (14,98%)\nConform recensământului efectuat în 2021, populația orașului Tăuții-Măgherăuș se ridică la 8.463 de locuitori, în creștere față de recensământul anterior din 2011, când fuseseră înregistrați 7.136 de locuitori. Majoritatea locuitorilor sunt români (76,39%), cu o minoritate de maghiari (8,65%), iar pentru 13,69% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (67,08%), cu minorități de romano-catolici (8,26%), reformați (3,02%), greco-catolici (2,75%) și penticostali (1,36%), iar pentru 14,98% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 82,
+      "level": 1,
+      "text": "Manifestări tradiționale locale\nFlori de Sânzâiene (obicei folcloric; luna iunie).",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 337,
+      "level": 1,
+      "text": "Biserica romano-catolică „Sf. Lorinc” (1875);\nBiserica reformată (sec. XIV-XV);\nCasa Maniu (1920-1930);\nBiserica „Sf. Arhangheli Mihail și Gavril” (1815);\nȘcoala Românească (1885-1890);\nBiserica ortodoxă „Sf. Apostoli Petru și Pavel” (1560-1830).\nArii naturale protejate (de interes național)\nArboret de castan comestibil (Legea 5/2000).",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 199,
+      "level": 1,
+      "text": "Pe teritoriul orașului Tăuții-Măgherăuș se află Aeroportul Internațional Baia Mare, înființat în anul 1964, extins în perioada 1977-1979 și declarat aeroport internațional la data de 21 aprilie 2008.",
+      "title": "Transport"
+    },
+    {
+      "char_count": 135,
+      "level": 1,
+      "text": "Miklos Tothfalusi-Kis (în maghiară Misztotfalusi Kis Miklos) (1650-1702), tipograf maghiar.\nIon Șiugariu (1914-1945), poet și publicist",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/tăuții-măgherăuș.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

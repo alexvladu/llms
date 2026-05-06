@@ -1,0 +1,56 @@
+{
+  "city_key": "strehaia",
+  "display_name": "Strehaia",
+  "metadata": {
+    "city": "Strehaia",
+    "city_key": "strehaia",
+    "country": "România",
+    "county": "Mehedinți",
+    "ethnic_roma_pct": 14.28,
+    "ethnic_romanians_pct": 72.26,
+    "ethnicity_unknown_pct": 13.43,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2021": 9059,
+    "religion_orthodox_pct": 84.72,
+    "religion_unknown_pct": 13.9,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3464,
+    "raw_char_count": 4530,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1296,
+      "level": 1,
+      "text": "Strehaia\nStrehaia este un oraș în județul Mehedinți, Oltenia, România, format din localitățile componente Ciochiuța, Comanda, Hurducești, Lunca Banului, Slătinicu Mare, Slătinicu Mic și Strehaia (reședința), și din satele Menți, Motruleni și Stăncești. Are o populație de 10 506 locuitori. Strehaia este situată la 25 km de Filiași pe malul râului Motru în partea de nord–est a Piemontului Bălăciței (sau Platforma Strehaiei), la 140–160 m altitudine, pe terasele inferioare de confluență a râului Hușnița cu Motrul.\nEste o așezare amintită în documente datând din secolul al XV–lea.\nÎn epoca medievală a fost, pentru o perioadă, reședința banului, care fusese mutată de la Turnu Severin din cauza deselor atacuri turcești. Bănia a fost însa mutată, din nou, într-un timp relativ scurt, la Craiova.\nDe atunci, Strehaia a rămas o localitate preponderent agricolă.\nStrehaia a fost de asemenea reședință episcopală. În 1821 la Strehaia au avut loc lupte ale pandurilor lui Tudor Vladimirescu cu Potera Domnească.\nLocalitatea este cunoscută prin vechiul său târg de vite, menționat încă înainte de 1653.\nEste un important nod feroviar și rutier.\nCentru comercial și cultural, cu unele funcții administrative, în Strehaia se găsesc unități ale industriei (confecții îmbrăcăminte, coop de consum etc.).",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 489,
+      "level": 1,
+      "text": "Cel mai important obiectiv turistic este cetatea și mănăstirea Strehaia (sec. XV), ctitorită de boierii Craiovești aceasta se află pe lista monumentelor istorice din județul Mehedinți.\nÎn pădurile situate la nord de Strehaia se găsesc cele mai mari colonii de broaște țestoase Testudo hermani din Oltenia. Specia este ocrotită prin lege.\nProductivitatea economică a orașului este scăzută, regăsindu-se activități economice doar din privatizare, iar nivelul investițiilor este aproape zero.",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 1017,
+      "level": 1,
+      "text": "Componența etnică a orașului Strehaia\nRomâni (72,26%) Romi (14,28%) Alte etnii (0,02%) Necunoscută (13,43%)\nComponența confesională a orașului Strehaia\nOrtodocși (84,72%) Alte religii (1,38%) Necunoscută (13,9%)\nConform recensământului efectuat în 2021, populația orașului Strehaia se ridică la 9.059 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 10.506 locuitori. Majoritatea locuitorilor sunt români (72,26%), cu o minoritate de romi (14,28%), iar pentru 13,43% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (84,72%), iar pentru 13,9% nu se cunoaște apartenența confesională.\nStrămoșii actualilor romi de la Strehaia sunt foștii robi ai mânăstirii din localitate, pe care Matei Basarab i-a dat lăcașului de cult în anul 1650.\nÎn timp, aici s-a format o comunitate de romi căldărari.\nStrehaia - evoluția demografică\n0200040006000800010.00012.00014.0001930195619772002populațiePopulația istorică din Strehaia",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 365,
+      "level": 1,
+      "text": "Personalități născute aici\nPetre Mâlcomete (n. 9 iulie 1926) rector al Universității Alexandru Ioan Cuza din Iași și profesor al Universității Tehnice Gheorghe Asachi din Iași;\nDumitru Cioflină (n. 1942), general de armată, fost șef al Marelui Stat Major al Armatei Române;\nDiana Belbiță (n. 1996), sportivă la kickboxing.\nRodion Cămătaru (n. 1958), fotbalist român",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/strehaia.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

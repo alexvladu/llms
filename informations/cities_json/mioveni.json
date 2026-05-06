@@ -1,0 +1,79 @@
+{
+  "city_key": "mioveni",
+  "display_name": "Mioveni",
+  "metadata": {
+    "city": "Mioveni",
+    "city_key": "mioveni",
+    "country": "România",
+    "county": "Argeș",
+    "ethnic_romanians_pct": 89.69,
+    "ethnicity_unknown_pct": 10.08,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 31998,
+    "religion_orthodox_pct": 87.29,
+    "religion_unknown_pct": 11.32,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 9356,
+    "raw_char_count": 11620,
+    "section_count": 8,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1178,
+      "level": 1,
+      "text": "Mioveni\nMioveni (cunoscut între 1964 și 1996 drept Colibași) este un oraș în județul Argeș, Muntenia, România, format din localitatea componentă Mioveni (reședința), și din satele Clucereasa, Colibași, Făgetu și Racovița. Se află la aproximativ 15 km nord-est de municipiul Pitești, pe șoseaua Pitești–Brașov (DN73).\nAșezare\nOrașul se află în centrul județului, pe malul stâng al Râului Doamnei, acolo unde acesta primește apele Râului Târgului, și pe malurile afluentului Argeșel al acestuia din urmă, în extremitatea sud-vestică a Podișului Cândești, o diviziune a Podișului Getic. Este străbătut, prin localitatea Clucereasa, de șoseaua națională DN73, care leagă Piteștiul de Brașov; prin localitățile Mioveni și Colibași de șoseaua națională DN73D, care o leagă spre sud de Mărăcineni (unde se termină în DN73) și spre nord-est de Davidești, Vulturești, Hârtiești, Boteni, Mioarele și Valea Mare-Pravăț (unde se termină în DN72A); și prin localitățile Colibași și Făgetu de drumul județean DJ741, care o leagă spre sud de orașul Ștefănești (unde se termină în DN7). Prin oraș trece și calea ferată Golești-Câmpulung-Parc Krețulescu, pe care este deservit de stația Mioveni.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 3797,
+      "level": 1,
+      "text": "Orașul Mioveni are o istorie de peste 500 de ani. Prima atestare documentară a fost, așa cum ne arată izvoarele istorice, în anul 1485.\nMai exact pe 7 septembrie 1485 la Târgoviște este atestat hrisovul prin care Vlad Călugărul voievod intărăște lui Stan Macrea și lui Stoica jumătate din Mihoveni, pe care apoi ei își infrățesc fiicele și nepoții: \"Din milă lui Dumnezeu, Io Vlad voievod și domn a toată țară Ungrovlaviei, fiul marelui Vlad voievod. Dă domnia mea acestă poruncă a domniei mele slugilor domniei mele, lui Stan Macrea și cu fiicele lui și cu nepoții lui, Mărtin și Stan, și lui Stoia și cu fiii lui și cu fratele lui, Neacșul și cu fiii lui și cu nepoții lui, Neagul și Bâra și Bratul și nepotului lui de fiică, Oprea și verilor lui, Stan și Goia, ca să le fie jumătate din Mihoveni, cât au ținut Dragomir și Zlatco, pentru că au închinat-o Dragomir și Zlatco jupanului Drăghici al lui Stoica dinaintea lui Radul voievod, fratel domniei mele. Iar jupan Draghici a vândut lui Stan Macrea si lui Stoia, pentru 600 aspri și un cal bun de 300 aspri și jumătate din mănăstirea Mihovenilor. [...]\"\nDenumirea sa vine de la un cneaz local, Mihu (Mihov în slavonă), Mihoveni (Mioveni), făcând referire directă la locuitorii acestei formațiuni sociale.\nPrincipalele repere istorice ale orașului Mioveni coboară spre începuturile dezvoltării social-umane, fapt atestat de uneltele din piatră șlefuită descoperite în zonele adiacente, precum și de ceramica din epoca bronzului din cimitirul satului Racovița.[necesită citare]\nNumele de Colibași apare într-un hrisov emis de domnitorul Constantin Șerban, la 15 ianuarie 1655, prin care \"iartă Colibași de dijmă\".\nLa sfârșitul secolului al XIX-lea, Mioveni era o comună rurală în plasa Râul Doamnei a județului Muscel, formată numai din satul de reședință, având o biserică (construită în 1840 și reparată în 1880) și o școală cu 40 de elevi (dintre care 2 fete). La acea dată, pe teritoriul actual al orașului mai funcționau, în aceeași plasă și comunele Colibași și Racovița. Comuna Colibași avea în compunere satele Colibași și Vieroșu, cu o populație totală de 884 de locuitori; existau în ea două biserici (dintre care una a mănăstirii Vieroșu) și o școală cu 30 de elevi. Comuna Racovița, cu satele Racovița de Sus, Racovița de Jos, Valea Stânei și Clucereasa, avea 1349 de locuitori ce trăiau în 302 case. Funcționau și aici patru fierăstraie, o fabrică de spirt la Clucereasa, o biserică datând din 1786 și două școli (la Racovița de Jos și Valea Stânei) cu 144 de elevi.\nAnuarul Socec din 1925 consemnează desființarea comunei Mioveni, al cărei sat a trecut la comuna Racovița, arondată, ca și comuna Colibași, plășii Golești a aceluiași județ. Comuna Racovița avea, astfel, 2850 de locuitori în satele Mioveni, Racovița de Jos, Racovița de Sus, Valea Stânei și Clucereasa. Comuna Colibași avea aceeași compoziție și o populație de 1349 de locuitori.\nÎn 1950, comuna Colibași a fost transferată orașului regional Pitești, reședința regiunii Argeș, în timp ce comuna Racovița a trecut la raionul Pitești din aceeași regiune. Satul Vieroși a luat în 1964 denumirea de Făgetu. În 1968, comunele au trecut la județul Argeș, comuna Racovița fiind desființată iar satele ei trecute la comuna Colibași, organizată drept comună suburbană a municipiului Pitești. În acea perioadă, pe teritoriul comunei, în zona satului Mioveni, s-a construit Uzina de Automobile Pitești, care avea să devină mai târziu Automobile Dacia, ceea ce a dus la o urbanizare intensă, la creștere demografică și la mutarea centrului de greutate al comunei către satul Mioveni.\nÎn 1989, s-a renunțat la conceptul de comună suburbană, iar comuna Colibași a fost declarată oraș. În 1996, orașului Colibași i s-a schimbat denumirea în Mioveni, după localitatea de reședință.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1397,
+      "level": 1,
+      "text": "În orașul Mioveni se află șase monumente istorice de interes național. Trei sunt monumentele istorice de arhitectură: mănăstirea Vieroși (1571–1573, refăcută în 1824–1827) din satul Făgetu — ansamblu alcătuit din biserica „Intrarea în Biserică” (ridicată în 1827–1834, pe locul bisericii construite între 1571–1573 și refăcută în 1645), biserica „Adormirea Maicii Domnului” din cimitir, ruinele stăreției, ale chiliilor, ale turnului porții, ale clădirilor anexă și ale zidului de incintă (secolele al XVI-lea–al XIX-lea) — apoi biserica „Sf. Nicolae” (1786) din Racovița; și ansamblul culei Racovița (secolele al XVIII-lea–al XX-lea) — ansamblu alcătuit din culă (1797) și parc (secolele al XIX-lea–al XX-lea). Alte trei sunt monumentele memoriale sau funerare reprezentate de niște cruci de piatră, dintre care două sunt în satul Colibași — una datând din 1676 și aflată lângă biserică și una din 1647 aflată în cimitir — și una din secolul XVIII-lea aflată în fața bisericii „Sf. Gheorghe” din Racovița.\nÎn rest, alte două obiective din oraș sunt incluse în lista monumentelor istorice din județul Argeș ca monumente de interes local. Unul este monumentul istoric de arhitectură biserica „Sf. Gheorghe” (1840) din Mioveni. Altul este crucea de piatră a arhimandritului Samuel Tărtășescu (1836) de la intrarea în mănăstirea Vieroși din satul Făgetu, clasificată ca monument memorial sau funerar.",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 805,
+      "level": 1,
+      "text": "Componența etnică a orașului Mioveni\nRomâni (89,69%) Alte etnii (0,24%) Necunoscută (10,08%)\nComponența confesională a orașului Mioveni\nOrtodocși (87,29%) Alte religii (1,38%) Necunoscută (11,32%)\nÎn anul 1995, orașul avea o populație de 33.908 locuitori.\nConform recensământului efectuat în 2021, populația orașului Mioveni se ridică la 29.317 locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 31.998 de locuitori. Majoritatea locuitorilor sunt români (89,69%), iar pentru 10,08% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (87,29%), iar pentru 11,32% nu se cunoaște apartenența confesională.\nMioveni - evoluția demografică\n010.00020.00030.00040.000199220022011populațiePopulația istorică din Mioveni",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 222,
+      "level": 1,
+      "text": "Autorități guvernamentale\nAgenția Națională pentru Deșeuri Radioactive (GR-ME-ANDRAD) se ocupă cu depozitarea deșeurilor care, pe lângă faptul că nu mai fac trebuință nimănui, prezintă riscuri radiologice pentru populație.",
+      "title": "Administrație"
+    },
+    {
+      "char_count": 118,
+      "level": 1,
+      "text": "Dealurile Miovenilor găzduiesc principalele facilități de producție ale constructorului național de autoturisme Dacia.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 1385,
+      "level": 1,
+      "text": "Se pot vizita ruinele castrului roman, Cula lui Dumitrașcu Brătianu (1797), unde se află și o expoxiție de etnografie și artă populară.\nMănăstirea monument istoric și de arhitectură, Vieroși, din Făgetu, ctitorie a banului Ivașcu Golescu, din 1545, reparată și întregită în 1615 de Stroe Leurdeanu și reconstruită și pictată de Samuil Tărtășescu în 1825, și restaurată în 1924-1927 și 1978 - 1984.\nSport\nStadionul Orășenesc\nOrașul Mioveni are o echipă de fotbal, CS Mioveni, care a jucat în Liga I a României.\nFC Dacia Pitești a fost echipa care a reprezentat orașul în ligile naționale până în anul 2000.\nPersoane notabile\nConstantin Năstase, general român\nprof. dr. Mihail M. Robea, renumit folclorist și etnograf român, născut la Mioveni la data de 16 octombrie 1928 și a decedat la București (15 iunie 2019).\nAndrei Mihai Panait, fotbalist profesionist român\nToma Conțescu, proprietar de pământ, ofițer de carieră și activist politic\nMioveni este înfrățit cu următoarele orașe :\nLanderneau, Franța\nPetrici, Bulgaria\nSalamina, Grecia\nIstra, Rusia\nGrand Saconnex, Elveția\nAbrantes, Portugalia\nMăgdăcești, Criuleni, Republica Moldova\nScoreni, Strășeni, Republica Moldova\nÎnvățământul\nPe lângă cercetarea în domeniul nuclear, Institutul de Cercetare Nucleară și filiala aparținând de RENEL, Combustibil nuclear, produc combustibil nuclear pentru Centrala atomelectrică de la Cernavodă.",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 164,
+      "level": 1,
+      "text": "Activitățile culturale se desfășoară în două case de cultură orășenești și cea a sindicatelor. În Casa de Cultură a Sindicatelor funcționează o bibliotecă franceză.",
+      "title": "Cultură"
+    }
+  ],
+  "source": {
+    "path": "cities_text/mioveni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

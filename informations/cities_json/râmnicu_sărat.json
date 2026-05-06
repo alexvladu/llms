@@ -1,0 +1,75 @@
+{
+  "city_key": "râmnicu_sărat",
+  "display_name": "Râmnicu Sărat",
+  "metadata": {
+    "city": "Râmnicu Sărat",
+    "city_key": "râmnicu_sărat",
+    "country": "România",
+    "county": "Buzău",
+    "ethnic_roma_pct": 9.33,
+    "ethnic_romanians_pct": 74.32,
+    "ethnicity_unknown_pct": 16.29,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 33843,
+    "population_2021": 29774,
+    "religion_orthodox_pct": 82.11,
+    "religion_unknown_pct": 16.96,
+    "settlement_type": "municipiu"
+  },
+  "quality": {
+    "clean_char_count": 9873,
+    "raw_char_count": 11295,
+    "section_count": 7,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 454,
+      "level": 1,
+      "text": "Râmnicu Sărat\nRâmnicu Sărat este un municipiu în județul Buzău, Muntenia, România. Are o populație de 33.843 de locuitori (potrivit recesământului din 2021). Aflat în extremitatea nordică a județului, orașul a apărut în secolul al XV-lea și a fost în secolele al XIX-lea–al XX-lea reședința județului Râmnicu Sărat. Numele orașului Râmnic provine din slavul „rîba”, a derivat „Rîbnic”, s-a trecut la Slam Rîmnic și apoi la numele actual de Râmnicu Sărat.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 767,
+      "level": 1,
+      "text": "Gara Râmnicu Sărat, construită între anii 1893-1898.\nOrașul se află în nordul Munteniei și al județului Buzău, pe malul stâng al râului cu același nume. Pe lângă oraș trece autostrada A7 care leagă Buzăul de Focșani, pe care este deservit de nodul Râmnicu Sărat. Nodul se descarcă în DN22, care duce spre est către Brăila și mai departe spre Tulcea și Constanța. Înspre vest, DN22 duce spre zona nordică a orașului, unde se termină în DN2, vechiul drum între Buzău și Focșani. Tot din DN22, se ramifică și DJ202 (șosea județeană) care duce din oraș în aval de-a lungul râului Râmnicu Sărat către localitățile învecinate.\nPrin Râmnicu Sărat trece și calea ferată Buzău–Mărășești, orașul fiind deservit de Gara Râmnicu Sărat, proiectată de arhitectul Nicolae Michăescu.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 3243,
+      "level": 1,
+      "text": "Cea mai veche mențiune documentară a numelui de „Râmnicu Sărat” descoperită până acum, datează din 8 septembrie 1439. Este vorba despre un privilegiu comercial acordat de domnitorul muntean Vlad Dracul negustorilor poloni, ruși și moldoveni, în care se precizează că „liovenii plătesc prima vamă la Râmnicu Sărat, doi florini ungurești de căruță încărcată, apoi dau și celelalte vămi”, referire care poate fi însă despre râu. Ca oraș apare pentru prima dată atestat în 1474.\nBiserica \"Adormirea Maicii Domnului\", zidită de Constantin Brâncoveanu în 1697.\nLa sfârșitul secolului al XIX-lea Râmnicu Sărat era reședința județului cu același nume (începând cu 1862, când aceasta s-a mutat aici de la Focșanii Munteni) și avea o populație de 13.134 de locuitori. Ca unități de învățământ, în oraș funcționau gimnaziul \"V. Boerescu\", deschis în 1889, precum și 2 școli primare urbane de băieți, 2 de fete, o școală rurală mixtă și două școli private.\nAlimentarea cu apă punea probleme, deoarece râul Râmnicul Sărat care curgea pe lângă oraș avea apă sărată, nepotabilă. Apa de băut era adusă prin conducte de la Răducești și era distribuită prin intermediul a 12 cișmele. Din punct de vedere administrativ, orașul era împărțit în trei culori: Roșu (care ocupa centrul vechi, denumit Vatra Orașului), Galben la sud (mahalalele Pităreasca și Erculești) și Albastru la nord (mahalaua Sf. Nicolae).\nDintre cele opt biserici ortodoxe consemnate în Marele Dicționar Geografic al României, cea mai veche era cea legată de prima atestare documentară a orașului, din timpul ocupației moldovenești a Râmnicului în vremea luptelor dintre Ștefan cel Mare și Radu cel Frumos, în 1474. Biserica \"Piatra\", pe locul căreia se află astăzi Biserica Sf.Parascheva. Cu toate acestea, biserica principală era însă Biserica Adormirea Maicii Domnului, zidită de Constantin Brâncoveanu și spătarul Mihail Cantacuzino în 1697. Alte biserici vechi și importante din oraș erau Biserica „Sfinții Voievozi” - Câța, zidită în 1765, biserica \"Robeasca\", zidită în 1784 de biv-vel-pitar Asanache Nicolescu, și biserica \"Bagdat\", zidită de Dumitrașcu Bagdat în 1753 și reparată în 1870 de un strămoș al său, biserică ce întreținea și un spital.\nÎn 1925 orașul Râmnicu Sărat își păstrase statutul de reședință de județ, fiind în același timp și reședința plășii Orașul din cadrul acestuia. Populația sa crescuse la 14.535 de locuitori.\nÎn 1950 județul Râmnicu Sărat s-a desființat, iar orașul a căpătat statut de oraș regional și reședință a raionului Râmnicu Sărat din cadrul regiunii Buzău și apoi (după 1952), din cadrul regiunii Ploiești.\nÎn perioada comunistă a funcționat închisoarea Râmnicu Sărat, comandată de maiorul Alexandru Vișinescu. Aici au fost deținuți o serie de personalități importante din politica românească, între care Ion Mihalache, Ion Diaconescu sau Corneliu Coposu. Închisoarea a fost desființată în anul 1963, iar comandantul Vișinescu a fost transferat la Ploiești.\nÎn 1968 Râmnicu Sărat a pierdut rolul de centru administrativ, fiind inclus în județul Buzău. În anul 1994 orașul Râmnicu Sărat a fost declarat municipiu.\nRâmnicu Sărat în Primul Război Mondial\nTeatrul orășenesc\nBiserica \"Adormirea Maicii Domnului\"\nGara\nStrada Victoriei\nCimitirul evreiesc",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 717,
+      "level": 1,
+      "text": "Componența etnică a municipiului Râmnicu Sărat\nRomâni (74,32%) Romi (9,33%) Alte etnii (0,06%) Necunoscută (16,29%)\nComponența confesională a municipiului Râmnicu Sărat\nOrtodocși (82,11%) Alte religii (0,93%) Necunoscută (16,96%)\nConform recensământului efectuat în 2021, populația municipiului Râmnicu Sărat se ridică la 29.774 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 33.843 de locuitori. Majoritatea locuitorilor sunt români (74,32%), cu o minoritate de romi (9,33%), iar pentru 16,29% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (82,11%), iar pentru 16,96% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 224,
+      "level": 1,
+      "text": "Evoluție istorică\nÎn anul 1900 trăiau în oraș 13.134 locuitori, din care circa 1500 evrei.\nRâmnicu Sărat - evoluția demografică\n010.00020.00030.00040.00050.00019121948196619922011populațiePopulația istorică din Râmnicu Sărat",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 771,
+      "level": 1,
+      "text": "Biserica Adormirea Maicii Domnului din Râmnicu Sărat\nBiserica „Sfinții Voievozi” - Câța din Râmnicu Sărat\nGara Râmnicu Sărat\nÎnchisoarea Râmnicu Sărat\nMuzeul Municipal „Octavian Moșescu”\nPrimăria Orașului din Râmnicu Sărat\nCasa Moșescu\nPalatul Lupescu\nȘcoli și licee\nColegiul Național „Alexandru Vlahuță”\nLiceul Teoretic „Ștefan Cel Mare”\nLiceul Tehnologic Economic „Elina Matei Basarab”\nLiceul Tehnologic „Traian Săvulescu”\nLiceul Tehnologic „Victor Frunză”\nȘcoala Gimnazială „Constantin Brâncoveanu” (fosta Nr.1)\nȘcoala Gimnazială „Gheorghe Vernescu” (fosta Nr.2)\nȘcoala Gimnazială „Dr.Ilie Pavel” (fosta Nr.3)\nȘcoala Gimnazială „Vasile Cristoforeanu” (fosta Nr.5)\nȘcoala Gimnazială Nr.6\nCentrul Școlar de Educație Inclusivă\nColegiul „Nicolae Paulescu”- școală sanitară",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 3437,
+      "level": 1,
+      "text": "Pavel Zăgănescu (1815 - 1897), căpitan pompier, care a luptat împotriva otomanilor în bătălia din Dealul Spirii.\nConstantin F. Robescu (1839 - 1920), inginer agronom, membru corespondent al Academiei Române.\nNicolae Fleva (1840 - 1920), avocat, jurnalist, membru în Adunarea Deputaților și primar al Bucureștiului între anii 1884-1886.\nMenelas Chircu (1864 - 1940), politician și filantrop.\nȘtefan Minovici (1867 - 1935), chimist, membru corespondent al Academiei Române.\nPetre Antonescu (1873 - 1965), arhitect, pedagog, restaurator de monumente istorice și academician, creatorul Arcului de Triumf, cât și a Palatului Ministerului Lucrărilor Publice din București.\nNicolae Ciupercă (1882 - 1950), politician, general și ministru de război al României în perioada 1938-1939.\nFlorica Cristoforeanu (1887 - 1960), cântăreață de operă, operetă și lied.\nIon Glogojanu (1888 - 1941), general și comandant militar al Odesei.\nTraian Săvulescu (1889 - 1963), biolog și botanist, fondator al Școlii românești de fitopatologie, membru și președinte al Academiei Române, deputat în Marea Adunare Națională între anii 1952-1957.\nPetre Iorgulescu-Yor (1890 - 1939), pictor;\nConstantin Paraschivescu-Bălăceanu (1893 - 1979), avocat, jurist, deputat în Marea Adunare Națională, președinte al baroului București, președinte al Colegiului avocaților din România și profesor la Facultatea de Drept a Universității din București;\nOctavian Moșescu (1894 - 1982), publicist, editor, memorialist, colecționar de artă și poet;\nMircea Constantinescu (1904-1972), actor de film.\nGheorghe Manea (1904 - 1978), inginer, membru corespondent al Academiei Române;\nStelian Cucu (1904 - 1985), profesor, poet, eseist, traducător;\nSaul Steinberg (1914 - 1999), desenator și grafician american născut în Râmnicu Sărat, faimos pentru lucrările sale publicate în ziarul american The New Yorker.\nHugo Râmniceanu (1917 - 2008), om de afaceri evreu;\nCostin Murgescu (1919 - 1989), economist, diplomat, academician.\nTeodor Oroveanu (1920 - 2005), inginer, membru corespondent al Academiei Române.\nAristide Halanay (1924 - 1997), matematician, profesor emerit al Universității din București;\nTitel Constantinescu (1927 - 1999), scriitor, regizor;\nIoan Mușat (n. 1928- 2002), amiral, comandant al Marinei Militare Române în perioada 1979-1989.\nElena Forțu (n. 1929), pictoriță, creatoare de costume de teatru și film.\nConstantin Doldur (n. 1939), jurist român, judecător la Curtea Constituțională a României (1998-2006).\nNegoiță Lăptoiu (n.1939), istoric, critic de artă, profesor universitar la Facultatea de Arte Vizuale din Oradea;\nSmaranda Oțeanu-Bunea (n. 1941), compozitoare română, critic muzical, membru al Uniunii Compozitorilor și Muzicologilor din România și al Uniunii Ziariștilor Profesioniști din România;\nVirgil Diaconu (n. 1948), scriitor;\nDumitru Pîslaru (n. 1950), profesor, deputat și fost ambasador al României în Algeria (2002-2006);\nValeriu Sterian (1952 - 2000), compozitor și interpret de muzică folk;\nPompiliu Iordache⁠(d) (1954 - 2006), fotbalist;\nAdrian Oțoiu (n. 1958), prozator, eseist, traducător.\nMaria Bitang (n. 1962), antrenoare de gimnastică a României, consilier de stat pentru promovarea sportului.\nLaura Popescu (n. 1972), diplomat, ambasador al României în Regatul Unit al Marii Birtanii;\nRomeo Bunică (n. 1974), fotbalist.\nRăzvan Dincă (n. 1976), avocat, profesor universitar și decan al Facultății de Drept a Universității din București;",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/râmnicu_sărat.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

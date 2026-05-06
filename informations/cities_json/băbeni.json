@@ -1,0 +1,51 @@
+{
+  "city_key": "băbeni",
+  "display_name": "Băbeni",
+  "metadata": {
+    "city": "Băbeni",
+    "city_key": "băbeni",
+    "country": "România",
+    "county": "Vâlcea",
+    "ethnic_roma_pct": 3.69,
+    "ethnic_romanians_pct": 83.54,
+    "ethnicity_unknown_pct": 12.73,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 8451,
+    "population_2021": 7570,
+    "religion_orthodox_pct": 86.0,
+    "religion_unknown_pct": 13.5,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2152,
+    "raw_char_count": 2678,
+    "section_count": 3,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 929,
+      "level": 1,
+      "text": "BăbeniAcest articol se referă la un oraș din județul Vâlcea. Pentru alte sensuri, vedeți Băbeni (dezambiguizare).\nBăbeni este un oraș în județul Vâlcea, Oltenia, România, format din localitatea componentă Băbeni (reședința), și din satele Bonciu, Capu Dealului, Pădurețu, Români, Tătărani și Valea Mare. Se află la circa 20 km sud de reședința județului, municipiul Râmnicu Vâlcea, și 30 km nord de municipiul Drăgășani, pe partea dreaptă a râului Olt.\nComuna Băbeni a devenit oraș prin legea nr. 429 din 27 iunie 2002. De aceeași localitate mai aparțin și satele Pădurețu, Români, Capu Dealului, Tătărani, Bonciu și Valea Mare. Este o veche localitate cunoscută ca reședință de plasă, apoi de raion, localitate cu oameni cu diferite preocupări cum sunt creșterea vitelor, oierit, agricultura, prelucrarea lemnului adus cu trenul de linie îngustă din munți, extracția petrolului.\nParalela 45 nord trece la câțiva km nord de oraș.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 673,
+      "level": 1,
+      "text": "Componența etnică a orașului Băbeni\nRomâni (83,54%) Romi (3,69%) Alte etnii (0,04%) Necunoscută (12,73%)\nComponența confesională a orașului Băbeni\nOrtodocși (86%) Alte religii (0,5%) Necunoscută (13,5%)\nConform recensământului efectuat în 2021, populația orașului Băbeni se ridică la 7.570 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 8.451 de locuitori. Majoritatea locuitorilor sunt români (83,54%), cu o minoritate de romi (3,69%), iar pentru 12,73% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (86%), iar pentru 13,5% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 173,
+      "level": 1,
+      "text": "Personalități născute aici\nAda Orleanu (1916 - 1990), inginer silvic, scriitoare;\nIoan Gavra (n. 1950), om politic;\nRadu Bîrzan (n. 1999), fotbalist;\nRomany Marie (n. 1885).",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/băbeni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "city_key": "săliștea_de_sus",
+  "display_name": "Săliștea de SusPentru alte sensuri, vedeți Săliștea (dezambiguizare).",
+  "metadata": {
+    "city": "Săliștea de SusPentru alte sensuri, vedeți Săliștea (dezambiguizare).",
+    "city_key": "săliștea_de_sus",
+    "country": "România",
+    "county": "Maramureș",
+    "ethnic_romanians_pct": 97.01,
+    "ethnicity_unknown_pct": 3.03,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 4893,
+    "population_2021": 4856,
+    "religion_orthodox_pct": 94.75,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2915,
+    "raw_char_count": 3911,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 708,
+      "level": 1,
+      "text": "Săliștea de SusPentru alte sensuri, vedeți Săliștea (dezambiguizare).\nSăliștea de Sus (în maghiară Felsőszelistye, în germană Oberselischte) este un oraș în județul Maramureș, Transilvania, România. Localitatea are o populație de 4.893 locuitori (2011) și a fost declarată oraș prin Legea nr. 83/2004, împreună cu alte trei localități din județul Maramureș: Tăuții-Măgherăuș, Șomcuta Mare și Ulmeni.\nIstoric\nPrima atestare documentară: 1365 (Keethzeleste).\nEtimologie\nEtimologia numelui localității: dintr-un nume topic Săliște (< subst. regional săliște „sat pustiit; locul pe care a fost așezat un sat; vatra satului\" < sl. selište „cort, locuință, curte\" < selo „moșie, ogor\"; cf. bg. selište) + de + Sus.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 178,
+      "level": 1,
+      "text": "Orașul Săliștea de Sus este situat în nordul României, în partea de sud-est a Depresiunii Maramureș, la poalele de nord-est ale Munților Țibleș, pe cursul superior al râului Iza.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 587,
+      "level": 1,
+      "text": "Componența etnică a orașului Săliștea de Sus\nRomâni (97,01%) Alte etnii (2,99%)\nComponența confesională a orașului Săliștea de Sus\nOrtodocși (94,75%) Alte religii (2,22%) Necunoscută (3,03%)\nConform recensământului efectuat în 2021, populația orașului Săliștea de Sus se ridică la 4.856 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 4.893 de locuitori. Majoritatea locuitorilor sunt români (97,01%). Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (94,75%), iar pentru 3,03% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 947,
+      "level": 1,
+      "text": "Biserica din lemn „Sfântul Nicolae” (denumită și „Biserica Nistoreștilor” sau „Biserica din Deal”), construită în anul 1650. A fost incendiată de tătari în 1717, fiind refăcută ulterior.\nBiserica din lemn „Sfântul Nicolae” (denumită și „Biserica Bulenilor” sau „Biserica din Vale”), construită în anul 1722. Are picturi originale pe pereții interiori și icoane datând din secolul al XVIII-lea.\nPersonalități locale\nGavrilă Iuga (1880 - 1940), doctor în drept, avocat, deputat în Parlamentul României Mari; prefect al jud. Maramureș (noiembrie 1928 - aprilie 1931).\nIon Iuga (1940-1993), poet, traducător. Vol. Tăceri neprimite (1969), Țara fântânilor (1971), Din Marmația (1977), Ieșirea din vis (1982) etc.\nDumitru Iuga (n. 1942), poet, etnolog. Vol. Cerb alb (1976), Mileniul provizoriu (1996).\nNicolae Iuga (n. 1953), profesor universitar, jurnalist;\nViorel Iuga (n.1962), pastor, președintele Uniunii bisericilor creștine baptiste din România.",
+      "title": "Obiective turistice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/săliștea_de_sus.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

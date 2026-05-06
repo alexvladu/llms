@@ -1,0 +1,59 @@
+{
+  "city_key": "săcueni",
+  "display_name": "SăcueniPentru alte sensuri, vedeți Săcueni (dezambiguizare).",
+  "metadata": {
+    "city": "SăcueniPentru alte sensuri, vedeți Săcueni (dezambiguizare).",
+    "city_key": "săcueni",
+    "country": "România",
+    "county": "Bihor",
+    "ethnic_roma_pct": 25.07,
+    "ethnic_romanians_pct": 5.91,
+    "ethnicity_unknown_pct": 6.73,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 11526,
+    "population_2021": 10720,
+    "religion_orthodox_pct": 6.27,
+    "religion_pentecostal_pct": 1.92,
+    "religion_roman_catholic_pct": 19.58,
+    "religion_unknown_pct": 6.98,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2589,
+    "raw_char_count": 3182,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 390,
+      "level": 1,
+      "text": "SăcueniPentru alte sensuri, vedeți Săcueni (dezambiguizare).\nSăcueni, alternativ Săcuieni, mai demult Podul Săcuilor, (în maghiară Székelyhíd, în trad. \"Podul Secuilor\", în germană Zickelhaid, Zeckelheid, Zickelhid) este un oraș în județul Bihor, Crișana, România, format din localitatea componentă Săcueni (reședința), și din satele Cadea, Ciocaia, Cubulcut, Olosig și Sânnicolau de Munte.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 968,
+      "level": 1,
+      "text": "Componența etnică a orașului Săcueni\nMaghiari (62,24%) Romi (25,07%) Români (5,91%) Alte etnii (0,06%) Necunoscută (6,73%)\nComponența confesională a orașului Săcueni\nReformați (52,24%) Romano-catolici (19,58%) Baptiști (6,84%) Ortodocși (6,27%) Penticostali (1,92%) Greco-catolici (1,04%) Alte religii (5,14%) Necunoscută (6,98%)\nConform recensământului efectuat în 2021, populația orașului Săcueni se ridică la 10.720 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 11.526 de locuitori. Majoritatea locuitorilor sunt maghiari (62,24%), cu minorități de romi (25,07%) și români (5,91%), iar pentru 6,73% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt reformați (52,24%), cu minorități de romano-catolici (19,58%), baptiști (6,84%), ortodocși (6,27%), penticostali (1,92%), greco-catolici (1,04%) și altele (2,43%), iar pentru 6,98% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 605,
+      "level": 1,
+      "text": "Orașul Săcueni este administrat de un primar și un consiliu local compus din 17 consilieri. Primarul, Csaba Béres[*]​, de la Uniunea Democrată Maghiară din România, este în funcție din 2008. Începând cu alegerile locale din 2024, consiliul local are următoarea componență pe partide politice:\nEvoluție demografică\nPopulația orașului, conform recensământului din anul 2002 era de 11.665 locuitori, din care 891 români, 9.010 maghiari, 1.747 romi, 17 alte etnii. Conform aceluiași recensământ, structura confesională, era următoarea : 832 ortodocși, 2.741 romano-catolici, 7.383 reformați, 719 altă religie.",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 515,
+      "level": 1,
+      "text": "Rezervația naturală „Lacul Cicoș” (10 hectare).\nPalatul Stubenberg din Săcueni, monument istoric datând din secolul al XVIII-lea.\nCâmpia Ierului (sit SCI)\nGalerie de imagini\nSăcueni în Harta Iosefină a Comitatului Bihor, 1782-85\nBiserica romano-catolică „Sfânta Maria Imaculata”\nBiserica reformată (față)\nBiserica reformată (lateral)\nCastelul Stubenberg (din față)\nPersonalități născute aici\nOszkár Tuduka (1928 - 2015), critic muzical, publicist, scriitor, profesor;\nSever Frențiu (1931 - 1997), pictor, scenograf.",
+      "title": "Obiective turistice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/săcueni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

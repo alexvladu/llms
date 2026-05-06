@@ -1,0 +1,87 @@
+{
+  "city_key": "darabani",
+  "display_name": "Darabani",
+  "metadata": {
+    "city": "Darabani",
+    "city_key": "darabani",
+    "country": "România",
+    "county": "Botoșani",
+    "ethnic_romanians_pct": 89.35,
+    "ethnicity_unknown_pct": 10.41,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 9893,
+    "population_2021": 11948,
+    "religion_orthodox_pct": 86.22,
+    "religion_pentecostal_pct": 1.37,
+    "religion_unknown_pct": 10.58,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 15913,
+    "raw_char_count": 16621,
+    "section_count": 9,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 384,
+      "level": 1,
+      "text": "Darabani\nPentru alte sensuri, vedeți Darabani (dezambiguizare).\nDarabani este un oraș în județul Botoșani, Moldova, România, format din localitatea componentă Darabani (reședința), și din satele Bajura, Eșanca și Lișmănița.\n. Se află în apropiere de frontiera triplǎ Moldova-România-Ucraina (nord). Este cel mai nordic oraș al României și are o populație de 11.948 de locuitori (2021)",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 1677,
+      "level": 1,
+      "text": "Orașul Darabani este situat în nordul județului Botoșani, cel mai nordic oraș din România, în apropierea orașului se află localitatea Horodiștea, extremitatea nordică a țării (48°15’06”N si 26°42’05”E).\nOrașul este așezat pe rama înaltă, nordică, a câmpiei Moldovei, într-o zonă deluroasă, cu interfluvii colinare, deluroase sub formă de mici platouri joase, între 125 metri (șesul râului Prut) și 264 metri (dealul Buleandra). Relieful natural a fost modificat în sudul orașului prin terasare.[necesită citare]\nTeritoriul orașului are o formă alungită orientată pe direcția NV-SE. Principalele ape ce străbat teritoriul orașului sunt râul Prut și râul Podriga, cu afluenții lor. Vegetația este caracteristică zonei de deal. Solurile predominante sunt reprezentate de cernoziomuri cambice.\nHidrografie\nPrincipalele ape de pe teritoriul localității sunt:\nrâul Prut, pe cursul căruia este stabilită granița cu Ucraina\npârâul Podriga, care izvorăște din locul numit „Budăiul Fundoaiei” din apropierea Bajurei și care formează în apropierea Darabaniului cele două iazuri Bălășescu, amenajate pentru piscicultură\npârâul cu mai multe denumiri[necesită citare] – Buleandra, Eșanca, Iepărie, Seliștea care izvorăște din pădurea Buleandra și se varsă în pârâul Podriga\niazul „La Căpitanul” de la Bajura\niazul „La Gheorghiu” de la Bajura.\nPânzele de apă subterană și cele freatice propriu–zise se găsesc la o adâncime medie de 8–12 m, care scade spre fundul văilor, unde izvoarele sunt la suprafața solului. Există câteva izvoare cu apă rece, deosebit de bună de băut în mai multe locuri ale orașului și în cartierele și satele aparținătoare Darabaniului, cum ar fi \"Sipotul\" din Bajura.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 2367,
+      "level": 1,
+      "text": "Clima este temperat–continentală, caracteristică zonei exterioare Munților Carpați.\nDinamica atmosferei în zona orașului Darabani se caracterizează printr–o dominare a maselor de aer de la nord–vest, de origine maritimă, răcoroase și umede pentru primăvară și început de vară, de aer cald–tropical, vara și rece–polar, iarna. Temperatura medie anuală este de 8,4 grade C, cu o amplitudine medie anuală de 25,2 grade C, iar precipitațiile anuale au valori de 500 mm, în timp ce media anuală a zilelor cu zăpadă este de 37,7 zile. Vânturile dominante, bat din direcția nord–vest spre sud–est; iarna bate crivățul dinspre est, un vânt local ce aduce ger și viscolește zăpada, troienind-o.\nFloră\nVegetația teritoriului localității Darabani este împărțită în două zone: una cu pădure de foioase și alta de silvostepă, mult transformate din cauza activității omului. Pădurile conțin diverși arbori cum ar fi stejar (Quercus robur), carpen (Carpinus betulus), tei, frasin (Fraxinus excelsior L.), arțar, cireș (Prunus avium), plop.\nCea mai mare parte a teritoriului este formată din pământ arabil, destinat agriculturii, cu soluri fertile (cernoziomuri cambice), unde se cultivă porumb, cartofi, sfecla de zahăr, grâu etc. Există și terenuri acoperite cu pășuni și fânețe.\nFaună\nFauna este bogată atât în zona împădurită, cât și în zonele agricole și în cea acvatică.\nResurse naturale\nDărăbani pe harta toponimică a Hudeștiului\nÎn raza satului Bajura se găsește, la mare adâncime, nisip cuarțos (silicos), îmbibat cu apă. Stratul de nisip ocupă o suprafață de circa 40 km pătrați, în grosime de 3–17 m, care poate fi exploatat prin metoda „aer – lift”.\nLa Podriga (2 km sud–vest de Darabani) forajele au întâlnit gaz metan sub presiune, provenit din descompunerea unor substanțe organice.\nÎn apropierea orașului există zăcăminte importante de nisip alb (în zona Hudești) și de gips (în zona Ivancăuți), ambele de mare importantă economică, însă neexploatate la adevăratul lor potențial. Astfel, exploatarea de la Hudești funcționează la numai 10% din capacitate, deși nisipul de acolo are o puritate de 99,8%, care îl situează pe primul loc în Europa la capitolul calitate. Zăcământul de gips de la Ivancăuți este estimat a fi primul ca mărime din România și al patrulea într-un top similar la nivel european.[cine?]\nDorohoi (35,1 km SV)\nBotoșani (59 km S)\nSăveni (43 km SE)",
+      "title": "Climă"
+    },
+    {
+      "char_count": 2208,
+      "level": 1,
+      "text": "Prima atestare documentară a localității (numită atunci Căbiceni) datează din 1546, într-un act de danie[necesită citare] semnat de către domnitorul Petru Rareș. Localitatea este numită pentru prima oară Darabani într-o hartă din 1725, ca apoi să fie amintitǎ în celebra “Catagrafia Moldovei” din 1774.\nStema interbelică\nÎn 1834, hatmanul și marele logofăt Theodor Balș, proprietarul moșiei Darabani, își inaugurează aici conacul cu douăzeci și patru de încăperi, edificiu dominat de stilul arhitectonic grecesc. Actul de întemeiere a târgului Darabani este emis, la cererea lui Balș, în 1837 și poartă pecetea domnitorului Mihail Sturdza.\nÎntre 1834 și 1840 se construiește biserica Sfântul Nicolae, ctitoria hatmanului Balș. În 1841 se înființează la Darabani prima școală sătească de stat din Moldova și se folosește prima ștampilă cu inscripția “Târgul Darabani”.\nÎn urma unei înțelegeri între proprietarul moșiei și locuitorii evrei ai târgului, prin care populația minoritară a fost favorizată economic, începe un puternic exod către târgul Darabani dinspre ținuturile basarabene. În acest fel, populația evreiască crește numeric exploziv până prin anii 1870, contribuind decisiv la dezvoltarea comerțului și economiei locale.\nÎn 1865 se dau în folosință publică primul post telegrafic și prima șosea pietruită. Spitalul târgului se inaugurează în 1895, prima farmacie în 1901, judecătoria în 1912, iar Ateneul cultural și biblioteca publică în 1924. Din 1872 stăpâna moșiei este Smaranda, fiica marelui logofăt Balș, care o administrează împreună cu soțul său grec George Cimara până în 1885.\n1957 este anul de debut al învățământului liceal din Darabani, iar în 1968, în urma reformei teritoriale, localitatea devine oficial oraș.\nEtimologie\nInițial localitatea s-a numit Căbiceni iar denumirea actuală a căpătat-o (\"în urmă dupre numele stării sociale a locuitorilor, cari aparțineau la căpitenia locală a corpului Darabanilor\"). Această numire se deduce, după unii de la nemțescul Trabani ce înseamnă pedestrași, dupa alții de la turcescul DER-BAN, adică păzitor de poartă. Darabanii constituiau un corp de armată pedestru și permanent. Din acest corp de armată se luau străjile la curtea Domnului.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1271,
+      "level": 1,
+      "text": "Componența etnică a orașului Darabani\nRomâni (89,35%) Alte etnii (0,23%) Necunoscută (10,41%)\nComponența confesională a orașului Darabani\nOrtodocși (86,22%) Adventiști (1,66%) Penticostali (1,37%) Alte religii (0,17%) Necunoscută (10,58%)\nConform recensământului efectuat în 2021, populația orașului Darabani se ridică la 11.948 de locuitori, în creștere față de recensământul anterior din 2011, când fuseseră înregistrați 9.893 de locuitori. Majoritatea locuitorilor sunt români (89,35%), iar pentru 10,41% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (86,22%), cu minorități de adventiști (1,66%) și penticostali (1,37%), iar pentru 10,58% nu se cunoaște apartenența confesională.\nEvoluție istorică\nÎn anul 2002 populația orașului era de 11.646 locuitori dintre care 5782 de sex masculin și 5864 feminin.\nÎn 1774 la Darabani locuiau 90 de familii, conform scrierilor vremii. Recensământul din 1845 consemnează la Darabani numărul de 1120 de locuitori, iar cel din 1860 plasează târgul pe locul al 34-lea în topul celor mai locuite localități urbane din Moldova, cu 1641 locuitori.\nDarabani - evoluția demografică\n0200040006000800010.00012.000193019481977199220022011populațiePopulația istorică din Darabani",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 209,
+      "level": 1,
+      "text": "Bancă ornamentală lângă clădirea primăriei\nOrașul are în componență cartierele Bombeni, Cornești, Lucovița, Mărgineni, Suseni, Teioasa și satele Bajura, Eșanca și Lișmănița. Suprafața orașului este de 3,2 km².",
+      "title": "Administrație"
+    },
+    {
+      "char_count": 554,
+      "level": 1,
+      "text": "Majoritatea populației este ocupată în agricultură. În localitate există însă și mai multe facilități de producție: câteva centre de prelucrare a cărnii și a laptelui, o fabrică de încălțăminte. Ponderea serviciilor a crescut și ea în ultimii ani, odată cu dezvoltarea comunității economice locale.\nTransporturi și comunicații\nArtera principală de circulație în Darabani este drumul național 29A, care străbate orașul dinspre Dorohoi spre Rădăuți-Prut. Numai 5% din lungimea totală a drumurilor din interiorul localității este asfaltată.[necesită citare]",
+      "title": "Economie"
+    },
+    {
+      "char_count": 1951,
+      "level": 1,
+      "text": "În Darabani\nBiserica „Sfântul Nicolae”, oglindită într-o construcție nouă din oraș\nBiserica Sfântul Nicolae, ctitorită între 1834 și 1840 de către Theodor Balș, marele logofăt al Moldovei. O monografie a Darabaniului, publicată în anii 1930, susține că vechea biserică din centrul orașului ar fi fost realizată după planurile uneia dintre cele mai mari biserici ale creștinătății, Sfânta Sofia din Constantinopol (actualmente Istanbul)[necesită citare].\nConacul Theodor Balș\nConacul Theodor Balș, astăzi sediul Bibliotecii Orășenești și al Muzeului Nordului, a fost construit în secolul XIX, la ctitorirea târgului modern al Darabanilor.\nMuzeul Nordului, amenajat la etajul conacului Theodor Balș din localitate, în jurul unei impresionante colecții de istorie și etnografie locală aparținând colecționarului Dumitru Haha.\nMuzeul Acad. Leon Dănăilă, amplasat în casa părintească a academicianului. Muzeul recompune, în patru încăperi, cele mai importante aspecte ale vieții și operei lui Leon Dănăilă.\nCimitirele evreiești, date în folosință în secolul al XIX-lea (1838, respectiv 1883).\nPoiana celor Patru Stejari, sădiți, conform legendei, de Ștefan cel Mare în timp ce se întorcea în țară după bătălia de la Lipnik.\nLunca Prutului\nÎn apropiere\nCasa Sfântului Ioan Iacob Hozevitul, din Horodiștea (aprox. 14 km depărtare), amenajată ca și casă memorială.\nMănăstirea Sfânta Treime de la Eșanca.\nCasa Memorială Ion Pillat de la Miorcani, unde familia poetului deținea o moșie.\nExpoziția Memorială Dimitrie Brândză de la Viișoara, unde familia omului de știință deținea o moșie.\nCasa Memorială George Enescu de la Liveni, locul de naștere al compozitorului\nEvenimente culturale\nZilele Orașului Darabani, eveniment desfășurat între aniversarea înființării târgului Darabani (21 iunie) și sărbătoarea Sânzienelor (24 iunie);\nFestivalul Datinilor și Tradițiilor de Iarnă, desfășurat înaintea Crăciunului;\nFestivalul de muzică populară „Dan Decebal Chitic”",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 2978,
+      "level": 1,
+      "text": "Personalități născute în Darabani\nGheorghe Cliveti (n. 1952), istoric, profesor la Universitatea Al. I. Cuza din Iași, autor a numeroase lucrări din domeniul istoriei.\nLeon Dănăilă (n. 1933), neurochirurg, membru al Academiei Române din 2004. Este, de asemenea, membru al Academiei de Științe Medicale din 1992.\nDorin Dobrincu (n. 1972), istoric, cercetător științific la Institutul A.D. Xenopol din Iași, fost director al Arhivelor Naționale ale României.\nVictor Teișanu (n. 1950), poet și jurnalist, membru al Uniunii Scriitorilor din România, autor a 14 volume de poezie și critică literară. Este laureat al mai multor premii literare în România și R. Moldova și inițiator al mai multor proiecte și instituții culturale (Revista de cultură Hyperion, Cenaclul Literar Nicolae Labiș, Casa Memorială Acad. Dr. Leon Dănăilă).\nIancu Duzinschi (1889-1988), învățător. A făcut parte din primul Parlament al României, din partea grupării politice naționalist-democrată condusă de Nicolae Iorga.\nHerman Focșăneanu (1888-1931), avocat, Președintele Baroului București.\nGheorghe Moroșanu (n. 1950), matematician, profesor la Universitatea \"Babeș-Bolyai\" din Cluj-Napoca, după ce a deținut poziții la Universitatea Central Europeană, Universitatea din Stuttgart și Universitatea „Alexandru Ioan Cuza” din Iași.\nCorneliu Popel (1950-1979), poet. A fost unul dintre poeții importanți ai generației sale. A publicat patru volume apreciate în critica de specialitate.\nAna Maria Dragut (n. 1990), handbalistă;\nMihaela Păcurar (n. 1955), decorator, pictor.\nGheorghe Bunduc (n.1943), senator\nMarieta Ilcu (n. 1962), atletă.\nPersonalități care au locuit în Darabani\nTheodor Balș (1790 – 1867), hatman și mare logofăt al Moldovei în vremea domniei lui Mihail Sturdza. Este întemeietorul târgului Darabani, ctitorul Bisericii Sf. Nicolae și al conacului din localitate, precum și al primei școli sătești de stat din Moldova, tot la Darabani.\nRemus Bălănescu (1883–1938), avocat, deputat și senator. S-a născut în fostul județ Dorohoi, dar s-a stabilit la Darabani după terminarea facultății. A fost primar al orașului Darabani în mai multe mandate, prima oară fiind ales în această funcție în 1911.\nPartenie Ciopron (1896-1980), ultimul Episcop Militar al Armatei Române, deținut politic în regimul comunist, înmormântat la Mănăstirea Văratec. Este născut la Păltiniș, în apropierea Darabaniului și a făcut liceul la Darabani.\nIlie Gârneață (1898-1973), avocat. A fost unul dintre cei 5 fondatori ai mișcării legionare, alături de Corneliu Zelea-Codreanu. S-a născut la Iași, dar și-a petrecut întreaga copilărie la Darabani, de unde se trăgea familia sa.\nGică Manole (n. 1953), istoric și eseist român. S-a născut în localitatea Tătărășeni și a făcut liceul la Darabani.\nLucian Valea (1924-1992), scriitor și publicist român, născut în județul Bistrița. A locuit la Darabani vreme de 5 ani și a dezvoltat ample activități culturale aici vreme de trei decenii, în timpul surghiunului său comunist.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/darabani.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

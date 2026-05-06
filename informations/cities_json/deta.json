@@ -1,0 +1,83 @@
+{
+  "city_key": "deta",
+  "display_name": "Deta",
+  "metadata": {
+    "city": "Deta",
+    "city_key": "deta",
+    "country": "România",
+    "ethnic_roma_pct": 2.87,
+    "ethnic_romanians_pct": 65.66,
+    "ethnicity_unknown_pct": 15.06,
+    "has_hospital": true,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6260,
+    "population_2021": 5670,
+    "religion_orthodox_pct": 57.05,
+    "religion_pentecostal_pct": 2.17,
+    "religion_roman_catholic_pct": 18.73,
+    "religion_unknown_pct": 16.37,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 10670,
+    "raw_char_count": 11572,
+    "section_count": 8,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 570,
+      "level": 1,
+      "text": "Este așezat în câmpia joasă a râului Bârzava si este traversată de râul Birdeanca, afluent al Bârzavei care îi perioadele de inundații are rol de supapă a Bârzavei.\nLocalitatea are o latitudine nordică de 45°23’ și o longitudine estică de 21°12’, fiind situată la un nivel de 91 m. deasupra mării. Din teritoriul administrativ al orașului Deta face parte și satul Opatița, situat la o distantă de 3,5 km fata de oras, pe DC 172 (Deta-Birda);\nDeta se află la o distanță de 43 km sud de Timișoara pe DN59 (respectiv E70) și la 18 km de granița cu Serbia(118 km de Belgrad)",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 4116,
+      "level": 1,
+      "text": "Pe teritoriul orașului au fost descoperite vestigii arheologice din epoca bronzului, din perioadele dacică, prefeudală și feudală. În perioada romană aici a existat castrul roman Potula. Prima atestare documentară a localității Deta are loc în 1360, sub denumirea de Ded, fiind posesie a nobilului Petrus de Deed, de la care derivă numele actual. În anii 1411 și 1427, localitatea este consemnată cu denumirile Ded și respectiv Dedu Mic. În perioada dominației otomane, decade.\nÎn jurnalele de călătorie din 1660 - 1664, călătorul turc Evliya Çelebi care vizita Banatul, afirmă că Deta era locuită de români.\nDin anul 1724, când a inceput colonizarea Banatului de către germanii provenind din Bavaria și Alsacia/Lorena, localitatea a renăscut, denumirea ei fiind transformată în Detta. Colonizările au început în 1737 și au durat până pe la 1794, iar pe lângă germani au mai fost colonizate și câteva familii de italieni. În secolul XIX cunoaște o dezvoltare rapidă, în special după 1858 - anul în care a fost dată în folosință calea ferată Timișoara - Jamu Mare, care trecea prin Deta. La 1810, era deja declarată oraș. În 1858 se dă în folosință calea ferată Timișoara - Baziaș, care trecea prin Deta. Deschiderea căii ferate creează condiții favorabile pentru comerțul cu cereale și animale. Pe aceste două componente, localitatea reușește în scurt timp să-și construiască prosperitatea.\nÎn 1867, după încorporarea Banatului la Ungaria, s-a înființat plasa Deta, cu 13 comune, care aparținea de comitatul Timiș. Tot atunci este recunoscută drept important centru economic. Cunoaște o însemnată dezvoltare edilitară, se construiesc școli, instituții, se efectuează lucrări de canalizare, se toarnă trotuare și se introduce telefonul (1899). În secolul XIX se construiește Hotelul Bellavista, loc de întâlnire a târgoveților români și sârbi din zonă. În 1902 se construiește uzina electrică și se introduce iluminatul electric.\nÎn lucrarea Ghidul Banatului de Emil Grădinariu, din 1936, Deta era descrisă astfel:\nFrumos și îngrijit orășel de câmpie, cu străzi bine întreținute, trotuare asfaltate, în centru având o serie de clădiri remarcabile, cum sunt biserica romano- catolică, primăria, hotelul și cafeneaua „Bellavista\", etc. Este sediul preturii cu același nume și este un foarte însemnat centru industrial. Are 4.070 locuitori, majoritatea germani, apoi români și puțini maghiari și sârbi. A cunoscut din nou o perioadă de criză și a decăzut de la statutul de oraș, intrând în rândul localităților rurale.\nDupă al Doilea Război Mondial, Deta cunoaște o nouă etapă în dezvoltarea sa, de această dată marcată de ideologia și organizarea comunistă. În 1968 primește statutul de oraș (pentru a treia oară în istoria sa). Se construiesc noile cartiere de blocuri, se aduc noi instituții publice, etc.\nStema orașului\nStema oficială a orașului Deta a fost adoptată de Guvern prin Hotărârea nr. 108/2013.\nAceasta se compune dintr-un scut triunghiular cu marginile rotunjite, tăiat. În partea superioară, în câmp de hermină, se află o coroană imperială de aur. În vârful scutului, în câmp roșu, se află două mâini înfrățite care susțin o cruce cu capetele treflate, flancată de o parte și de alta de două cununi de grâu, fiecare cu câte 6 spice de aur. Scutul este timbrat de o coroană murală de argint cu 3 turnuri crenelate.\nSemnificațiile elementelor însumate\nCoroană imperială face referire la coroana lui Carol al II-lea, simbol care reprezintă un sigiliu al unui act oficial din 1724, prin care se atestă documentar această localitate; așezarea coroanei pe câmpul de hermină atestă faptul că localitatea a aparținut de-a lungul timpului unor nobili ai Casei regale de Habsburg.\nCele două cununi de grâu reprezintă una din ocupațiile de bază ale locuitorilor, agricultura.\nCele două mâini înfrățite și crucea simbolizează buna înțelegere, armonia, înfrățirea oamenilor de diferite etnii care locuiesc în zonă.\nCrucea reprezintă atât crucea greacă, simbol al ortodoxiei, cât și crucea latină, simbol al credinței catolice.\nCoroana murală cu 3 turnuri crenelate semnifică faptul că localitatea are rangul de oraș.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1611,
+      "level": 1,
+      "text": "Componența etnică a orașului Deta\nRomâni (65,66%) Maghiari (8,78%) Sârbi (3,35%) Romi (2,87%) Germani (2,35%) Bulgari (1,38%) Alte etnii (0,55%) Necunoscută (15,06%)\nComponența confesională a orașului Deta\nOrtodocși (57,05%) Romano-catolici (18,73%) Ortodocși sârbi (3,1%) Penticostali (2,17%) Alte religii (2,57%) Necunoscută (16,37%)\nConform recensământului efectuat în 2021, populația orașului Deta se ridică la 5.670 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.260 de locuitori. Majoritatea locuitorilor sunt români (65,66%), cu minorități de maghiari (8,78%), sârbi (3,35%), romi (2,87%), germani (2,35%) și bulgari (1,38%), iar pentru 15,06% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (57,05%), cu minorități de romano-catolici (18,73%), ortodocși sârbi (3,1%) și penticostali (2,17%), iar pentru 16,37% nu se cunoaște apartenența confesională.\nDeta - evoluția demografică\n0100020003000400050006000700080001977199220022011populațiePopulația istorică din Deta\nEvoluție demografică\nPopulația comitatului Deta\nStructura confesională\nSub profil confesional, populația orașului prezintă un caracter bipolar. Astfel, la recensământul din 2002, majoritatea populației (circa două treimi) s-a declarat de religie ortodoxă, procentul fiind de 63% (4.068 locuitori). Al doilea grup major este cel romano-catolic, care reprezintă circa 1 treime, cu 2.025 de adepți (31,55%). Alte culte sunt prezente, însă au o pondere mult mică (penticostali 2,55%, baptiști, reformați și alte culte sub 1% fiecare).",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 1261,
+      "level": 1,
+      "text": "Industria este cea mai importantă ramură economică. Tradițional, aici s-au dezvoltat fabrici de prelucrare a lemnului (placaje, furnire) precum și industria exploatării de argilă. După revoluția din 1989, dezvoltării i se pune o puternică frână, pentru ca după anul 2000 Deta să pornească din nou într-un proces de dezvoltare. O serie de investitori străini, unele companii multinaționale, au deschis aici numeroase fabrici care au polarizat activitatea economică și resursele umane din localitate și din zona de influență.\nPrincipalul angajator din oraș este fabrica companiei Eybl AG, cu profil textil, specializată în producția de componente interioare pentru automobile (volane, tapițerii pentru BMW, Mercedes, Volkswagen, Jaguar, Renault). Aceasta are peste 1.900 de angajați, din care 1.100 din Deta, restul fiind captați din localitățile înconjurătoare. Alte companii sunt prezente în domeniile prelucrării lemnului, industria alimentară, textile.\nO etapă importantă în dezvoltarea economică a constituit-o deschiderea șoselei de centură.\nConstruită cu fonduri europene și de la guvern, aceasta permite orașului să se extindă și să atragă noi investitori. Centura are circa 8 km lungime și deviază traficul de pe drumul european E70 Timișoara - Moravița.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 1603,
+      "level": 1,
+      "text": "Instituții culturale\n- Casa de Cultură Deta\n- Muzeul Deta\n- Biblioteca Deta\n- Cămin cultural Opatița\nMonumente\n- Monumentul eroilor căzuți în Primul Război Mondial: Deta;\n- Monumentul eroilor căzuți în Al Doilea Război Mondial: Deta\n- Placă comemorativă în memoria cetățenilor din Deta deportați în Rusia: Deta\n- Monument - Glorie eternă eroilor din orașul Deta căzuți în luptele pentru apărarea patriei: Deta\n- Monument - Glorie eternă eroilor din Opatița căzuți în Al Doilea Război Mondial: Opatița\n- Monument în amintirea eroilor căzuți în războiul mondial anii 1914-1918: Opatița\n- Monument - Bustul lui Ferdinand I, inaugurat la 28 iulie 2018, in cadrul Programului Centenar. Bustul a fost realizat cu sprijinul Societatii Cultural-istorice \"Mihai Viteazul\" Ploiesti (condusa de ing. Mircea Cosma).\nBiserici, mănăstiri și lăcașe de cult\n- Biserica ortodoxă română Deta (2008)\n- Biserica ortodoxă română Opatița (1725)\n- Biserica romano-catolică Deta (1900)\n- Biserica ortodoxă sârbă Deta (sec.XVIII)\n- Biserica baptistă Deta\n- Biserica penticostală Deta\n- Biserica reformată Deta\n- Mânăstire sârbească menționată la mijlocul secolului al XIX-lea\nAlte manifestări cultural-religioase\n- Ruga ortodoxă în localitățile: Opatița (de Sfintele Paști) și Deta (de Rusalii);\n- Ruga catolică în localitatea Deta (iulie - de Sf. Ana);\n- Ruga ortodoxă - sârbească în localitatea Deta (15 septembrie - Soborul sfinților sârbi);\nInvățământ\n- Liceul Tehnologic \"jvad.nazari\" Deta\n- Școala cu clasele I-VIII Deta\n- Școala cu clasele I-IV Opatița\n- Grădinițe cu program normal:\n- Grădinița cu program prelungit Deta",
+      "title": "Cultură"
+    },
+    {
+      "char_count": 507,
+      "level": 1,
+      "text": "- Spitalul Orășenesc Deta\n- Cabinete medicale pe diferite specializări: Deta (treisprezece), Opatița (două)\n- Cabinete stomatologice: Deta (trei)\n- Farmacii: Deta (patru)autentificat\n- Farmacii veterinare: Deta (trei)\nAgrement\n- Stadionul de fotbal Deta\n- Bază sportivă în localitatea Opatița\n- Teren de tenis Parc Deta\n- Sala de sport a orașului Deta\n- Ștrand Termal Deta\n- Ștrandul tineretului olimpic Deta\n- Teren de minifotbal „Maracana“ Deta\n- Teren de handbal, Liceul Tehnologic \"Sfântul Nicolae\" Deta",
+      "title": "Sănătate"
+    },
+    {
+      "char_count": 145,
+      "level": 1,
+      "text": "Deta în Harta Iosefină a Banatului, 1769-72\nOrașul Deta este înfrățit cu următoarele localități:\nBordány, Ungaria\nČoka, Serbia\nGaglianico, Italia",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 33,
+      "level": 1,
+      "text": "Ovidiu Ganț (n. 1966), politician",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/deta.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

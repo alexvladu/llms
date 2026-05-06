@@ -1,0 +1,52 @@
+{
+  "city_key": "săveni",
+  "display_name": "SăveniPentru alte sensuri, vedeți Săveni (dezambiguizare).",
+  "metadata": {
+    "area_ha": 5866,
+    "city": "SăveniPentru alte sensuri, vedeți Săveni (dezambiguizare).",
+    "city_key": "săveni",
+    "country": "România",
+    "county": "Botoșani",
+    "ethnic_roma_pct": 2.51,
+    "ethnic_romanians_pct": 87.11,
+    "ethnicity_unknown_pct": 10.31,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6999,
+    "population_2021": 6447,
+    "religion_orthodox_pct": 88.3,
+    "religion_unknown_pct": 10.61,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3263,
+    "raw_char_count": 3985,
+    "section_count": 3,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1490,
+      "level": 1,
+      "text": "SăveniPentru alte sensuri, vedeți Săveni (dezambiguizare).\nSăveni este un oraș în județul Botoșani, Moldova, România, format din localitatea componentă Săveni (reședința), și din satele Bodeasa, Bozieni, Chișcăreni, Petricani și Sat Nou. Are o populație de 10.000 de locuitori.\nIstoric\nLocalitatea Săveni este atestată ca sat, într-un document datând din 11 aprilie 1546 din vremea lui Petru Rareș. În anul 1818, prin hrisovul domnesc al lui Scarlat Callimachi, localitatea primește drept de târg, cu 12 iarmaroace anual.\nTârgul Săvenilor a fost centrul Plasei Bașeu, iar din 1950 a fost comună centru de raion. În anul 1968 a fost declarat oraș.\nAșezare geografică\nAșezat la întretăierea unor vechi artere de circulație - drumul de pe Valea Bașeului și cel ce leagă județul Botoșani cu Valea Prutului, orașul Săveni aparține zonei de nord-est a Câmpiei Moldovei. În cadrul județului are o poziție estică și se află la o distanță de 35 km de municipiul Botoșani, 43 km de municipiul Dorohoi, 41 km de orașul Darabani și la 25 km de cursul râului Prut. Se mărginește cu comunele: Drăgușeni la nord-vest, Avrămeni la nord-est, Știubieni la vest, Ungureni la sud-vest și Vlăsinești la sud și sud-est. Orașul, împreună cu satele componente - Bodeasa, Bozieni, Chișcăreni, Petricani și Sat-Nou, se întinde pe o suprafață de 5866 ha.\nInformații\nSuprafața—5.965 ha\nIntravilan—491 ha\nExtravilan—5.474 ha\nGospodarii—2.779\nNumăr de locuițe—2.841\nNumăr de gradinițe—3\nNumăr de școli—2\nNumăr de licee—1",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 796,
+      "level": 1,
+      "text": "Componența etnică a orașului Săveni\nRomâni (87,11%) Romi (2,51%) Alte etnii (0,06%) Necunoscută (10,31%)\nComponența confesională a orașului Săveni\nOrtodocși (88,3%) Alte religii (1,09%) Necunoscută (10,61%)\nConform recensământului efectuat în 2021, populația orașului Săveni se ridică la 6.447 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.999 de locuitori. Majoritatea locuitorilor sunt români (87,11%), cu o minoritate de romi (2,51%), iar pentru 10,31% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (88,3%), iar pentru 10,61% nu se cunoaște apartenența confesională.\nSăveni - evoluția demografică\n0200040006000800010.000193019481977199220022011populațiePopulația istorică din Săveni",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 712,
+      "level": 1,
+      "text": "Alexandru Ciucă (1880 - 1972), medic veterinar, profesor universitar, membru corespondent al Academiei Române (1946)\nMihai Ciucă (1883 - 1969), bacteriolog și parazitolog, profesor universitar și academician (din 1938)\nV. Em. Galan (1921 - 1995), prozator, autor de romane cu tematică proletcultistă\nSammy Lerner (1903 - 1989), muzician american de origine română\nEmanoil Marcu (n. 1948), traducător, scriitor, membru al Uniunii Scriitorilor din România\nCristian Bădiliță (n. 1968), teolog, publicist\nDănuț Oprea (n. 1972), antrenor de fotbal;\nAlexandru Țigănașu (n. 1990), fotbalist;\nClaudiu Juncănaru (n. 1996), fotbalist.\nGalerie\nCentru\nBiserica Sfântul Nicolae\nMuzeul\nPrimăria\nSinagoga\nCinema Patria\nSpitalul",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/săveni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

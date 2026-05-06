@@ -1,0 +1,68 @@
+{
+  "city_key": "sinaia",
+  "display_name": "Sinaia",
+  "metadata": {
+    "city": "Sinaia",
+    "city_key": "sinaia",
+    "country": "România",
+    "county": "Prahova",
+    "ethnic_romanians_pct": 83.2,
+    "ethnicity_unknown_pct": 15.62,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2021": 9071,
+    "religion_orthodox_pct": 79.84,
+    "religion_roman_catholic_pct": 1.33,
+    "religion_unknown_pct": 16.96,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 9579,
+    "raw_char_count": 10950,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 788,
+      "level": 1,
+      "text": "Sinaia\nSinaia este un oraș în județul Prahova, Muntenia, România. Situat în Valea Prahovei, el s-a dezvoltat odată cu această regiune turistică și a fost ales drept reședință regală de către Carol I, care a construit aici castelul Peleș.\nAșezare\nModel 3D al reliefului zonei Sinaia\nOrașul se află în nord-vestul județului, la limita cu județul Dâmbovița, pe malurile Prahovei, acolo unde aceasta primește apele micului afluent Peleș. Este străbătut de șoseaua națională DN1, care leagă Ploieștiul de Brașov. La Sinaia, din acest drum se ramifică șoseaua națională DN71, care duce spre sud-vest la Târgoviște, Răcari și Tărtășești (unde se termină în DN7 aproape de București). Prin oraș trece și calea ferată Ploiești-Brașov, pe care este deservit de stația Sinaia și de halta Sinaia Sud.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 820,
+      "level": 1,
+      "text": "Componența etnică a orașului Sinaia\nRomâni (83,2%) Alte etnii (1,18%) Necunoscută (15,62%)\nComponența confesională a orașului Sinaia\nOrtodocși (79,84%) Romano-catolici (1,33%) Alte religii (1,87%) Necunoscută (16,96%)\nConform recensământului efectuat în 2021, populația orașului Sinaia se ridică la 9.071 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 10.410 locuitori. Majoritatea locuitorilor sunt români (83,2%), iar pentru 15,62% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (79,84%), cu o minoritate de romano-catolici (1,33%), iar pentru 16,96% nu se cunoaște apartenența confesională.\nSinaia - evoluția demografică\n030006000900012.00015.00018.00019121948196619922011populațiePopulația istorică din Sinaia",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 3077,
+      "level": 1,
+      "text": "Zona des împădurită de pe Valea Prahovei în care se află azi orașul Sinaia era nelocuită în secolul al XVII-lea, primii locuitori care s-au stabilit în pădurea virgină de aici, aflată la poalele Bucegilor, fiind călugării mănăstirii Sinaia, ctitorită între 1690-1695 de către marele spătar Mihai Cantacuzino, precum și niște scutelnici care se ocupau cu paza mănăstirii și cultivarea moșiilor acesteia. Orașul a luat numele mănăstirii, iar mănăstirea a fost denumită așa după călătoria spătarului la Mănăstirea Sfânta Ecaterina din peninsula Sinai.\nLa începutul secolului al XIX-lea, întreaga Vale a Prahovei era organizată ca o singură comună, denumită Podul Neagului, cuprinzând întreaga vale, de la Predeal la Posada. În 1864 cătunele Posada și Podul Neagului au fost alipite comunei Comarnic.\nLa 5 august 1866 principele Carol I al României a ajuns la Mănăstirea Sinaia, situată pe atunci în comuna Podul Neagului. Acesta s-a implicat în organizarea regiunii și, în 1874, cătunele rămase în afara comunei Comarnic au primit numele de Sinaia, o comună cu reședința la Bușteni. Un proces-verbal datat 1 decembrie 1874 atestă că reședința comunei Podul Neagului a fost mutată la Sinaia, care și-a primit astfel numele în acel an (de la cel al Mănăstirii Sinaia, al cărei nume provine la rândul său de la cel al Muntelui Sinai).\nLa 9 mai 1880 Sinaia a dobândit statutul de comună urbană și cuprindea cătunele Izvor, Furnica și Poiana Țapului. Intravilanul orașului Sinaia a fost astfel desprins din domeniul comunei Podul Neagului, care și-a mutat reședința înapoi la Comarnic. În 1884, cătunele Predeal, Azuga, Bușteni și Poiana Țapului s-au separat de Sinaia, formând comuna Predeal, în vreme ce comuna Sinaia a rămas cu cătunele Izvoru și Furnica. În aceeași perioadă, familia regală a României și-a stabilit la Sinaia reședința de vară, construind complexul castelului Peleș. La sfârșitul secolului al XIX-lea, comuna avea o populație de 2210 locuitori, o școală mixtă frecventată în 1899 de 103 elevi, hoteluri, gară pe calea ferată Ploiești-Brașov, clinică de hidroterapie și mănăstirea Sinaia.\nTot în acea perioadă, orașul a început să devină unul industrializat, apărând o fabrică de cherestea, proprietatea industriașilor Popovici și Costinescu, ultimul deținând și o fabrică de var hidraulic. De asemenea, în ianuarie 1892 a fost deschisă și o fabrică de cuie de fier, care avea 45 de angajați, români și germani. Din punct de vedere administrativ, comuna era reședința plaiului Peleșul din județul Prahova.\nÎn 1925, Anuarul Socec consemnează că Sinaia avea sistem de canalizare și apă curentă, alimentată din izvoarele Peleșului și Vânturișului, precum și o uzină hidroelectrică de 1500 de cai-putere care alimenta sistemul de iluminat public electric.\nSpre sfârșitul perioadei interbelice, Sinaia avea 3906 locuitori și era reședința plășii Sinaia din județul Prahova. În 1950, Sinaia a trecut în administrația raionului Câmpina din regiunea Prahova și, după 1952, din regiunea Ploiești. În 1968, județul Prahova s-a reînființat, Sinaia redevenind parte a acestuia.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 2464,
+      "level": 1,
+      "text": "Castelul Peleș, monument istoric\nÎn orașul Sinaia se află unsprezece monumente istorice de arhitectură de interes național: Cazinoul Sinaia (1912–1913); Hotelul Caraiman (1911); vila Alina Știrbei (1875, astăzi Circumscripția Financiară Sinaia); vila Emil Costinescu (1892, cu extinderi între 1918–1939); ansamblul gării Sinaia, format din gara regală (1870) și gara de călători (1930–1940); casa istoricului Nicolae Iorga (1918); Hotel „Furnica” (sfârșitul secolului al XIX-lea); Hotel „Palace” (1911–1912); vila Take Ionescu (începutul secolului al XX-lea); casa compozitorului George Enescu (1923–1926); mănăstirea Sinaia (1690–1695), ansamblu alcătuit din biserica „Adormirea Maicii Domnului”, paraclis, stăreție, chilii și zidul incintei vechi; nu în ultimul rând, ansamblul castelului Peleș (1873–1883), format din castelul propriu-zis, castelul Pelișor, castelul Foișor, vila Economat, uzina electrică (fostă moară a mănăstirii Sinaia), Casa Ceramicii, vila Cavalerilor, vila Șipot, vila Casa Veche, vila Casa Nouă, vilele A, B și C, și parcul. Tot de interes național sunt și monumentul de for public reprezentat de bustul actorului Ion Iancu Brezieanu (1935) aflat în parcul central „Dimitrie Ghica”, precum și monumentele memoriale sau funerare din cimitirul eroilor din Primul Război Mondial (începutul secolului al XX-lea) și Cavoul lui Take Ionescu (1922) aflat în incinta veche a mănăstirii Sinaia.\nPe lângă acestea, lista monumentelor istorice din județul Prahova mai cuprinde și multe alte obiective din oraș clasificate ca monumente de interes local: șaizeci și trei de monumente de arhitectură (diverse case și vile) și un monument memorial sau funerar (crucea de mormânt a lui Badea Cârțan – 1911).\nMuzeul orașului Sinaia, cel mai nou obiectiv turistic al stațiunii, fostul Castel Stirbey este una dintre cele mai vechi reședințe de vacanță construite în Sinaia, în perioada 1874-1875, de prințesa Alina Stirbey și soțul ei generalul Ioan Emanuel Florescu, după planurile arhitectului olandez Josef Jacob Schieffeleers. Domeniul Stirbey din Sinaia este considerat a fi fost unul dintre cele mai frumoase domenii aparținând familiei. Castelul care are arhitectura specifică stilului romantic german, tipic stațiunilor montane, era înconjurat de un parc natural, iar fațada se oglindea într-un mic lac natural alimentat de un pârâu. În apropierea castelului, în același parc, se afla și o capelă a familiei Stirbey, pictată de Gheorghe Tattarescu.",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 842,
+      "level": 1,
+      "text": "În Sinaia se află câteva posibilităti de practicare a sporturilor de iarnă:\nSport\nFotbal\nCarpați MEFIN Sinaia - club fondat în 1942, joacă în Superliga B Prahova (Liga a V-a).\nMontana Sinaia - club fondat în 1979 ca Asociația Sportivă Bucegi Sinaia, desființat în 1982. A fost reînființat în 1984 ca Montana Sinaia. Clubul a fuzionat cu Caraimanul Bușteni înaintea returului sezonului 1990-91 din Divizia B, jucând sub denumirea de Montana Caraimanul Bușteni.\nCluburi sportive\nCSO Sinaia - fondat în 1967. În componența clubului se regăsesc șapte secții sportive de performanță, toate fiind sporturi olimpice: bob, sanie și skeleton - afiliate la Federația Română de Bob și Sanie – și schi alpin, snowboard, schi fond și schi biatlon – afiliate la Federația Română de Schi Biatlon.\nCS Carpați Sinaia - în prezent are 8 secții sportive active.",
+      "title": "Turism"
+    },
+    {
+      "char_count": 1025,
+      "level": 1,
+      "text": "Carol al II-lea al României (1893 - 1953), rege al României (1930-1940);\nRegina Elisabeta a Greciei (1894 - 1954);\nAlice Cocea (1899 - 1970), actriță franceză;\nNicolae, Principe al României (1903 - 1978);\nMircea David (1914 - 1993), fotbalist;\nMihai I (1921 - 2017), rege al României (1927-1930, 1940-1947);\nBrăduț Covaliu (1924 - 1991), pictor, reprezentant al realismului socialist;\nAndrei Ionescu (n. 1928), actor;\nConstantin Cotacu (n. 1937), bober olimpic;\nNicolae Neagoe (1941 - 2023), bober olimpic;\nDumitru Pascu (1945 - 1995), bober;\nMatei Cazacu (n. 1946), scriitor francez;\nCătălin Bursaci (1957 - 1975), scriitor;\nNorica Nicolai (n. 1958), politiciană și avocată, membră a Parlamentului European (2009-2019);\nFlorin Serghei Anghel (n. 1961), om politic;\nVictor Ciutacu (n. 1970), jurnalist;\nGabriel Badea-Păun (n. 1973), istoric de artă și eseist;\nMugurel Drăgănescu (n. 1976), arbitru de fotbal;\nRaluca Strămăturaru (n. 1985), sportivă la sanie;\nValentin Crețu (n. 1989), sănier;\nAna Bogdan (n. 1992), tenismenă.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/sinaia.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "city_key": "răcari",
+  "display_name": "RăcariPentru alte sensuri, vedeți Răcari (dezambiguizare).",
+  "metadata": {
+    "city": "RăcariPentru alte sensuri, vedeți Răcari (dezambiguizare).",
+    "city_key": "răcari",
+    "country": "România",
+    "county": "Dâmbovița",
+    "ethnic_roma_pct": 3.22,
+    "ethnic_romanians_pct": 88.47,
+    "ethnicity_unknown_pct": 8.12,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6930,
+    "religion_orthodox_pct": 89.15,
+    "religion_pentecostal_pct": 1.19,
+    "religion_unknown_pct": 8.59,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4208,
+    "raw_char_count": 6399,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 2856,
+      "level": 1,
+      "text": "RăcariPentru alte sensuri, vedeți Răcari (dezambiguizare).\nRăcari este un oraș în județul Dâmbovița, Muntenia, România, format din localitățile componente Bălănești, Colacu, Ghergani, Ghimpați, Mavrodin, Răcari (reședința), Săbiești și Stănești. A fost declarat oraș prin Legea nr. 543 din 25 noiembrie 2004.\nAșezare geografică\nOrașul Răcari se află situat în partea de S-E a județului Dâmbovița. Orașul este așezat în Câmpia Titu la o altitudine de 140 m față de nivelul mării, fiind brăzdat de cursurile râurilor Colentina și Ilfov.\nSe învecinează cu:\nNord:Bilciurești și Cojasca\nSud:Tărtășești, Ciocănești, Slobozia Moară, Lungulețu\nEst:Butimanu\nVest:Conțești și Cornățelu\nIstoric\nCa unitate administrativ-teritorială, orașul Răcari a fost atestat prin anul 1725, printr-o cruce ridicată de starostele bărbierilor din București, fiind cunoscută sub primul nume de comuna Podul Bărbierului, datorită podului peste pârâul Ilfovăț, ridicat de același bărbier pe drumul ce lega Bucureștiul de Câmpulung. Crucea a fost ulterior mutată în curtea moșierului Gh. Meitanii la inceputul secolului al XX-lea. Pe cruce se arată că a fost ridicată de Ștefan Vătaful de bărbieri și de alți meșteri de refetul său. De atunci, punctul a început să se numească Podul Bărbierului și drumul între Târgoviște și București a început să fie scurtat pe aici.\nCea mai importantă lucrare ce tratează istoria localității este o monografie a satului Răcari, editată în 1939 în Târgoviște la Tipografia și Legătoria de cărți „Viitorul”, sub semnătura magistratului Nicolae M. Popescu-Răcăreanu, sub titlul „Moșnenii Răcăreni-Ot Boanga”. În această monografie se vorbește despre un ins care și-a așezat aici locuința și că acesta s-a numit Ghimpatul. Așezarea a fost la început pe malul drept al pârâului Colentina, așa cum reiese din actul de împărțeală din data de 6 februarie 1756.[necesită citare]\nÎn 1865, satul a luat denumirea oficială de Podul Bărbierului. La sfârșitul secolului al XIX-lea, comuna Podu Bărbierului făcea parte din plasa Ialomița a județului Dâmbovița avea 1041 de locuitori, o biserică și o școală în unica sa localitate. La acea vreme, pe teritoriul actual al orașului, funcționau în aceeași plasă și comunele Ghergani și Vizurești. Comuna Ghergani avea în compunere satele Ghergani, Mavrodin, Colacu și Săbiești, cu 1750 de locuitori. Aici funcționau o moară cu aburi, trei biserici și două școli – una la Ghergani și alta la Colacu. În Ghergani este înmormântat, împreună cu familia sa, Ion D. Ghica, fost Bei de Samos, și un mare scriitor, care a construit în anul 1872 o stație de cale ferată, apoi Școala generală, cladirea Judecătoriei Plasa Ghergani și multe alte obiective social-culturale. Comuna Vizurești era formată din satele Vizurești, Ghimpați și Priseaca, având în total 1297 de locuitori; în ea funcționau două biserici și o moară de apă.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 847,
+      "level": 1,
+      "text": "Componența etnică a orașului Răcari\nRomâni (88,47%) Romi (3,22%) Alte etnii (0,19%) Necunoscută (8,12%)\nComponența confesională a orașului Răcari\nOrtodocși (89,15%) Penticostali (1,19%) Alte religii (1,06%) Necunoscută (8,59%)\nConform recensământului efectuat în 2021, populația orașului Răcari se ridică la 6.306 locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.930 de locuitori. Majoritatea locuitorilor sunt români (88,47%), cu o minoritate de romi (3,22%), iar pentru 8,12% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (89,15%), cu o minoritate de penticostali (1,19%), iar pentru 8,59% nu se cunoaște apartenența confesională.\nRăcari - evoluția demografică\n01000200030004000500060007000194820022011populațiePopulația istorică din Răcari",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 348,
+      "level": 1,
+      "text": "Orașul Răcari este o localitate a cărei economie nu are o ramură preponderentă și există un echilibru între producția agricolă și cea industrială.Principalele ramuri industriale sunt: metalurgie, prelucrarea lemnului, confecții și textile.\nDe asemenea, funcționează un număr de aproximativ 150 de agenți economici în diferite domenii de activitate.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 71,
+      "level": 1,
+      "text": "Ion Ghica (1816-1897), om politic, prim-ministru al României, diplomat.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/răcari.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

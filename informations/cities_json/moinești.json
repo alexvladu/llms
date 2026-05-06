@@ -1,0 +1,83 @@
+{
+  "city_key": "moinești",
+  "display_name": "Moinești",
+  "metadata": {
+    "city": "Moinești",
+    "city_key": "moinești",
+    "country": "România",
+    "county": "Bacău",
+    "ethnic_roma_pct": 2.6,
+    "ethnic_romanians_pct": 82.57,
+    "ethnicity_unknown_pct": 14.62,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 21787,
+    "population_2021": 19728,
+    "religion_orthodox_pct": 79.07,
+    "religion_pentecostal_pct": 1.5,
+    "religion_roman_catholic_pct": 3.4,
+    "religion_unknown_pct": 15.26,
+    "settlement_type": "municipiu"
+  },
+  "quality": {
+    "clean_char_count": 9082,
+    "raw_char_count": 12199,
+    "section_count": 8,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 180,
+      "level": 1,
+      "text": "Moinești\nMoinești (în ebraică מוינשט, în maghiară Mojnest) este un municipiu în județul Bacău, Moldova, România, format din localitățile componente Găzărie și Moinești (reședința).",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 3782,
+      "level": 1,
+      "text": "Strada Alexandru Constantinescu în perioada interbelică\nPrima atestare documentară a orașului datează din anul 1467, iar în lucrarea Descriptio Moldaviae, savantul umanist Dimitrie Cantemir menționează satul Moinești în preajma Tazlăului Sărat. În 1832 este atestat un târg pe teritoriul actual al municipiului. În această perioadă s-a format în târg o comunitate evreiască puternică, ce a rezistat până la instaurarea comunismului. Printre evreii născuți în Moinești se numără Moșe David Iancovici, Mordechai Bernstein, Tristan Tzara și Moses Rosen, fost șef-rabin al cultului mozaic din țară.\nDin orașul Moinești a emigrat, în 1882, primul grup de evrei sioniști care a inițiat colonia evreiască Roș Pina în Palestina.\nLa sfârșitul secolului al XIX-lea comuna rurală Moinești avea o populație de 3777 de oameni, din care 1386 erau români, 2 greci, un bulgar, 379 maghiari, 22 italieni și 1987 de evrei.\nLa sfârșitul secolului al XIX-lea, Moinești avea statut de comună rurală, reședință a plășii Muntelui a județului Bacău și era formată din satele Târgușorul-Moinești, Lunca-Moinești, Pârâul-Moinești și Dealu Mare, având în total 3777 de locuitori. În comună existau 15 fabrici de petrol, un herăstrău de apă, o fabrică de lumânări de stearină, o fabrică de prelucrare a lemnului, o școală de băieți deschisă în 1862, una de fete deschisă în 1867 și una evreiască, două biserici ortodoxe și una catolică, iar principalul proprietar de pământ era „Societatea de comerț și industrie a petroleului Moinești-Tazlău-Solonțul”. La acea vreme, pe teritoriul actual al municipiului mai funcționau și comunele Văsâești (în aceeași plasă) și Valea Arinilor (în plasa Trotușul a aceluiași județ). Comuna Valea Arinilor era alcătuită din satele Lucăcești (reședința), Valea Arinilor, Tazlău, Chiliile, Asău și Gârlele, cu o populație totală de 2833 de locuitori. Existau și aici 16 fierăstraie de apă, 14 fabrici de petrol, o fabrică de cherestea cu aburi, două școli mixte (la Lucăcești și Valea Arinilor) și cinci biserici (una în fiecare sat cu excepția satului Gârlele). Comuna Văsâești avea în compunere satele Văsâești, Leorda, Vermești, Urminișu (Hângani) și Șipoteni, având în total 1911 locuitori; aici erau o școală mixtă deschisă în 1885 la Văsâești și patru biserici (una în fiecare sat).\nAnuarul Socec din 1925 consemnează trecerea comunei Moinești în rândul comunelor urbane, având 4950 de locuitori și fiind reședința plășii Comănești. Comuna Valea Arinilor își schimbase denumirea în Lucăcești, după cea a reședinței, și rămăsese cu satele Gârlele Găzăriei, Lucăcești, Tazlău de Sus, Valea Arinilor și Bolătău (după speararea satului Asău pentru a forma o comună de sine stătătoare), sate ce aveau o populație totală de 3580 de locuitori. Comuna Văsâești avea 3414 locuitori în satele Glodurile, Hângani, Leorda, Șipoteni, Văsâești și Vermești.\nÎn 1931, comuna Văsâești fusese desființată, fiind împărțită între comuna Comănești (satele Glodurile, Vermești, Șipoteni și Leorda) și orașul Moinești (satele Hângani și Văsâești).\nStrăzile General Nicolae Șova și Zorilor, la depărtare se vede cimitirul evreiesc. La stânga, o porțiune din aria protejată Pădurea de pini de la Moinești\nÎn 1950, Moinești a devenit oraș raional, reședință a raionului Moinești din regiunea Bacău. În 1964, comuna Lucăcești a fost desființată și ea, orașului Moinești revenindu-i satul de reședință al acesteia. În 1968, orașul a pierdut statut de centru administrativ, devenind oraș al județului Bacău, reînființat. Satele Albotești, Dealu Mare, Hângani, Lucăcești, Lunca și Văsâești au fost atunci desființate și comasate cu localitatea urbană Moinești, satul Găzărie (fost Gârlele-Găzăriei) rămânând singura localitate distinctă aparținătoare orașului. Orașul a fost declarat municipiu în 2001.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1249,
+      "level": 1,
+      "text": "Municipiul se află în partea de nord-vest a județului, pe malurile Tazlăului Sărat și ale afluentului acestuia, pârâul Gâzu. Este străbătut de șoseaua națională DN2G, care îl leagă spre sud-vest de Comănești (unde se termină în DN12A) și spre est de Bacău (unde se termină în DN2). Din acest drum, la Moinești se ramifică șoseaua județeană DJ117, care duce spre sud-est la Poduri, Berzunți și Livezi (unde se termină în DN11).\nVezi și articolul: Șaua MoineștiVezi și articolele [[{{{2}}}]] și [[{{{3}}}]]Vezi și articolele [[{{{4}}}]], [[{{{5}}}]] și [[{{{6}}}]]Vezi și articolele [[{{{7}}}]], [[{{{8}}}]], [[{{{9}}}]] și [[{{{10}}}]]Vezi și articolele [[{{{11}}}]], [[{{{12}}}]], [[{{{13}}}]], [[{{{14}}}]] și [[{{{15}}}]]Vezi și articolele [[{{{16}}}]], [[{{{17}}}]], [[{{{18}}}]], [[{{{19}}}]], [[{{{20}}}]] și [[{{{21}}}]].\nMunicipiul Moinești este așezat în bazinul mijlociu al sistemului de râuri Trotuș-Tazlău, într-o zonă cu bogate resurse naturale (petrol, cărbune, ape minerale curative). Cele 4 izvoare cu ape minerale din „Parcul Băi”, cantonate pe pârâul Gâzu, precum și microclimatul ozonat al zonei, lipsit de pulbere nocivă, însoțite de frumusețile reliefului și florei locale, pledează pentru statutul de stațiune balneoclimaterică.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 255,
+      "level": 1,
+      "text": "Clima în Moinești este temperat-continentală, moderată, cu nuanțe de tranziție specifice zonei subcarpatice. Aceasta se caracterizează prin veri relativ calde și ierni moderate, cu o temperatură medie anuală de 8,1°C. Precipitațiile anuale sunt de 885 mm.",
+      "title": "Climă"
+    },
+    {
+      "char_count": 613,
+      "level": 1,
+      "text": "Pentru istoricul industriei petroliere, vedeți, vedeți Zona petroliferă Moinești#Istoric.Zona orașului Moinești dispune de resurse naturale precum petrol, gaze naturale, sare și material lemnos. Aflat la intersecția dintre Carpații Orientali și Subcarpați, municipiul Moinești se caracterizează printr-o așezare colinară strategică ce a permis dezvoltarea unui oraș împărțit în mai multe zone principale: centru (strada Tudor Vladimirescu), Lucăcești, Văsâiești, Hangani, Micleasca, Măgura.\nMoinești a cunoscut o perioadă de înflorire economică în perioada 1950-1980 ca urmare a dezvoltării extracției petrolului.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 931,
+      "level": 1,
+      "text": "Componența etnică a municipiului Moinești\nRomâni (82,57%) Romi (2,6%) Alte etnii (0,21%) Necunoscută (14,62%)\nComponența confesională a municipiului Moinești\nOrtodocși (79,07%) Romano-catolici (3,4%) Penticostali (1,5%) Alte religii (0,78%) Necunoscută (15,26%)\nConform recensământului efectuat în 2021, populația municipiului Moinești se ridică la 19.728 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 21.787 de locuitori. Majoritatea locuitorilor sunt români (82,57%), cu o minoritate de romi (2,6%), iar pentru 14,62% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (79,07%), cu minorități de romano-catolici (3,4%) și penticostali (1,5%), iar pentru 15,26% nu se cunoaște apartenența confesională.\nMoinești - evoluția demografică\n0500010.00015.00020.00025.00030.0001930195619772002populațiePopulația istorică din Moinești",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 86,
+      "level": 1,
+      "text": "Evenimente locale\nFestivalul de Artă „Teatru sub Lună”, organizat de Breasla Actorilor",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 1829,
+      "level": 1,
+      "text": "În municipiul Moinești se află situl arheologic de interes național de pe „Dealul Cetățuia” din fostul sat Lucăcești, unde s-au găsit urmele unei cetățui dacice din secolele I î.e.n.–I e.n. În rest, în municipiu se mai află trei alte obiective incluse în lista monumentelor istorice din județul Bacău ca monumente de interes local. Două dintre ele sunt clasificate ca monumente de arhitectură: biserica „Cuvioasa Paraschiva” (construită în 1776 și cu transformări în 1847) aflată în fostul sat Hânganu; și fosta școală primară de băieți (1894), astăzi atelier al școlii „Ștefan Luchian”. Monumentul eroilor din Războiul Ruso-Turc din 1877–1878, ridicat în 1908, este clasificat ca monument memorial sau funerar.\nPersonalități locale\nMoșe David Iancovici (1854-1938), conducător sionist timpuriu și cofondator al localității Roș Pina din Palestina otomană\nMordechai Bernstein (1862-1934), conducător sionist timpuriu și cofondator al localității Roș Pina\nTristan Tzara (1896-1963), reprezentantul principal al avangardei literare românești\nMoses Rosen (1912 - 1994), șef-rabin al cultului mozaic, membru al Academiei Române\nIancu Solomon (1918 - 1940), soldat român, căzut eroic în apărarea orașului Herța în 1940\nAlexandru Sever (1921-2010), prozator, membru al Uniunii Scriitorilor din România\nStela Teodorescu (1926 - 2008), psiholog, profesor universitar, prorector al Universității „Alexandru Ioan Cuza” din Iași\nHary Kuller (1929-2020), etno-sociolog român de etnie evreiască\nNestor Rateș (n. 1933), scriitor și jurnalist american\nGheorghe Popa (n. 1943), fizician, fost rector al Universității „Alexandru Ioan Cuza” din Iași\nVasile Gherasim (n. 1950), doctor în sociologie urbană, politician, fost primar în sectorul 1, București\nCornel Palade (n. 1952), umorist și prezentator TV;\nAlexandru Barna⁠(d) (n. 1993), fotbalist.",
+      "title": "Monumente istorice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/moinești.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "city_key": "roșiorii_de_vede",
+  "display_name": "Roșiorii de Vede",
+  "metadata": {
+    "city": "Roșiorii de Vede",
+    "city_key": "roșiorii_de_vede",
+    "country": "România",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 16,
+    "raw_char_count": 16,
+    "section_count": 0,
+    "warnings": [
+      "missing_demografie_section",
+      "no_sections_detected",
+      "only_title",
+      "very_short_file"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [],
+  "source": {
+    "path": "cities_text/roșiorii_de_vede.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

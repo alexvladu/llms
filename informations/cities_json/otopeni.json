@@ -1,0 +1,63 @@
+{
+  "city_key": "otopeni",
+  "display_name": "Otopeni",
+  "metadata": {
+    "city": "Otopeni",
+    "city_key": "otopeni",
+    "country": "România",
+    "county": "Ilfov",
+    "ethnic_romanians_pct": 79.41,
+    "ethnicity_unknown_pct": 19.39,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 13861,
+    "population_2021": 21750,
+    "religion_orthodox_pct": 73.71,
+    "religion_roman_catholic_pct": 1.04,
+    "religion_unknown_pct": 21.34,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5034,
+    "raw_char_count": 6486,
+    "section_count": 5,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 442,
+      "level": 1,
+      "text": "Otopeni\nOtopeni este un oraș în județul Ilfov, Muntenia, România, format din localitatea componentă Otopeni (reședința), și din satul Odăile. Localitatea se află în vecinătatea nordică a municipiului București, la ieșirea către Ploiești, fiind un oraș-satelit al Capitalei. Conform recensământului din anul 2011, Otopeni are o populație de 13.861 de locuitori, fiind al șaptelea centru urban al județului Ilfov din punct de vedere demografic.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 633,
+      "level": 1,
+      "text": "Orașul Otopeni este așezat în centrul județului, la nord de București. Este străbătut de șoseaua națională DN1, care leagă Bucureștiul de Ploiești. La Otopeni, din această șosea se ramifică șoseaua județeană DJ100, care duce spre est la Tunari, Ștefăneștii de Jos, Afumați (unde se intersectează cu DN2), Găneasa, Brănești (unde se intersectează cu DN3) și mai departe în județul Călărași la Fundeni.\nDin punct de vedere fizico-geografic, orașul Otopeni este așezat pe interfluviul Colentina - Pasărea, in Câmpia Vlăsiei, subdiviziune a Câmpiei Române, iar din punct de vedere administrativ - teritorial este situat în județul Ilfov.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 2126,
+      "level": 1,
+      "text": "Cele mai vechi așezări omenești descoperite în regiunea în care se află localitatea Otopeni datează din comuna primitivă. Cu prilejul săpăturilor efectuate în anul 1966 pentru construirea Aeroportului Internațional Henri Coandă, arheologul Margareta Constantiniu de la Muzeul de Istorie al municipiului București a identificat fragmente de ceramică veche și alte obiecte care au aparținut unei importante asezări omenești existentă înca din prima perioadă a epocii fierului. Într-un strat suprapus a fost descoperită o altă așezare, mai nouă, din secolul al X-lea.\nPrin hrisovul din 14 februarie 1587, Mihnea Turcitu – voievodul Țării Românești – dăruiește mănăstirii Sfânta Troiță jumătate din satul Islazul, jumătate din satul Hodopeni (azi Otopeni) cu mori și țigani, toate dăruite de Dobromir ban, jupânița Vilaia și fiul lor Mihai postelnicul.\nLa 20 mai 1620, Maria, mare băneasă, dăruiește din nou mănăstirii Sfânta Troiță (numită mai târziu Radu Vodă) jumătate din satul Hodopeni, cu rumâni, dăruit de jupânița Vilaia, poruncind rumânilor să asculte. Istoricul Constantin Giurăscu este de părere că denumirea satului Hodopeni, se trage de la un anume Hodopa sau Hodoba.\nLa sfârșitul secolului al XIX-lea, comuna Otopeni făcea parte din plasa Dâmbovița a județului Ilfov, fiind formată din două sate, Otopenii de Jos și Otopenii de Sus, cu 851 de locuitori în total. În comună funcționau o școală cu 29 de elevi și două biserici (câte una în fiecare sat). Satul Odăile făcea pe atunci parte din comuna Bucoveni, având 125 de locuitori. În 1925, satul Odăile trecuse deja la comuna Otopeni, care era arondată plășii Băneasa, având 1938 de locuitori.\nÎn 1950, comuna a fost inclusă în raionul 30 Decembrie al orașului regional București, până în 1968. Atunci, satele Otopenii de Jos și Otopenii de Sus au fost comasate, formând satul Otopeni, reședința comunei, arondată municipiului București cu statut de comună suburbană. În 1981, comuna a trecut în subordinea Sectorului Agricol Ilfov, la rândul său subordonat municipiului București, sector devenit în 1997 județul Ilfov. Comuna Otopeni a fost declarată oraș în 2000.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 708,
+      "level": 1,
+      "text": "Componența etnică a orașului Otopeni\nRomâni (79,41%) Alte etnii (1,2%) Necunoscută (19,39%)\nComponența confesională a orașului Otopeni\nOrtodocși (73,71%) Romano-catolici (1,04%) Alte religii (3,9%) Necunoscută (21,34%)\nConform recensământului efectuat în 2021, populația orașului Otopeni se ridică la 21.750 de locuitori, în creștere față de recensământul anterior din 2011, când fuseseră înregistrați 13.861 de locuitori. Majoritatea locuitorilor sunt români (79,41%), iar pentru 19,39% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (73,71%), cu o minoritate de romano-catolici (1,04%), iar pentru 21,34% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 703,
+      "level": 1,
+      "text": "Instituții\nÎn orașul Otopeni se află:\nInstitutul Național de Geriatrie și Gerontologie „Ana Aslan”\nAeroportul Internațional Henri Coandă București\nSediul social, TAROM\nSediul social, Țiriac Air\nCentrul Cultural „Ion Manu” (înființat în 1999)\nSport\nClubul Sportiv Otopeni:\nCiclism\nArte Marțiale\nOrientare Sportivă: Nagy Melinda a obținut locul 1 în 2005 și în 2006 la Campionatul Național de Orientare pe Schiuri.\nEchipa de fotbal C.S. Otopeni (înființată în 2003)\nEchipa de Marathon C.S. Otopeni (înființată în 2019)\nPersonalități născute aici\nIoana Tudoran (n. 1948), canotoare;\nMircea Romașcanu (n. 1953), ciclist;\nLucian Croitoru (n. 1957), om politic;\nDaniel Gheorghe (n. 1985), istoric, om politic.",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/otopeni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

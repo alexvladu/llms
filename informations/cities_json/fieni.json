@@ -1,0 +1,51 @@
+{
+  "city_key": "fieni",
+  "display_name": "Fieni",
+  "metadata": {
+    "area_ha": 1831,
+    "city": "Fieni",
+    "city_key": "fieni",
+    "country": "România",
+    "county": "Dâmbovița",
+    "ethnic_romanians_pct": 90.67,
+    "ethnicity_unknown_pct": 9.06,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 7587,
+    "population_2021": 6378,
+    "religion_orthodox_pct": 88.9,
+    "religion_unknown_pct": 9.63,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5039,
+    "raw_char_count": 6143,
+    "section_count": 3,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 2518,
+      "level": 1,
+      "text": "Fieni\nFieni este un oraș în județul Dâmbovița, Muntenia, România, format din localitatea componentă Fieni (reședința), și din satele Berevoești și Costești.\nIstoric\nLa sfârșitul secolului al XIX-lea, Fieni și Berevoiești erau sate componente ale comunei Moțăieni, în vreme ce satul Costești făcea parte din comuna Runcu, ambele din plaiul Ialomița-Dâmbovița al județului Dâmbovița. În 1925, situația se păstra, dar în aceeași perioadă, conform primăriei locale, satele Fieni și Berevoești s-au separat și au format o comună de sine stătătoare, denumită Fieni, comună ce a preluat în 1950 și satul Costești.\nÎn 1950, comuna Fieni a fost transferată raionului Pucioasa din regiunea Prahova și apoi (după 1952), raionului Târgoviște din regiunea Ploiești. În 1968, comuna Fieni a revenit la județul Dâmbovița și a fost declarată oraș, având componența actuală.\nPoziționare geografică\nPort popular\nOrașul Fieni este situat în zona subcarpatică, în interfluviul dintre râurile Ialomița si Ialomicioara. Situat în partea de nord a județului Dâmbovița, se află la 10 km de comuna Moroieni. Coordonatele geografice 25°25΄16¨ longitudine estica si 45°07΄39¨ latitudine nordică, îl plasează, aproximativ, în partea central-sudică a țării, iar , cota medie de 460 de metri deasupra nivelului mării, îl situează la o altitudine medie a așezărilor țării noastre.\nEste direct legat de municipiul Târgoviște, prin calea ferată Titu-Târgoviște-Pietroșița, prin care se poate ajunge în capitala București aflată la 107 km, reședința de județ Târgoviște fiind accesibilă și prin DN71, ce leagă Târgoviște de Sinaia (distanța Târgoviște-Fieni este de 25 km).\nSuprafața lui totală, incluzând satele Berivoiești si Costești este de 1831 ha.\nLa nord se mărginește cu comuna Buciumeni și cu satul Dealu Mare (fosta așezare medievală Țâța, din comuna Buciumeni), legătura făcându-se pe Valea Ialomiței, pe malul drept, unde se afla și drumul național 71. De asemenea cu comuna Runcu, satul Bădeni, accesul făcându-se pe șoseaua comunală Fieni – Runcu, care urmează cursul Ialomicioarei și se continuă pe drumul forestier, cu punct terminus Leaota, masiv ce aparține munților Bucegi.\nLa sud, se învecinează cu orașul Pucioasa, principala stațiune balneoclimaterică, legătura făcându-se prin drumul național 71 și prin calea ferată, iar cu Vulcana Băi fără acces de legătura directă.\nLa est cu comuna Dâmbovița și cu orașul Pucioasa (satele Bela, Miculești, Diaconești, Șerbănești), iar la vest cu Vulcana Băi și Bărbulețu, legate prin drumuri.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 733,
+      "level": 1,
+      "text": "Componența etnică a orașului Fieni\nRomâni (90,67%) Alte etnii (0,27%) Necunoscută (9,06%)\nComponența confesională a orașului Fieni\nOrtodocși (88,9%) Alte religii (1,47%) Necunoscută (9,63%)\nConform recensământului efectuat în 2021, populația orașului Fieni se ridică la 6.378 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 7.587 de locuitori. Majoritatea locuitorilor sunt români (90,67%), iar pentru 9,06% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (88,9%), iar pentru 9,63% nu se cunoaște apartenența confesională.\nFieni - evoluția demografică\n0200040006000800010.0001977199220022011populațiePopulația istorică din Fieni",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 398,
+      "level": 1,
+      "text": "Olga Homeghi este o canotoare română, dublu laureată cu aur la Los Angeles 1984 și Seul 1988.\nRobert Ianici este un culturist român, dublu Campion Național Seniori (2003, 2021), Campion Național Master (2019), Vicecampion Balcanic (2003), triplu castigator al Cupei României (2000, 2015, 2019).\nToponimie\nFieni - Moțăieni - Pucioasa - reprezentare 3D\nGalerie cu imagini\nPreoți și enoriași din Fieni",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/fieni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

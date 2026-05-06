@@ -1,0 +1,57 @@
+{
+  "city_key": "negrești",
+  "display_name": "NegreștiPentru alte sensuri, vedeți Negrești (dezambiguizare).",
+  "metadata": {
+    "city": "NegreștiPentru alte sensuri, vedeți Negrești (dezambiguizare).",
+    "city_key": "negrești",
+    "country": "România",
+    "county": "Vaslui",
+    "ethnic_roma_pct": 1.65,
+    "ethnic_romanians_pct": 86.72,
+    "ethnicity_unknown_pct": 11.58,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 8380,
+    "population_2021": 7530,
+    "religion_orthodox_pct": 85.74,
+    "religion_unknown_pct": 12.01,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2523,
+    "raw_char_count": 3251,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 972,
+      "level": 1,
+      "text": "NegreștiPentru alte sensuri, vedeți Negrești (dezambiguizare).\nNegrești este un oraș în județul Vaslui, Moldova, România, format din localitatea componentă Negrești (reședința), și din satele Căzănești, Cioatele, Glodeni, Parpanița, Poiana și Valea Mare. Este un oraș de rang III, cu o populație de 8.380 locuitori. Denumirea orașului provine de la vornicul Negrea, unul dintre cei mai puternici feudali ai timpului său, prezent în Sfatul domnesc al lui Alexandru cel Bun, între anii 1401-1429.\nAșezare\nOrașul este așezat în partea de nord - vest a județului Vaslui, în lungul căii ferate și a drumului național DN15D, Vaslui–Roman. Din punct de vedere geografia orașul se află în centrul podișului Moldovei pe malul râului Velna foarte aproape de iazurile Velna.. Satul Căzănești ce intră în componența orașului se află lângă lacul cu același nume și arâului Durduc.\nOrașul Negrești este situat pe linia secundară feroviară ce unește orașele Iași și Roman prin Buhăiești.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 800,
+      "level": 1,
+      "text": "Componența etnică a orașului Negrești\nRomâni (86,72%) Romi (1,65%) Alte etnii (0,05%) Necunoscută (11,58%)\nComponența confesională a orașului Negrești\nOrtodocși (85,74%) Alte religii (2,26%) Necunoscută (12,01%)\nConform recensământului efectuat în 2021, populația orașului Negrești se ridică la 7.530 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 8.380 de locuitori. Majoritatea locuitorilor sunt români (86,72%), cu o minoritate de romi (1,65%), iar pentru 11,58% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (85,74%), iar pentru 12,01% nu se cunoaște apartenența confesională.\nNegrești - evoluția demografică\n0200040006000800010.0001977199220022011populațiePopulația istorică din Negrești",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 60,
+      "level": 1,
+      "text": "Sport\nClubul reprezentativ al orașului este Unirea Negrești.",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 568,
+      "level": 1,
+      "text": "Mihail D. David (1886 - 1954), geograf și geolog;\nNeculai Macarovici (1902 - 1979), geolog și paleontolog;\nConstantin Macarovici (1902 - 1984), chimist;\nValerian C. Popescu ( 1912 - 2013), medic;\nEmanoil Stratan (n. 1940), canotor;\nMatilda Pascal Cojocărița (n. 1958), solistă de muzică populară;\nAdrian Matei (n. 1967), artist plastic și publicist;\nCerasela Carp (n. 1970), avocat și scriitor;\nMaria Pădurariu (n. 1970), canotoare.\nImagini\nCasa de Cultură din Negrești\nBiserica Ortodoxă din Negrești\nBiblioteca Orăşenească Negreşti\nMonumentul eroilor\nParcul Orăşenesc",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/negrești.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

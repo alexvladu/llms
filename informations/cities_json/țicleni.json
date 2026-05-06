@@ -1,0 +1,50 @@
+{
+  "city_key": "țicleni",
+  "display_name": "ȚicleniȚicleni este un oraș în județul Gorj, Oltenia, România.",
+  "metadata": {
+    "city": "ȚicleniȚicleni este un oraș în județul Gorj, Oltenia, România.",
+    "city_key": "țicleni",
+    "country": "România",
+    "county": "Gorj",
+    "ethnic_romanians_pct": 93.67,
+    "ethnicity_unknown_pct": 5.8,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2021": 3934,
+    "religion_orthodox_pct": 90.62,
+    "religion_pentecostal_pct": 1.3,
+    "religion_unknown_pct": 7.17,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2219,
+    "raw_char_count": 2892,
+    "section_count": 3,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1217,
+      "level": 1,
+      "text": "ȚicleniȚicleni este un oraș în județul Gorj, Oltenia, România.\nTurlă de sondă în Țicleni\nEste o localitate dezvoltată în jurul exploatărilor din industria extractivă : petrol și gaze naturale.\nVatra localității are la origine un vechi sat de moșneni.\nRelieful este predominant deluros, cu păduri de foioase (câțiva stejari sunt seculari) și conifere. Fauna cuprinde și exemplare de iepuri, căprioare, vulpi, porci mistreți.\nEste, în ordinea numărului de locuitori, al 252-lea oraș din România. La nivelul județului, este al 6-lea ca mărime.\nA fost ridicat la statutul de oraș în 1968. Este constituit prin reunirea a 3 porțiuni principale, de la N la S: Tunși, Țicleni, Gura Lumezii, la care se adaugă 3 foste colonii de muncitori în exploatarea petrolului, în prezent modernizate.\nOrașul are un stadion propriu și există 2 echipe de fotbal - FC Petrolul Țicleni si Viitorul Ticleni.\nÎn trecut aici funcționau Băile Țicleni, o stațiune balneoclimaterică.\nOrașul are 2 unități medicale, o școală gimnazială, 3 școli primare, 4 grădinițe, 4 biserici, o Casa de cultură, o bibliotecă orășenească, un Liceu Tehnologic, localuri de zi și de noapte, restaurante, terase și magazine generale modernizate, cu aer condiționat.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 802,
+      "level": 1,
+      "text": "Componența etnică a orașului Țicleni\nRomâni (93,67%) Alte etnii (0,53%) Necunoscută (5,8%)\nComponența confesională a orașului Țicleni\nOrtodocși (90,62%) Penticostali (1,3%) Alte religii (0,92%) Necunoscută (7,17%)\nConform recensământului efectuat în 2021, populația orașului Țicleni se ridică la 3.934 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 4.414 locuitori. Majoritatea locuitorilor sunt români (93,67%), iar pentru 5,8% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (90,62%), cu o minoritate de penticostali (1,3%), iar pentru 7,17% nu se cunoaște apartenența confesională.\nȚicleni - evoluția demografică\n01000200030004000500060001977199220022011populațiePopulația istorică din Țicleni",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 100,
+      "level": 1,
+      "text": "Personalități născute aici\nGrigore Beuran (1924 - 1999), scriitor;\nNorbert Niță (n. 1972), fotbalist",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/țicleni.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

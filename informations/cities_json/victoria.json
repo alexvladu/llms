@@ -1,0 +1,34 @@
+{
+  "city_key": "victoria",
+  "display_name": "Victoria",
+  "metadata": {
+    "city": "Victoria",
+    "city_key": "victoria",
+    "country": "România",
+    "county": "Brăila",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 3044,
+    "raw_char_count": 3044,
+    "section_count": 1,
+    "warnings": [
+      "missing_demografie_section"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 3011,
+      "level": 1,
+      "text": "VictoriaZeița Nike la greci, respectiv zeița Victoria la romani, sculptură aflată la Louvre, Paris\nVictoria (din limba latină, victoria), prenume feminin cu onomastica la 12 martie, se poate referi la:\nMitologie\nVictoria⁠(d), zeița victoriei în mitologia romană (corespunzând zeiței Nike din mitologia greacă)\nNume de persoane\nPrințesa Victoire a Franței (1733-1799), al șaptelea copil al regelui Ludovic al XV-lea al Franței și a Mariei Leszczyńska\nPrințesa Victoria de Saxa-Coburg-Saalfeld (1786-1861), mama reginei Victoria\nVictoria a Regatului Unit (1819-1901), regină a Regatului Unit al Marii Britanii\nPrințesa Victoria de Saxa-Coburg și Gotha (1822-1857), verișoară primară e reginei Victoria\nPrințesa Victoria a Regatului Unit (1840-1901), fiica reginei Victoria\nVictoria de Baden (1862-1930), soția regelui Gustaf al V-lea al Suediei\nPrințesa Victoria de Hesse (1863-1950), soția Prințului Louis de Battenberg\nPrințesa Victoria a Prusiei (1866-1929), al cincilea copil al împăratului Frederic al III-lea al Germaniei\nPrințesa Victoria Alexandra a Regatului Unit (1868-1935), fiica regelui Eduard al VII-lea al Regatului Unit\nPrințesa Helena Victoria de Schleswig-Holstein (1870–1948), fiica Prințesei Elena a Regatului Unit\nPrințesa Victoria Melita de Saxa-Coburg și Gotha (1876-1936), fiica Prințului Alfred, Duce de Edinburgh și a Marii Ducese Maria Alexandrovna a Rusiei\nVictoria Eugenie de Battenberg (1887-1969), soția regelui Alfonso al XIII-lea al Spaniei\nPrințesa Victoria Margaret a Prusiei (1890–1923), fiica lui Frederick Leopold al Prusiei\nPrințesa Victoria Louise a Prusiei (1892-1980), fiica regelui Wilhelm al II-lea al Germaniei\nVictoria a Suediei (n. 1977), fiica regelui Carl XVI Gustaf al Suediei\nDiviziuni administrativ-teritoriale\nVictoria, stat în Australia\nVictoria, comună în județul Brăila\nNume de localități\nVictoria, capitala Republicii Seychelles\nVictoria, capitala provinciei Columbia Britanică din Canada\nVictoria, oraș în județul Brașov, România\nVictoria, sat în județul Brăila, România, reședința comunei cu același nume\nVictoria, sat în cadrul comunei Sărăteni din raionul Leova, Republica Moldova\nVictoria oraș în Hong Kong\nVictoria oraș nord american în statul Alabama\nHidronime\nCascada Victoria din Africa\nRâul Victoria din Australia\nLacul Victoria din Africa\nAlte denumiri geografice\nVictoria, a treia insulă ca mărime din Canada\nVictoria, deșert în Australia\nDiverse\nPalatul Victoria din București, actualul sediu al Guvernului României\nHotel Victoria, hotel din Cluj-Napoca\nCalea Victoriei, una dintre străzile renumite ale Bucureștiului\nVictoria Florești, fabricant de anvelope din România\nVictoria, gen de plante din familia Nymphaeaceae\nVictoria Embankment, Gara Victoria și linia de metrou cu același nume din Londra, numite după regina Victoria\nVictoria, soi de struguri de masă.\nVictoria, melodie a formației Timpuri Noi\nVariante\nMasculine - Victor, Viktor, Vittorio, Vito, Wiktor, Vitja, Vitök\nFeminine - Viktoria, Victoria, Vicky, Vittoria, Wiktoria, Vika",
+      "title": "Introducere"
+    }
+  ],
+  "source": {
+    "path": "cities_text/victoria.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

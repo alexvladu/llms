@@ -1,0 +1,58 @@
+{
+  "city_key": "podu_iloaiei",
+  "display_name": "Podu Iloaiei",
+  "metadata": {
+    "city": "Podu Iloaiei",
+    "city_key": "podu_iloaiei",
+    "country": "România",
+    "county": "Iași",
+    "ethnic_roma_pct": 6.08,
+    "ethnic_romanians_pct": 80.89,
+    "ethnicity_unknown_pct": 12.98,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 9573,
+    "population_2021": 8992,
+    "religion_orthodox_pct": 81.53,
+    "religion_roman_catholic_pct": 1.18,
+    "religion_unknown_pct": 13.29,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3628,
+    "raw_char_count": 5022,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 751,
+      "level": 1,
+      "text": "Podu Iloaiei\nPodu Iloaiei este un oraș în județul Iași, Moldova, România, format din localitățile componente Budăi și Podu Iloaiei (reședința), și din satele Cosițeni, Holm și Scobâlțeni.\nAșezare\nOrașul se află în centrul județului, pe malurile Bahluiului, la vărsarea Bahluiețului în acesta. Este străbătut de șoseaua națională DN28, care leagă Iașul de Roman. La Podu Iloaiei, din acest drum se ramifică șoselele județene DJ281 și DJ282D. Prima duce spre nord la Erbiceni, Belcești, Cotnari, Ceplenița, Scobinți (unde se intersectează cu DN28B) și Sirețel. Al doilea duce spre sud la Popești și Mădârjac. Orașul este un mic nod feroviar, având gară pe calea ferată Pașcani-Iași, de la această gară ramificându-se o linie secundară ce duce la Hârlău.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 851,
+      "level": 1,
+      "text": "Componența etnică a orașului Podu Iloaiei\nRomâni (80,89%) Romi (6,08%) Alte etnii (0,04%) Necunoscută (12,98%)\nComponența confesională a orașului Podu Iloaiei\nOrtodocși (81,53%) Creștini după evanghelie (1,38%) Romano-catolici (1,18%) Alte religii (2,62%) Necunoscută (13,29%)\nConform recensământului efectuat în 2021, populația orașului Podu Iloaiei se ridică la 8.992 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 9.573 de locuitori. Majoritatea locuitorilor sunt români (80,89%), cu o minoritate de romi (6,08%), iar pentru 12,98% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (81,53%), cu minorități de creștini după evanghelie (1,38%), romano-catolici (1,18%) și altele (1,52%), iar pentru 13,29% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 1265,
+      "level": 1,
+      "text": "Târgușorul Podu Iloaiei s-a format în 1818, când mai mulți negustori evrei au obținut permisiunea domnitorului Scarlat Callimachi să înființeze un târg la podul peste Bahlui aflat la hotarul între mai multe moșii. Târgușorul a fost administrat de un comisar al guvernului până în 1864, când a fost organizat ca o comună rurală. La sfârșitul secolului al XIX-lea, Podu Iloaiei avea acest statut de comună rurală, formată doar din târgușorul de reședință, făcând parte din plasa Bahluiul a județului Iași, având în total 2736 de locuitori, majoritar evrei. În comună funcționau o școală mixtă cu 154 de elevi (deschisă ca școală de băieți în 1862 și admițând și fete începând cu 1867), o farmacie, un spital, o moară cu aburi și o biserică. Anuarul Socec din 1925 o consemnează ca reședință a aceleiași plăși, având 3464 de locuitori în satele Cosițeni, Holm, Scobâlțeni și Podu Iloaiei Târg.\nÎn 1950, comuna a trecut în administrarea raionului Târgu Frumos, apoi (după 1952) raionului Iași din regiunea Iași. În 1968, a revenit la județul Iași, reînființat, având în compoziție satele Budăi, Cosițeni, Holm și Scobâlțeni. În 2005, comuna Podu Iloaiei a fost declarată oraș, iar localitățile Podu Iloaiei și Budăi au devenit localități urbane componente ale orașului.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 605,
+      "level": 1,
+      "text": "Gara Podu Iloaiei, monument istoric\nTrei obiective din orașul Podu Iloaiei sunt incluse în lista monumentelor istorice din județul Iași ca monumente de interes local, toate fiind clasificate ca monumente de arhitectură aflate în localitatea urbană de reședință: biserica „Sfântul Nicolae” (1832), spitalul (fost han, 1830) și gara (sfârșitul secolului al XIX-lea).\nPersonalități născute aici\nI. Kara (1906 - 2001), memorialist, istoric;\nGeorge Văideanu, (1924 - 2014), profesor universitar și secretar general al Comisiei Naționale Române pentru UNESCO (1992).\nPetru Aruștei (1939 - 1984), poet și pictor.",
+      "title": "Monumente istorice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/podu_iloaiei.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

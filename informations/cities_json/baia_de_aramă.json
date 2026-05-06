@@ -1,0 +1,63 @@
+{
+  "city_key": "baia_de_aramă",
+  "display_name": "Baia de Aramă",
+  "metadata": {
+    "city": "Baia de Aramă",
+    "city_key": "baia_de_aramă",
+    "country": "România",
+    "county": "Mehedinți",
+    "ethnic_roma_pct": 7.26,
+    "ethnic_romanians_pct": 80.13,
+    "ethnicity_unknown_pct": 12.57,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 5349,
+    "population_2021": 4478,
+    "religion_orthodox_pct": 81.67,
+    "religion_unknown_pct": 12.84,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5766,
+    "raw_char_count": 6372,
+    "section_count": 5,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 634,
+      "level": 1,
+      "text": "Baia de Aramă\nBaia de Aramă este un oraș în județul Mehedinți, Oltenia, România, format din localitatea componentă Baia de Aramă (reședința), și din satele Bratilovu, Brebina, Dealu Mare, Mărășești, Negoești, Pistrița, Stănești și Titerlești. Are o populație de 5.617 locuitori. Râul Brebina străbate acest vechi târgușor mehedințean, în zonă existând o mulțime de ruine dacice, semn că regiunea a fost intens locuită de daci. Astăzi însă, natura și-a reintrat în drepturi. Altădată, aici erau mine de cupru, dar acum localitatea prezintă mai mult interes agro-turistic, fiind situată în apropierea multor obiective turistice montane.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 683,
+      "level": 1,
+      "text": "La Baia de Aramă din zonă, de la Bratilov, Mircea cel Bătrân a adus meșteri sași, precum Ciop Hanoș. Roțile pe care acesta le amenajase aici, înainte de 1392, sunt pomenite în mai multe acte. Baia de Aramă a fost sat și nu a devenit târg decât din secolul al XVII-lea.\nAșezarea se afla pe marele drum de sub munte ce traversa Țara Românească. De la Râmnic și Ocna Mare, drumul pornea spre Târgul Jiului și Severin, trecând prin Polovragi, Târgul Gilort și Baia de Aramă, fiind utilizat și de negustorii sibieni. La jumătatea secolului al XVII-lea, această rută a fost folosită de Paul de Alep și patriarhul Macarie al Antiohiei în călătoria lor pe la mănăstirile din Țara Românească.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1973,
+      "level": 1,
+      "text": "Așezare geografică\nBaia de Aramă este situată în partea de nord-vest a Olteniei, în Podișul Mehedinți.\nParalela 45 nord trece prin această localitate.\nSe adăpostește într-o depresiune mică, fiind înconjurată de dealurile Dochiciu, Dealul-Mare și Cornet. Tot de Baia de Aramă aparțin și localitățile învecinate: Brebina, Titerlești, Bratilovu, Mărășești, Stănești.\nCarstul este presărat de un mare număr de peșteri binecunoscute prin comorile lor de frumuseți: Bulba, Cloșani, Ponoarele, Izverna.\nPădurile sunt populate de animale sălbatice: vulpea, căprioara, țapul, iepurele, veverița, viezurele, porcul mistreț și chiar lupul sau ursul. Dintre rarități menționăm: vipera cu corn (vipera ammodites), scorpionul (euscorpius carpathiann), broasca țestoasă (testudo hermani) și o serie de șopârle.\nRâul Bulba\nRâul Bulba în Baia de Aramă\nAlături de păduri și pășuni, apele sunt o bogăție deosebită. Orașul este străbătut de râul Bulba care izvorăște din peștera cu același nume aflată în legătură cu Peștera Ponoarele prin care se scurge apa lacului Zătoni.\nDebitul râului este sporit de numărul mare al izvoarelor care îl alimentează, dintre care cel mai cunoscut este Bolborosul, care țâșnește la poala Cornetului de la baza unei stânci. Denumirea sugerează forța cu care izvorul țășnește bolborosind într-o limbă rece și cristalină a frumuseții nealterate de trecerea timpului.\nAici, la Bolboros, se organizau mai ales în zilele călduroase de vară ieșiri la iarbă verde și petreceri cu lăutari până noaptea târziu. Cu toate că asemenea petreceri sunt tot mai rare în ultimul timp, Bolborosul rămâne un loc fermecător care îi așteaptă pe cei setoși de frumusețe.\nApele izvorului au fost captate pentru o păstrăvărie aflată în administrarea Ocolului Silvic din Baia de Aramă. Ceva mai jos se află un alt izvor care a fost captat și adus până în fața bisericii și a școlii, unde țâșnește într-o fântănă aspectuos construită cu douăsprezece guri, o adevărată risipă de bogăție.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 893,
+      "level": 1,
+      "text": "Componența etnică a orașului Baia de Aramă\nRomâni (80,13%) Romi (7,26%) Alte etnii (0,04%) Necunoscută (12,57%)\nComponența confesională a orașului Baia de Aramă\nOrtodocși (81,67%) Baptiști (4,02%) Alte religii (1,47%) Necunoscută (12,84%)\nConform recensământului efectuat în 2021, populația orașului Baia de Aramă se ridică la 4.478 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 5.349 de locuitori. Majoritatea locuitorilor sunt români (80,13%), cu o minoritate de romi (7,26%), iar pentru 12,57% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (81,67%), cu o minoritate de baptiști (4,02%), iar pentru 12,84% nu se cunoaște apartenența confesională.\nBaia de Aramă - evoluția demografică\n01000200030004000500060001912193019481977199220022011populațiePopulația istorică din Baia de Aramă",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 439,
+      "level": 1,
+      "text": "Personalități născute aici\nIpolit Strâmbu (1871 - 1934), pictor, profesor de arte la Școala de Arte Frumoase din București;\nState Baloșin (1885 - 1953), arhitect, diplomat;\nIon Sârbu (1887 - 1947), actor;\nRomulus Raicu (n. 1945), deputat în Parlamentul României în perioada 1996 - 2000;\nNina Predescu (n. 1963), solistă de muzică populară;\nDoru Buzducea (n. 1972), profesor universitar;\nOlguța Berbec (n. 1984), solistă de muzică populară.",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/baia_de_aramă.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

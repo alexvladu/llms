@@ -1,0 +1,64 @@
+{
+  "city_key": "târgu_frumos",
+  "display_name": "Târgu Frumos",
+  "metadata": {
+    "city": "Târgu Frumos",
+    "city_key": "târgu_frumos",
+    "country": "România",
+    "county": "Iași",
+    "ethnic_roma_pct": 4.77,
+    "ethnic_romanians_pct": 70.92,
+    "ethnicity_unknown_pct": 21.48,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 10475,
+    "population_2021": 9597,
+    "religion_orthodox_pct": 69.64,
+    "religion_roman_catholic_pct": 1.46,
+    "religion_unknown_pct": 22.05,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5738,
+    "raw_char_count": 7009,
+    "section_count": 5,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 722,
+      "level": 1,
+      "text": "Târgu Frumos\nTârgu Frumos este un oraș în județul Iași, Moldova, România. Se află în Câmpia Jijiei, lângă Bahluieț. Are o suprafață de 15,13 km². Populația este de 9.597 locuitori, determinată în 1 decembrie 2021, prin recensământ, chestionar.\nAșezare\nLocalitatea este situată în zona estică a județului, pe malurile Bahluiețului. Orașul este străbătut de șoseaua națională DN28 care leagă Iașul de Roman. La Târgu Frumos, din DN28 se ramifică șoselele naționale DN28A, care duce spre vest la Pașcani și Moțca (unde se termină în DN2), și DN28B care duce spre nord la Hârlău și la Botoșani. Prin oraș trece calea ferată Pașcani-Iași. În Târgu Frumos se află reședința comunei Ion Neculce care înconjoară ca un inel orașul.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 1751,
+      "level": 1,
+      "text": "Componența etnică a orașului Târgu Frumos\nRomâni (70,92%) Romi (4,77%) Ruși lipoveni (2,72%) Alte etnii (0,11%) Necunoscută (21,48%)\nComponența confesională a orașului Târgu Frumos\nOrtodocși (69,64%) Creștini de rit vechi (5,84%) Romano-catolici (1,46%) Alte religii (1,02%) Necunoscută (22,05%)\nConform recensământului efectuat în 2021, populația orașului Târgu Frumos se ridică la 9.597 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 10.475 de locuitori. Majoritatea locuitorilor sunt români (70,92%), cu minorități de romi (4,77%) și ruși lipoveni (2,72%), iar pentru 21,48% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (69,64%), cu minorități de creștini de rit vechi (5,84%) și romano-catolici (1,46%), iar pentru 22,05% nu se cunoaște apartenența confesională.\nEvoluție istorică\nÎn localitate au trăit în cursul anilor, în afară de români, și alte comunități etnice: evrei, sași, ceangăi, rromi, armeni, ruși lipoveni.\nÎn anul 1930, trăiau la Târgu Frumos 4932 de locuitori. Evreii numărau 1608 dintre ei.\nGara Târgu Frumos a fost o stație de oprire a „trenului morții” din cursul pogromului de la Iași. La 1 iulie 1941 654 morți au fost coborâți din acest tren și transportați pentru inhumare în cimitirul evreiesc din așezare.\nÎn trecut a trăit la Târgu Frumos și o comunitate armeană. În 1894 mai trăiau în localitate 73 armeni, iar în 1930 11 armeni. Comunitatea ruso-lipoveană posedă două biserici proprii și și-a avut mahalaua ei deosebită. Lipovenii au îmbrățișat mai cu seamă ocupații agricole.\nTârgu Frumos - evoluția demografică\n030006000900012.00015.0001912193019481977199220022011populațiePopulația istorică din Târgu Frumos",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 1171,
+      "level": 1,
+      "text": "Prima atestare documentară a orașului Târgu Frumos a fost datată 5 octombrie 1448.\nÎnainte de Regulamentul Organic, orașul a fost reședința ținutului Cârligătura din Principatul Moldovei. La adoptarea Regulamentului Organic, acest ținut a fost desființat și divizat între județele Iași și Roman, Târgu Frumos fiind inclus în primul. La sfârșitul secolului al XIX-lea, Târgu Frumos avea statut de comună urbană, reședință a plășii Cârligătura din județul Iași, având 4585 de locuitori. În oraș funcționau trei biserici ortodoxe românești, una lipovenească, un spital, o școală mixtă, o farmacie și un birou telegrafo-poștal. Anuarul Socec din 1925 îl consemnează cu același statut, având 4467 de locuitori.\nSpre sfârșitul celui de al Doilea Război Mondial, zona orașului a fost scena bătăliilor de la Târgu Frumos, unele dintre ultimele lupte la care armata română a participat de partea Axei.\nDupă război, în 1950, orașul a devenit reședința raionului Târgu Frumos din regiunea Iași, dar în 1956 acest raion a fost desființat, orașul trecând la raionul Pașcani din aceeași regiune. La reforma administrativă din 1968, orașul a fost transferat județului Iași, reînființat.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 742,
+      "level": 1,
+      "text": "Gara Târgu Frumos, monument istoric\nȘase obiective din orașul Târgu Frumos sunt incluse în lista monumentelor istorice din județul Iași ca monumente de interes local. Patru dintre ele sunt clasificate ca monumente de arhitectură: biserica „Sfântul Nicolae” (1801); fosta școală de fete (1842–1859); gara (1870); și ansamblul bisericii „Cuvioasa Paraschiva” (circa 1541, construită de Petru Rareș), format din biserica propriu-zisă și din zidul de incintă.\nMausoleul soldaților români din Primul Război Mondial, ridicat la începutul secolului al XX-lea și aflat în cimitir, este clasificat ca monument de for public; iar casa memorială Garabet Ibrăileanu (începutul secolului al XX-lea) din strada Cuza Vodă este monument memorial sau funerar.",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 932,
+      "level": 1,
+      "text": "Dumitru Theodor Neculuță (1859-1904), poet, membru post-mortem al Academiei Române\nGarabet Ibrăileanu (1871-1936), critic literar, eseist, istoric literar, pedagog, redactor literar, romancier român, de origine armeană\nMarta Trancu-Rainer (1875-1950), prima femeie chirurg din România, de origine armeană\nGrigore Trancu-Iași (23 octombrie 1874 - 7 ianuarie 1940) a fost un om politic, economist, avocat, profesor universitar, scriitor și memorialist român de origine armeană\nBelu Zilber (1901-1978), activist comunist, economist și memorialist de etnie evreiască, dizident\nValentin Talpalaru (n.1953), poet român\nDan Merișca (1957-1991), scriitor român de science-fiction\nLucian Merișca (n. 1958), scriitor român de literatură științifico-fantastică, traducător și redactor de radio\nAnișoara Minea-Sorohan (după căsătorie Minea) este o fostă canotoare română, laureată cu aur la Los Angeles 1984\nGabriela Crețu (n. 1965), om politic",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/târgu_frumos.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

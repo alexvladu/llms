@@ -1,0 +1,55 @@
+{
+  "city_key": "dragomirești",
+  "display_name": "DragomireștiPentru alte sensuri, vedeți Dragomirești (dezambiguizare).",
+  "metadata": {
+    "city": "DragomireștiPentru alte sensuri, vedeți Dragomirești (dezambiguizare).",
+    "city_key": "dragomirești",
+    "country": "România",
+    "county": "Maramureș",
+    "ethnic_romanians_pct": 96.99,
+    "ethnicity_unknown_pct": 2.89,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2021": 3154,
+    "religion_orthodox_pct": 93.41,
+    "religion_unknown_pct": 3.08,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3028,
+    "raw_char_count": 4004,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 491,
+      "level": 1,
+      "text": "DragomireștiPentru alte sensuri, vedeți Dragomirești (dezambiguizare).\nDragomirești (în maghiară Dragomérfalva, în germană Dragomir) este un oraș în județul Maramureș, Transilvania, România.\nDragomirești este cel mai nou oraș din județ, primind acest statut prin Legea nr. 332 din 8 iulie 2004.\nIstoric\nPrima atestare documentară: 1373 (possessio Nyres) ; 1385 (Danfalva) .\nEtimologie\nEtimologia numelui localității: din n. grup dragomirești < n. fam. Dragomir (< sl. Dragomir) + suf. -ești.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 713,
+      "level": 1,
+      "text": "Componența etnică a orașului Dragomirești\nRomâni (96,99%) Alte etnii (0,13%) Necunoscută (2,89%)\nComponența confesională a orașului Dragomirești\nOrtodocși (93,41%) Greco-catolici (2,76%) Alte religii (0,76%) Necunoscută (3,08%)\nConform recensământului efectuat în 2021, populația orașului Dragomirești se ridică la 3.154 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 3.213 locuitori. Majoritatea locuitorilor sunt români (96,99%), iar pentru 2,89% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (93,41%), cu o minoritate de greco-catolici (2,76%), iar pentru 3,08% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 602,
+      "level": 1,
+      "text": "\"Muzeul Țărăncii Române\" din Dragomirești. Clădirea adăpostește mai multe obiecte folosite de țăranca din Maramureș, cum ar fi: copacul cu oale, zestrea pe care o dădeau copiilor la căsătorie, costume populare tradiționale, cuptor, obiecte de tors lâna și multe altele. Acesta se află pe drumul principal.\nValea Izei și Dealul Solovan (sit de importanță comunitară inclus în rețeaua europeană Natura 2000).\nManifestări tradiționale locale\nFestivalul primăverii Câte flori pe Iza-n sus (luna aprilie).\nArii naturale protejate (de interes național)\nRezervația naturală Arcer - Țibleș Bran (Legea 5/2000).",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 811,
+      "level": 1,
+      "text": "Alecsiu Dragomir (1875-1940), deputat în Marea Adunare Națională de la Alba Iulia, 1918\nIoan Bud (1880-1950), ministrul Finanțelor din Ungaria între 1924-1928\nIon Burnar (1947-2010), poet, publicist; membru al Uniunii Scriitorilor. Laureat cu Premiul Editurii Eminescu (1981) și Premiul pentru cel mai valoros volum de debut al anului (1983) al Uniunii Scriitorilor pentru vol. Memorandum liric (1982). Alte volume: Viața la țară cu și fără Tănase Scatiu (1982), Gâlceava scopului cu mijloacele (1998), Aici provincialul... aștept metropolitanii (2000) etc.\nIon Zubașcu (1948-2011), poet. Vol. Gesturi și personaje (1982), premiu pentru debut al Editurii Albatros; Omul de cuvânt (1991), Întoarcerea lui Dumnezeu... (1995), Omul disponibil (1999) etc.\nVasile Bizău (n. 1969), episcop greco-catolic de Maramureș.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/dragomirești.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

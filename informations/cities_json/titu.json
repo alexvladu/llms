@@ -1,0 +1,72 @@
+{
+  "city_key": "titu",
+  "display_name": "Titu",
+  "metadata": {
+    "city": "Titu",
+    "city_key": "titu",
+    "country": "România",
+    "county": "Dâmbovița",
+    "ethnic_romanians_pct": 91.92,
+    "ethnicity_unknown_pct": 7.88,
+    "has_national_roads": true,
+    "has_polyclinic": true,
+    "has_railway": false,
+    "national_roads": [
+      "DN7"
+    ],
+    "population_2011": 9658,
+    "population_2021": 9291,
+    "religion_orthodox_pct": 90.11,
+    "religion_unknown_pct": 8.46,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5322,
+    "raw_char_count": 6777,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 997,
+      "level": 1,
+      "text": "Titu\nTitu este un oraș în județul Dâmbovița, Muntenia, România, format din localitatea componentă Titu (reședința), și din satele Fusea, Hagioaica, Mereni, Plopu și Sălcuța. Aflată în mijlocul unei câmpii ce-i poartă numele, străbătută de ape cu debite constante, localitatea se prezintă ca un nod feroviar destul de important și frecventat de numeroase trenuri de călători și mărfuri, având o poziție mediană față de orașele București, Pitești și Târgoviște, având astfel o reputație de oraș cu navetiști.\nAșezare\nOrașul Titu este situat în partea de sud a României și a județului Dâmbovița, aproximativ la 50 km nord-vest de București, ceea ce corespunde unei poziții central-nordice în cadrul Câmpiei Române și unei amplasări aproape mediane între localitățile București–Pitești–Târgoviște, la o distanță de 52 km, 73,5 km, respectiv 39,5 km.\nOrașul se învecinează la nord cu Produlești și Braniștea, la sud cu Odobești și Potlogi, la est cu Conțești și Lungulețu, iar la vest cu Costești-Vale.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 341,
+      "level": 1,
+      "text": "În Titu se intersectează calea ferată București–Pitești, cu linia ce duce la Târgoviște și Pietroșița.\nTitu este traversat de șoseaua națională DN7, care leagă Bucureștiul de Pitești. Din DN7, la Titu se ramifică și șoseaua județeană DJ701, care leagă orașul spre sud de autostrada București–Pitești, și spre nord de Braniștea și Târgoviște.",
+      "title": "Transport"
+    },
+    {
+      "char_count": 1541,
+      "level": 1,
+      "text": "La sfârșitul secolului al XIX-lea, Titu era o comună rurală, reședința plășii Bolintinu din județul Dâmbovița. Comuna avea în compunere satele Titu, Plopu, Mărunțișu, Fusea, Codreanu, Hagoaica, Dâmbovicioara și Atârnați, cu 1606 locuitori, și în ea funcționau patru biserici, două școli, o moară de aburi și instituțiile administrative ale plășii. Pe atunci, pe teritoriul actual al orașului mai funcționa în aceeași plasă și comuna Cornetu, cu satele Cornetu (Sălcuța) și Boteni, având 1854 de locuitori. Aici funcționau o moară de aburi, una de apă pe Dâmbovița, o fabrică de făină și griș, una de spirt (toate în satul Boteni), plus două biserici și o școală.\nÎn 1925, Anuarul Socec consemnează comuna Titu ca reședință a plășii Titu din același județ, având în compunere satele Atârnați, Codreanu, Dâmbovicioara, Dobreasca, Fusca, Hagioaica, Plopu și Titu, cu 3008 locuitori. Comuna Cornetu era denumită acum Sălcuța, având în compunere aceleași sate, Cornetu-Sălcuța și Boteni, cu 2112 locuitori.\nÎn 1931, satele Dâmbovicioara-Dobreasca, Atârnați și Codreanu s-au separat pentru a forma comuna Principele Mihai, comuna Titu rămânând cu satele Fusea, Hagioaica, Plopu și Titu-Târg. Comuna Sălcuța avea în compunere satele Sălcuța și Mereni.\nÎn 1950, județele au fost desființate, iar cele două comune au trecut inițial la raionul Răcari din regiunea București; în 1952, comuna Titu a devenit reședința raionului omonim din aceeași regiune. În 1968, comuna Sălcuța a fost desființată și inclusă în comuna Titu, care a fost declarată oraș.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1251,
+      "level": 1,
+      "text": "Componența etnică a orașului Titu\nRomâni (91,92%) Alte etnii (0,2%) Necunoscută (7,88%)\nComponența confesională a orașului Titu\nOrtodocși (90,11%) Alte religii (1,43%) Necunoscută (8,46%)\nConform recensământului efectuat în 2021, populația orașului Titu se ridică la 9.291 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 9.658 de locuitori. Majoritatea locuitorilor sunt români (91,92%), iar pentru 7,88% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (90,11%), iar pentru 8,46% nu se cunoaște apartenența confesională.\nTitu - evoluția demografică\n0200040006000800010.00012.0001977199220022011populațiePopulația istorică din Titu\nBiserici\nOrașul Titu are în alcătuirea sa 8 biserici ortodoxe:\nBiserica Sfântul Ioan Botezătorul-Titu-Gară;\nBiserica Sfântul Nicolae-Titu Nou;\nBiserica Sfinții Împărați Constantin și mama sa Elena-parohia Sălcuța-sat Sălcuța;\nBiserica de lemn Sfântul Nicolae, parohia Cornetu- sat Sălcuța - (monument istoric-DB-II-m-A-17694);\nBiserica Adormirea Maicii Domnului-Codreanu;\nBiserica Sfântul Nicolae-Plopu; (monument istoric-DB-II-m-B-17646)\nToate aceste parohii aparțin Protoieriei Titu din Arhiepiscopia Târgoviștei.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 166,
+      "level": 1,
+      "text": "Educație și cultură\nLocalitatea dispune de 15 instituții de învățământ: 2 licee, 6 școli și 7 grădinițe, dar și de o casă de cultură, o bibliotecă și 4 baze sportive.",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 675,
+      "level": 1,
+      "text": "Instituțiile medicale care deservesc orașul Titu sunt reprezentate de o policlinică, un dispensar TBC și 5 farmacii.\nSport\nPe stadionul orășenesc Titu joacă echipa locală, Urban Titu. Acesta este un club de fotbal din România care evoluează în Liga a III-a. Urban Titu s-a calificat în sezonul 2009-2010 în Faza a IV-a a Cupei României, unde a învins echipa FC Argeș cu scorul de 1-0. În faza a V-a a competiției a fost eliminată de Dunărea Giurgiu cu scorul de 2-1. Urban Titu s-a desființat în toamna anului 2017. La sfârșitul sezonului 2023-2024 reînființata Urban Titu reușește să promoveze din nou în liga a III-a.\nStrymoniko, prefectura Serres, Grecia (4.755 locuitori)",
+      "title": "Sănătate"
+    }
+  ],
+  "source": {
+    "path": "cities_text/titu.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

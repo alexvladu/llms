@@ -1,0 +1,82 @@
+{
+  "city_key": "cavnic",
+  "display_name": "Cavnic",
+  "metadata": {
+    "city": "Cavnic",
+    "city_key": "cavnic",
+    "country": "România",
+    "county": "Maramureș",
+    "ethnic_romanians_pct": 81.85,
+    "ethnicity_unknown_pct": 10.37,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 4976,
+    "population_2021": 4264,
+    "religion_orthodox_pct": 70.83,
+    "religion_pentecostal_pct": 1.67,
+    "religion_roman_catholic_pct": 12.59,
+    "religion_unknown_pct": 10.81,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4616,
+    "raw_char_count": 5438,
+    "section_count": 8,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 532,
+      "level": 1,
+      "text": "Cavnic\nCavnic (numit local și Capnic, maghiară Kapnikbánya, germană Kapnik) este un oraș în județul Maramureș, Transilvania, România. Conform recensământului din anul 2023, localitatea avea o populație de 4.264 locuitori.\nEtimologie\nEtimologia numelui localității: din magh. Kapolnik (< magh. kápolna „capelă\"), de unde Capnic, apoi Cavnic.\nDupă alte teorii, numele derivă de la numele râului, care la rândul său derivă din cuvântul de origine slavă „kopaonik”, care înseamnă „a săpa”. Mineritul în zonă datează din perioada romană.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 203,
+      "level": 1,
+      "text": "Orașul Cavnic este situat într-o zonă muntoasă, la poalele munților Gutâi, pe cursul superior al râului Cavnic, la o altitudine între 550 și 1.120 metri, la distanța de 32 km est de municipiul Baia Mare.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 833,
+      "level": 1,
+      "text": "Cavnicul a fost pentru prima dată atestat documentar ca sat, în 1336, cu numele de Capnic. După alte surse, prima atestare datează din 1455 (Kapnek).\nBiserica romano-catolică Sfânta Barbara (monument istoric)\nOrașul a fost distrus de otomani în 1460 și de tătari în 1717. Tot în decursul secolului al XVIII-lea orașul a suferit de epidemii de ciumă și holeră. Abia spre sfârșitul secolului a început să se refacă. În 1761 s-a înființat judecătoria minieră locală și în 1763 s-a emis prima concesiune minieră, care deschidea dezvoltarea exploatărilor miniere.\nCavnicul a fost declarat oraș la 17 februarie 1968. În anii '70 s-a dezvoltat într-un ritm accelerat. În 2001 și 2003 s-au amenajat două pârtii de ski, la „Icoana” și \"Roata\", moteluri, case de oaspeți și un hotel, într-un demers de a dezvolta potențialul turistic al zonei.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 840,
+      "level": 1,
+      "text": "Componența etnică a orașului Cavnic\nRomâni (81,85%) Maghiari (7,13%) Alte etnii (0,66%) Necunoscută (10,37%)\nComponența confesională a orașului Cavnic\nOrtodocși (70,83%) Romano-catolici (12,59%) Penticostali (1,67%) Reformați (1,08%) Alte religii (3,03%) Necunoscută (10,81%)\nConform recensământului efectuat în 2021, populația orașului Cavnic se ridică la 4.264 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 4.976 de locuitori. Majoritatea locuitorilor sunt români (81,85%), cu o minoritate de maghiari (7,13%), iar pentru 10,37% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (70,83%), cu minorități de romano-catolici (12,59%), penticostali (1,67%) și reformați (1,08%), iar pentru 10,81% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 334,
+      "level": 1,
+      "text": "Evoluție istorică\nRecensământul maghiar din 1910 consemna o populație de 3.517 locuitori, dintre care 1.864 maghiari, 1.604 români și 49 germani. 1.497 erau declarați romano-catolici, 1.890 greco-catolici și 89 de evrei.\nCavnic - evoluția demografică\n010002000300040005000600070001977199220022011populațiePopulația istorică din Cavnic",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 529,
+      "level": 1,
+      "text": "Ansamblul de locuințe pentru mineri și administrația minei Cavnic (Cartier Handal) - monument istoric\nTurismul este principalul sector de activitate.\nÎn perioada când mineritul era principalul sector de activitate, aici se exploatau și se prelucrau minereuri complexe cu conținut de aur, argint, plumb, zinc și cupru, mina fiind cea mai mare exploatare de minereuri complexe din Europa. După ce mina s-a închis, mulți localnici au rămas fără un venit stabil și mulți tineri au plecat în străinătate în speranța unui trai mai bun.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 584,
+      "level": 1,
+      "text": "Stâlpul tătarilor: inscripția în limba latină\nBiserica romano-catolică „Sfânta Barbara”, monument din 1812;\n„Stâlpul tătarilor” pe care se află următoarea inscripție latină: Anno 1717 usque hic fuerunt tartaris (În anul 1717 până aici au ajuns tătarii).\nGutâi - Creasta Cocoșului (sit de importanță comunitară inclus în rețeaua europeană Natura 2000).\nPaltinul secular (Acer pseudoplatanus), înalt de 30 m, cu diametrul trunchiului de 1,32 m.\n„Logolda” - ruinele unei topitorii de aur din secolul XIX.\nPârtiile de ski „Icoana” și „Roata”.\nRuinele topitoriei pentru extragerea aurului.",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 587,
+      "level": 1,
+      "text": "Bustul lui Ignațiu von Born\nIgnațiu von Born (1742-1791), geolog, mineralog, funcționar imperial\nJenő Jendrassik (1824-1891), medic, membru al Academiei Ungare de Științe;\nGyörgy Komoróczy (1909 - 1981), istoric maghiar;\nAntal Krupiczer (1944-2009), sculptor expresionist;\nPetru Moldovan (n. 1942), profesor universitar, membru al Academiei de Științe Tehnice din România, membru al TMS (SUA), decan al Facultății de Stiința si Ingineria Materialelor din Universitatea Politehnică din București, specialist în domeniul metalurgiei neferoase\nAlexandru Gafton (n. 1966), lingvist, filolog.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/cavnic.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

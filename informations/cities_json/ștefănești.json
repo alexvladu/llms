@@ -1,0 +1,34 @@
+{
+  "city_key": "ștefănești",
+  "display_name": "ȘtefăneștiȘtefănești se poate referi la una din următoarele localități",
+  "metadata": {
+    "city": "ȘtefăneștiȘtefănești se poate referi la una din următoarele localități",
+    "city_key": "ștefănești",
+    "country": "România",
+    "county": "Botoșani",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "sat"
+  },
+  "quality": {
+    "clean_char_count": 920,
+    "raw_char_count": 920,
+    "section_count": 1,
+    "warnings": [
+      "missing_demografie_section"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 869,
+      "level": 1,
+      "text": "ȘtefăneștiȘtefănești se poate referi la una din următoarele localități\nLocalități din Republica Moldova\nȘtefănești - sat din cadrul comunei Tănătarii Noi, raionul Căușeni\nȘtefănești - sat din raionul Florești, reședința comunei cu același nume\nȘtefănești - sat din raionul Ștefan Vodă\nLocalități din România:\norașul Ștefănești din județul Botoșani;\norașul Ștefănești din județul Argeș;\ncomuna Ștefănești din județul Vâlcea;\nsatul Ștefănești din comuna Ileana din județul Călărași;\nsatul Ștefănești (aparține de orașul Târgu Cărbunești) din județul Gorj;\nsatul dispărut Ștefănești (Darova), fost Istvanfalva, din județul Timiș;\nȘtefănești-Sat, Botoșani\nLocalități din Ucraina\nȘtefănești - sat în raionul Zastavna, regiunea Cernăuți.\nAltele\nRâul Ștefănești\nStânca Ștefănești\nȘtefăneștii de Jos, Ilfov\nȘtefăneștii de Sus, Ilfov\nȘtefăneștii Noi, Argeș\nGara Ștefănești Argeș",
+      "title": "Introducere"
+    }
+  ],
+  "source": {
+    "path": "cities_text/ștefănești.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "city_key": "brad",
+  "display_name": "Brad",
+  "metadata": {
+    "city": "Brad",
+    "city_key": "brad",
+    "country": "România",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 3071,
+    "raw_char_count": 3355,
+    "section_count": 1,
+    "warnings": [
+      "missing_demografie_section"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 2617,
+      "level": 1,
+      "text": "Brad\nAcest articol se referă la un gen de arbori. Pentru alte sensuri, vedeți Brad (dezambiguizare).\nBradul (Abies) este un gen de copaci care cuprinde aproximativ 45–55 de specii de conifere din familia Pinaceae, răspândite preponderent în zonele muntoase ale emisferei nordice. Sunt arbori de talie mare cu înrădăcinare pivotantă. Coroana este piramidală deasă, umbroasă, scoarța mult timp netedă cu pungi de rășină. Lujerii sunt netezi, iar mugurii dispuși terminal întotdeauna câte trei. Prezintă frunze aciculare lățite, pe dos cu două dungi albicioase de stomate, persistente, care se schimbă la 6–15 ani. Conurile sunt erecte, cilindrice, cu bractei obișnuit vizibile și răsfrânte; solzul carpelar cade la maturitate odată cu semințele, iar pe lujer rămâne axul erect. Semințe relativ mari, triunghiulare, cu pungi de rășină pe tegument și prinse strâns de aripioară.\nSpecii: Abies alba, A. nordmanniana, A. cephalonica, A. pinsapo, A. grandis, A. concolor etc.\nBradul face parte din familia de conifere. Cele mai cunoscute conifere sunt:\nBradul\nMolidul\nPinul\nBradul se deosebește de celelalte specii de conifere mai ales prin așezarea frunzelor care, popular, se mai numesc și ace (aciculare). Acestea au o lungime medie de 2 cm și sunt dispuse de-a lungul crengilor în același plan, față de alte conifere la care acele sunt dispuse de jur împrejurul crengilor. Frunzele bradului sunt mai moi decât ale altor conifere ale căror frunze înțeapă mai tare. Diferența majoră față de foioase este că bradul (ca majoritatea coniferelor, căci există și excepții – Larice) stă verde pe tot parcursul anului.\nBradul ca și celelalte conifere își schimbă frunzele(acele) treptat de-a lungul întregului an iar noi putem observa acest lucru doar văzând covorul de ace căzute la tulpina bradului.\nConiferele au rădăcina pivotantă, alta deosebire față de foioase care au rădăcina foarte ramificată.\nConurile nu sunt fructele bradului (Gymnospermele sunt plante ale căror semințe sunt dezgolite, nude, fără un fruct în jurul lor), ele sunt inflorescențele bradului. În alveolele conurilor se dezvoltă semințele bradului. Când semințele sunt coapte, alveolele se desfac și semințele pot ieși din conuri. Căzând pe pământ, ele dau naștere la noi brazi. De asemenea, semințele brazilor sunt o sursă de hrană pentru păsări , veverițe și alte rozătoare ale pădurii. Conurile pot fi bărbătești sau femeiești. Polenizarea este făcută natural prin vânt.\nBrazii cresc foarte drepți și din această cauză lemnul de brad se folosește în special în construcții, dar și la fabricarea mobilei, fiind un lemn destul de rezistent.\nGalerie foto",
+      "title": "Introducere"
+    }
+  ],
+  "source": {
+    "path": "cities_text/brad.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

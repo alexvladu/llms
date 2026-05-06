@@ -1,0 +1,43 @@
+{
+  "city_key": "videle",
+  "display_name": "Videle",
+  "metadata": {
+    "city": "Videle",
+    "city_key": "videle",
+    "country": "România",
+    "county": "Teleorman",
+    "ethnic_roma_pct": 3.81,
+    "ethnic_romanians_pct": 85.76,
+    "ethnicity_unknown_pct": 10.34,
+    "has_national_roads": false,
+    "has_railway": false,
+    "religion_orthodox_pct": 87.4,
+    "religion_unknown_pct": 11.04,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 1269,
+    "raw_char_count": 1875,
+    "section_count": 2,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 466,
+      "level": 1,
+      "text": "Videle\nVidele este un oraș în județul Teleorman, Muntenia, România, format din localitatea componentă Videle (reședința), și din satul Coșoaia. A fost înființat în anul 1968 prin alipirea la comuna Videle a unor cartiere de case: Cartojanca, Stănceasca, Furculești, Fotăchești, Tămăsești, Parisești și Coșoaia[necesită citare]. În acest oraș sunt două școli - Școala Gimnazială nr. 1 Videle și Școala Gimnazială nr. 2 - și un liceu - Liceul Teoretic Videle.\nPolitică",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 786,
+      "level": 1,
+      "text": "Componența etnică a orașului Videle\nRomâni (85,76%) Romi (3,81%) Alte etnii (0,09%) Necunoscută (10,34%)\nComponența confesională a orașului Videle\nOrtodocși (87,4%) Alte religii (1,55%) Necunoscută (11,04%)\nConform recensământului efectuat în 2021, populația orașului Videle se ridică la 10.107 locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 11.508 locuitori. Majoritatea locuitorilor sunt români (85,76%), cu o minoritate de romi (3,81%), iar pentru 10,34% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (87,4%), iar pentru 11,04% nu se cunoaște apartenența confesională.\nVidele - evoluția demografică\n030006000900012.00015.0001977199220022011populațiePopulația istorică din Videle",
+      "title": "Demografie"
+    }
+  ],
+  "source": {
+    "path": "cities_text/videle.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

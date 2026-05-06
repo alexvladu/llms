@@ -1,0 +1,54 @@
+{
+  "city_key": "vlăhița",
+  "display_name": "Vlăhița",
+  "metadata": {
+    "city": "Vlăhița",
+    "city_key": "vlăhița",
+    "country": "România",
+    "county": "Harghita",
+    "ethnicity_unknown_pct": 5.21,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6898,
+    "population_2021": 6468,
+    "religion_roman_catholic_pct": 82.45,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4529,
+    "raw_char_count": 5335,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 2682,
+      "level": 1,
+      "text": "Vlăhița\nOrașul Vlăhița cu Munții Hargitei\nVlăhița (în maghiară Szentegyháza, colocvial Oláhfalu) este un oraș în județul Harghita, Transilvania, România, format din localitățile componente Băile Homorod, Minele Lueta și Vlăhița (reședința).\nLocalitatea este situată la poalele Munților Harghita, la o altitudine de 800-900 m, cu orientarea nord-sud. Este străbătută de canalul Vârghiș, care a fost format prin devierea pârâului Vârghiș și a ramurilor acestuia, oferind apă necesară pentru gospodăriile și fermele familiale. Cu acest sistem de flux rapid au funcționat mori, ferăstraie (joagăr, gatter), forje și piue de postav.\nIstoric\nDezvoltarea istorică a orașului Vlăhița a fost influențată de dezvoltarea localităților Szentegyházasfalu (Vlăhița-Sat), care cuprinde partea nordică a așezării, și Szentkeresztbánya (Mina Sfânta Cruce) din partea sudică, cu aspectul său orășenesc.\nPrima atestare documentară datează din anul 1301, ca Vila Olachalis (Satul Valahilor). În anul 1406 localitatea a fost menționată într-un titlu de proprietate litigios, cu numele Szentegyházasfalu. Locuitorii satului s-au ocupat de creșterea animalelor, de prelucrarea lemnului și de agricultură, ale căror tradiție se continuă și astăzi în mai multe familii. Timp de secole, ei au avut un rol de pază, împreună cu satul Căpâlnița, pe drumul ce leagă Miercurea-Ciuc de Odorheiu-Secuiesc. De aici au asigurat trecerea sigură pentru caravane, poștalioane și pentru căpitanii castelurilor. Ca urmare, au primit multe privilegii de la prinții transilvăneni și regii maghiari. Între anii 1872-1876., cele două sate (Căpâlnița și Vlăhița Sat) au devenit un oraș autonom (Oraș Secuiesc).\nCaracterul urban al Minei Sfânta Cruce (Szentkeresztbánya) se datorează înființării fabricii de fier, care s-a dezvoltat din feroneria regiunii Homorodului Mic. În 1836 Gyertyánffy Jónás a pus bazele organizării mineritului și metalurgiei moderne la Minele Lueta. Mai târziu, în anul 1850 afacerea a fost deplasată pe teritoriul actual al Minei Sfânta Cruce (Szentkeresztbánya) de către noul proprietar Demeter Miklós din Brașov. Una din aceste forje (ciocan hidraulic pentru prelucrarea fierului, în maghiară vashámor) construite aici, a funcționat până în anii 1990., astfel a fost ultima forjă în funcțiune din Europa. Ruinele sale pot fi găsite și astăzi.\nConform legii administrative din 1953, Mina Sfânta Cruce (Szentkeresztbánya) a fost anectată la Vlăhița Sat (Szentegyházasfalu) iar în anul 1968, printr-o decizie ministerială, localitatea a devenit oraș, adăugându-i-se Băile Homorod și Minele Lueta.\nÎn localitate se prelucrau fierul obținut în exploatarea de la Minele Lueta, aflată în sudul localității.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 735,
+      "level": 1,
+      "text": "Componența etnică a orașului Vlăhița\nMaghiari (94,12%) Alte etnii (5,88%)\nComponența confesională a orașului Vlăhița\nRomano-catolici (82,45%) Reformați (3,71%) Unitarieni (3,59%) Martori ai lui Iehova (1,96%) Alte religii (3,08%) Necunoscută (5,21%)\nConform recensământului efectuat în 2021, populația orașului Vlăhița se ridică la 6.468 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.898 de locuitori. Majoritatea locuitorilor sunt maghiari (94,12%). Din punct de vedere confesional, majoritatea locuitorilor sunt romano-catolici (82,45%), cu minorități de reformați (3,71%), unitarieni (3,59%) și martori ai lui Iehova (1,96%), iar pentru 5,21% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 639,
+      "level": 1,
+      "text": "Orașul Vlăhița este administrat de un primar și un consiliu local compus din 15 consilieri. Primarul, Csaba Lőrincz[*]​, de la Alianța Maghiară din Transilvania, este în funcție din octombrie 2020. Începând cu alegerile locale din 2024, consiliul local are următoarea componență pe partide politice:\nEvoluție istorică\nLa recensământul din 1850 au fost numărate 1.651 de persoane, dintre care 1.554 maghiari (din care 1.547 secui) (94,2%), 54 români (3,5%), 33 țigani (2,1%), 5 germani (0,3%) și 5 persoane de altă naționalitate (0,3%).\nVlăhița - evoluția demografică\n020004000600080001977199220022011populațiePopulația istorică din Vlăhița",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 127,
+      "level": 1,
+      "text": "Klára Sebők (n. 15 august 1942), actriță română de etnie maghiară.\nImagini\nVlăhița în Harta Iosefină a Transilvaniei, 1769-1773",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/vlăhița.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

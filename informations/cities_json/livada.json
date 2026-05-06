@@ -1,0 +1,34 @@
+{
+  "city_key": "livada",
+  "display_name": "LivadaLivada se poate referi la:",
+  "metadata": {
+    "city": "LivadaLivada se poate referi la:",
+    "city_key": "livada",
+    "country": "România",
+    "county": "Satu Mare",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 880,
+    "raw_char_count": 880,
+    "section_count": 1,
+    "warnings": [
+      "missing_demografie_section"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 798,
+      "level": 1,
+      "text": "LivadaLivada se poate referi la:\nLivadă - grădină cu arbori sau arbuști fructiferi\nLocalități din România:\nLivada, un oraș din județul Satu Mare.\nLivada, o comună din județul Arad., reședința comunei cu același nume\nLivada, un sat din județul Botoșani.\nLivada, un sat din județul Buzău.\nLivada, un sat din comuna Iclod, județul Cluj.\nLivada, un sat din comuna Petreștii de Jos, județul Cluj.\nLivada, un sat din județul Hunedoara.\nLivada, un sat din județul Vrancea.\nLivada Beiușului, un sat din județul Bihor.\nLivada de Bihor, un sat din județul Bihor.\nLivada Mică, un sat din județul Buzău.\nLivada Mică, un sat din județul Satu Mare.\nLocalități din Bulgaria:\nLivada (bulgară Ливада), un sat din Regiunea Burgas.\nLocalități din Grecia:\nLivada (greacă Λιβάδα), un sat din Prefectura Cania din Creta.",
+      "title": "Introducere"
+    }
+  ],
+  "source": {
+    "path": "cities_text/livada.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

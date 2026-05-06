@@ -1,0 +1,39 @@
+{
+  "city_key": "roman",
+  "display_name": "Roman",
+  "metadata": {
+    "city": "Roman",
+    "city_key": "roman",
+    "country": "România",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 1229,
+    "raw_char_count": 1229,
+    "section_count": 2,
+    "warnings": [
+      "missing_demografie_section"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 502,
+      "level": 1,
+      "text": "RomanTermenul Roman sau roman, dar mai ales ca substantiv propriu, se poate referi la:\nCompanie\nRoman S.A. – companie brașoveană, producătoare de autovehicule grele\nDomnitori\nRoman cel Mare – cneaz rus care a trăit între anii 1151 și 1205\nDomni și voievozi români,\nRoman I - numit de unii istorici și Roman Mușat (n. secolul al XIV-lea – d. 1400) și\nRoman al II-lea al Moldovei – (n. 1426 – d. 2 iulie 1448)\nau fost voievozi ai Moldovei\nGen epic\nRoman (gen literar) – specie de anvergură a genului epic",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 618,
+      "level": 1,
+      "text": "Imperiul Roman, Imperium Romanorum, un stat din antichitate\nRoman (cetățean) – cetățean al statului roman antic (al regatului, al republicii, dar mai ales al Imperiului Roman)\nRomanii populare, comunități romanofone medievale, rămase după retragerea sau prăbușirea Imperiului Roman\nRoman (județ interbelic) – unul din județele României Mari din perioada interbelică\nLocalități\nRomânia\nRoman, Neamț – municipiu aflat în județul Neamț, România\nBulgaria\nObștina Roman – o comună în Bulgaria\nRoman – un oraș în Bulgaria\nFranța\nRoman, comună în departamentul Eure, Franța;\nNume\nRoman (nume de familie)\nRoman (nume masculin)",
+      "title": "Istorie"
+    }
+  ],
+  "source": {
+    "path": "cities_text/roman.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

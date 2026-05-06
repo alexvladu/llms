@@ -1,0 +1,68 @@
+{
+  "city_key": "novaci",
+  "display_name": "Novaci",
+  "metadata": {
+    "city": "Novaci",
+    "city_key": "novaci",
+    "country": "România",
+    "county": "Giurgiu",
+    "ethnic_romanians_pct": 93.12,
+    "ethnicity_unknown_pct": 6.5,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 5431,
+    "population_2021": 5276,
+    "religion_orthodox_pct": 92.87,
+    "religion_unknown_pct": 6.88,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4193,
+    "raw_char_count": 5673,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 861,
+      "level": 1,
+      "text": "NovaciAcest articol se referă la un oraș din România. Pentru un sat din Republica Moldova, vedeți Novaci, Călărași. Pentru o localitate din județul Giurgiu, România, vedeți Novaci, Giurgiu.\nNovaci este un oraș în județul Gorj, Oltenia, România, format din localitatea componentă Novaci (reședința), și din satele Bercești, Hirișești, Pociovaliștea și Sitești. Orașul Novaci este declarat Stațiune de interes local.\nLocalizare\nOrașul Novaci este situat la poalele munților Parâng, la o depărtare de 44 km de Târgu-Jiu și la 80 km de Râmnicu Vâlcea, fiind vegheat din depărtare de cel mai falnic vârf din masivul Parângului, Parângul Mare. (2 518 m). Din Novaci se poate ajunge la stațiunea Rânca fie pe jos, fie cu mașina parcurgând 18 km pe drumul ce leagă Novaci de Rânca (Transalpina DN67c) prin „Plaiul Novacilor”. Localitatea este străbătută de râul Gilort.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 745,
+      "level": 1,
+      "text": "Temperatura medie anuală: +9°C\nTemperatura maximă: 36°C\nTemperatura minimă: -7°C\nTemperatura medie a lunii ianuarie: -2°C\nIstoric\nOrașul s-a format prin comasarea mai multor sate de oieri. El a fost atestat pentru prima dată într-un hrisov al lui Radu cel Mare de la 1502. Există indicii documentare cum că ar fi existat din timpul lui Mircea cel Bătrân, însă cea mai sigură dată a atestării rămâne cea de la 1502. În 1847 a luat ființă Plaiul Novaci, cu un important punct de vamă. Statutul de oraș a fost primit abia în 1968, după comasarea satelor Novaci Români și Novaci Ungureni.\nÎn trecut aici a funcționat și o mocăniță, folosită pentru a aduce lemnul tăiat din munte în jos pe râul Gilort.\nÎn iulie 2014, orașul a fost puternic inundat..",
+      "title": "Climă"
+    },
+    {
+      "char_count": 744,
+      "level": 1,
+      "text": "Componența etnică a orașului Novaci\nRomâni (93,12%) Alte etnii (0,38%) Necunoscută (6,5%)\nComponența confesională a orașului Novaci\nOrtodocși (92,87%) Alte religii (0,25%) Necunoscută (6,88%)\nConform recensământului efectuat în 2021, populația orașului Novaci se ridică la 5.276 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 5.431 de locuitori. Majoritatea locuitorilor sunt români (93,12%), iar pentru 6,5% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (92,87%), iar pentru 6,88% nu se cunoaște apartenența confesională.\nNovaci - evoluția demografică\n010002000300040005000600070001977199220022011populațiePopulația istorică din Novaci",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 385,
+      "level": 1,
+      "text": "Locuitorii orașului păstrează încă o mare parte din tradiții și se ocupă cu oieritul. În general activitățile principale ale locuitorilor sunt în turism, construcții, învățământ, agricultură. Cea mai mare parte din localnicii mai în vârstă sunt originari din partea Sibiului. Cu foarte mult timp în urmă(1386-1418) au fost nevoiți să treacă munții cu familiile și cu turmele lor de oi.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 354,
+      "level": 1,
+      "text": "Obiective de interes turistic aflate în vecinătate\nBiserica de lemn din Novaci-Străini\nBiserica de lemn din Novaci-Români\nMănăstirea Polovragi\nSchitul Crasna\nTransalpina\nCheile gilortului\nStațiunea Rânca\nMasivul Parâng\nPeștera Muierilor\nCheile Oltețului\nCheile Galbenului\nPeștera Polovragi\nPadurea colorata de la Poienari\nCasuta rasturnata de la Poienari",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 637,
+      "level": 1,
+      "text": "Dumitru Brezulescu (n. 1880, Hirișești – d. 12 iulie 1916, București) (după alte surse, s-a născut la 20 septembrie 1879, avocat român, Doctor în Drept la Paris (1907), creator al băncii populare \"Gilortul\", una dintre băncile populare importante ale României interbelice. La inițiativa sa, prin intermediul băncii populare \"Gilortul\", a fost înființată stațiunea turistică montană Rânca, Gorj.\nDumitru Zamfira (1940 - 2025), interpret de muzică populară și instrumentist român\nAlin Mituța (n. 24 mai 1984, Novaci, Gorj, România), politician român (fost deputat în Parlamentul European în legislatura a IX-a), membru al partidului REPER.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/novaci.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

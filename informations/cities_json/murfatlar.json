@@ -1,0 +1,51 @@
+{
+  "city_key": "murfatlar",
+  "display_name": "Murfatlar",
+  "metadata": {
+    "city": "Murfatlar",
+    "city_key": "murfatlar",
+    "country": "România",
+    "county": "Constanța",
+    "ethnic_roma_pct": 2.62,
+    "ethnic_romanians_pct": 79.94,
+    "ethnicity_unknown_pct": 11.66,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2021": 9173,
+    "religion_orthodox_pct": 79.1,
+    "religion_pentecostal_pct": 1.57,
+    "religion_unknown_pct": 12.28,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3320,
+    "raw_char_count": 4444,
+    "section_count": 3,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1634,
+      "level": 1,
+      "text": "MurfatlarAcest articol se referă la orașul din județul Constanța, România. Pentru alte sensuri, vedeți Murfatlar (dezambiguizare).\nMurfatlar (între 1924-1965 și 1980-2007 Basarabi) este un oraș în județul Constanța, Dobrogea, România, format din localitatea componentă Murfatlar (reședința), și din satul Siminoc. În anul 2021, Murfatlar avea o populație de 11.019 locuitori.\nIstoric\nÎn urma săpăturilor arheologice s-au găsit urme de locuire datate înainte de anul 992 e.n.\nPrima atestare documentară a localității cu numele de Murfatlar este din anul 1855, nume care se păstrează până în anul 1924, când, în urma disputelor politice dintre țărăniști și liberali, numele se schimbă în Basarabi. În anul 1965, localitatea revine la numele de Murfatlar, pentru ca în anul 1980, numele să se schimbe din nou în Basarabi.\nSe spune că schimbarea se datorează rezonanței turcești a denumirii \"Murfatlar\" (în trad. \"Al lui Murfat\"). Conform unei anecdote, însuși Nicolae Ceaușescu ar fi ordonat schimbarea denumirii, pentru că pronunțarea numelui vechi îi prilejuia dificultăți.\nPe 26 iunie 2007, Camera Deputaților a adoptat legea de revenire la denumirea Murfatlar. Legea a fost adoptată de Senat la 4 decembrie 2007, promulgată de președintele României pe 20 decembrie 2007 și publicată în Monitorul Oficial pe 21 decembrie 2007.\nMurfatlar este locul de naștere al fostului președinte al României, Traian Băsescu.\nEdificii culturale de interes național\nÎn apropierea orașului se află Complexul rupestru Basarabi-Murfatlar, cu prima biserică de pe teritoriul României. Ansamblul monastic rupestru cuprinde biserici, încăperi, galerii etc.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 815,
+      "level": 1,
+      "text": "Componența etnică a orașului Murfatlar\nRomâni (79,94%) Tătari (4,98%) Romi (2,62%) Alte etnii (0,8%) Necunoscută (11,66%)\nComponența confesională a orașului Murfatlar\nOrtodocși (79,1%) Musulmani (5,85%) Penticostali (1,57%) Alte religii (1,2%) Necunoscută (12,28%)\nConform recensământului efectuat în 2021, populația orașului Murfatlar se ridică la 9.173 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 10.216 locuitori. Majoritatea locuitorilor sunt români (79,94%), cu minorități de tătari (4,98%) și romi (2,62%), iar pentru 11,66% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (79,1%), cu minorități de musulmani (5,85%) și penticostali (1,57%), iar pentru 12,28% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 604,
+      "level": 1,
+      "text": "Evoluție istorică\nÎn anul 1930 localitatea număra 1.502 locuitori, dintre care 936 români, 268 turci, 96 tătari, 59 germani, 44 țigani, 27 armeni, 24 greci ș.a. Sub aspect confesional populația era alcătuită din 1.047 ortodocși, 371 mahomedani, 47 luterani, 19 armeano-gregorieni, 13 romano-catolici ș.a. În sat au locuit și germani dobrogeni, de religie evanghelică.\nMurfatlar - evoluția demografică\n0200040006000800010.00012.00019661977199220022011populațiePopulația istorică din Murfatlar\nPersonalități născute aici\nTraian Băsescu (n. 1951), om politic, președinte al României în perioada 2004 - 2014.",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/murfatlar.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

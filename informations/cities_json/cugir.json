@@ -1,0 +1,77 @@
+{
+  "city_key": "cugir",
+  "display_name": "Cugir",
+  "metadata": {
+    "area_ha": 20,
+    "city": "Cugir",
+    "city_key": "cugir",
+    "country": "România",
+    "county": "Alba",
+    "ethnic_roma_pct": 3.35,
+    "ethnic_romanians_pct": 85.18,
+    "ethnicity_unknown_pct": 10.8,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 21376,
+    "population_2021": 19473,
+    "religion_orthodox_pct": 81.93,
+    "religion_pentecostal_pct": 1.82,
+    "religion_unknown_pct": 11.75,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 7172,
+    "raw_char_count": 7894,
+    "section_count": 7,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 261,
+      "level": 1,
+      "text": "Cugir\nCugir, mai demult Cudgir (în maghiară Kudzsir, în germană Kudsir, Kudschir, Kuschir) este un oraș în județul Alba, Transilvania, România, format din localitățile componente Bocșitura, Bucuru, Călene, Cugir (reședința), Fețeni, Goașele, Mugești și Vinerea.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 1255,
+      "level": 1,
+      "text": "Teritoriul orașului ocupă partea de sud-vest a județului, iar orașul propriu-zis este situat în partea nordică a acestui teritoriu. În imediata apropriere spre est, sud și vest se ridică dealuri ce depășesc 700 m altitudine, în mare măsură acoperite cu foioase și plantații de pin. Spre sud de aceste dealuri se întinde regiunea muntoasă, grupa munților Șureanu ce face parte din Carpații Meridionali, iar spre nord șerpuiește lunca și terasele râului Cugir.\nDin punct de vedere geografico-matematic, localitatea se află la intersecția paralelei de 45’49” latitudine nordică cu meridianul de 23’ 34” longitudine estică, situându-se la 15 km sud de Valea Mureșului, la 25 km est de Orăștie, 35 km sud–vest de Sebeș și 45 km sud-vest de municipiul Alba Iulia.\nOrașul Cugir este situat în zona de contact a culoarului depresionar al Orăștiei cu Munții Șureanu, într-un cadru natural deosebit de pitoresc, la o altitudine de 300 m față de nivelul mării.\nmunicipiul Alba-Iulia – 45 km nord-est,\nmunicipiul Sibiu – 97 km,\nmunicipiul Deva – 45 km,\nmunicipiul Cluj-Napoca – 149 km.\nAdministrativ teritoriul orașului Cugir se învecinează:\nla N cu comuna Șibot,\nla N-E cu comuna Săliștea,\nla E cu comunele Săsciori, Pianu și Șugag,\nla S și la V cu județul Hunedoara",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 1774,
+      "level": 1,
+      "text": "Tipul de climat este temperat-continental-umed. Acesta se caracterizează prin temperatura medie anuală de 8º-9 °C și un regim potrivit de precipitații de 600–700 mm anual.\nDatorită diferenței reliefului în altitudine, pe teritoriul orașului Cugir și condițiile climatice sunt diferențiate. Se poate vorbi astfel despre un microclimat a zonei de luncă, terase și dealuri și despre climatul de munte.\nMunții de lângă Cugir sunt foarte vegetați și verzi, cu multă pădure.\nÎn general, verile sunt călduroase iar iernile blânde deoarece orașul este înconjurat de dealuri și munți care \"protejează\" de anumite dezlănțuiri ale naturii cum ar fi vremea, furtunile și cutremurele.\nBazin hidrografic\nOrașul Cugir se află pe malul râului Cugir care este un curs de apă, al șaizeci și unulea afluent de stânga al râului Mureș.\nIstoric\nIstoria apartenenței statale România 1989– RS România 1965–1989 RPR 1947–1965 România 1918–1947 Republica Democrată Ungară 1918 Austro-Ungaria 1867–1918 Imperiul Austriac 1804–1867 Monarhia Habsburgică 1711–1804Principatul Transilvaniei 1570–1711Regatul Ungariei Răsăritene 1526–1570 Regatul Ungariei[*]​ –1526\nCugirul s-a dezvoltat din vechea așezare rurală Kudsir, atestată documentar în anul 1493, devenind oraș în anul 1968.\nPe „Dealul Cetății”, pe un promontoriu strategic, a existat probabil o fortificație dacică. Ea n-a fost cercetată prin săpături sistematice. Totuși, pe baza fragmentelor ceramice găsite, se pare că fortificația ar data din sec. II-I î.C. Pentru aceeasi datare pledează și un mic tezaur de monede, descoperit la poalele Dealului Cetății. Din acest tezaur se mai păstrează 8 tetradrahme din “Macedonia Prima” și o imitație dacică după o monedă de tip Filip II. Un alt tezaur monetar s-a găsit pe platoul superior al cetății.",
+      "title": "Climă"
+    },
+    {
+      "char_count": 868,
+      "level": 1,
+      "text": "Componența etnică a orașului Cugir\nRomâni (85,18%) Romi (3,35%) Alte etnii (0,67%) Necunoscută (10,8%)\nComponența confesională a orașului Cugir\nOrtodocși (81,93%) Penticostali (1,82%) Alte religii (4,5%) Necunoscută (11,75%)\nConform recensământului efectuat în 2021, populația orașului Cugir se ridică la 19.473 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 21.376 de locuitori. Majoritatea locuitorilor sunt români (85,18%), cu o minoritate de romi (3,35%), iar pentru 10,8% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (81,93%), cu o minoritate de penticostali (1,82%), iar pentru 11,75% nu se cunoaște apartenența confesională.\nCugir - evoluția demografică\n0500010.00015.00020.00025.00030.00035.00019661977199220022011populațiePopulația istorică din Cugir",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 531,
+      "level": 1,
+      "text": "Profilul economic al orașului este preponderent industrial, axat în special pe activitatea de prelucrare a metalelor.\nÎn anul 1799 se înființează prima unitate industrială importantă în zonă.\nÎn anul 1906 se construiește calea ferata Șibot- Cugir, iar în anul 1911 se realizează barajul si aducțiunea de apa de pe Râul Mic, fapt care facilitează dezvoltarea industrială a orașului.\nÎn prezent industria cugireană se axează pe două ramuri principale:\nIndustria de armament (vezi: Uzina Mecanică Cugir)\nPrelucrarea metalelor la rece.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 619,
+      "level": 1,
+      "text": "Catedrala Ortodoxă\nRezervația naturală Iezerul Șurianul (20 ha).\nBiserica Sfânta Treime din Cugir, construită ca biserică unită între anii 1806-1809 de episcopul Ioan Bob\nBiserica Sfinții Apostoli Petru și Pavel din Vinerea - 5 km\nSălile muzeistice din Clubul elevilor și copiilor Cugir\nZonele de agrement Râul Mare și Râul Mic Cugir\nApeductul Wasser Leine construit în 1906 de germani și italieni\nCetatea dacică de pământ de la Cugir - 2 km\nBiserica Romano-Catolică construită în anii 1824-1826 din cartierul Scăunel\nFrumoasa (sit de importanță comunitară inclus în rețeaua ecologică europeană Natura 2000 în România).",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 1148,
+      "level": 1,
+      "text": "Gheorghe Jiboteanu (1869 - 1932), deputat în Marea Adunare Națională de la Alba Iulia 1918;\nTraian Lupea (1878 - 1967), deputat în Marea Adunare Națională de la Alba Iulia 1918;\nPetru Roman (1881 - 1949), deputat în Marea Adunare Națională de la Alba Iulia 1918;\nAhmet Nurmambet (1893 - 1953), ofițer de origine tătară crimeeană al Armatei Române;\nIosif Pervain (1915 - 1982), istoric literar;\nAlexandru A. Herlea (1907 - 1979), profesor universitar, om politic;\nValentin Uritescu (1941 - 2022), actor;\nBogdan Borza (n. 1997), tenismen;\nLucian Itu (n. 1978), fotbalist.\nImagini\nCugir în Harta Iosefină a Transilvaniei, 1769-1773\nCugir în anul 1896\nVedere aeriană\nIntrarea principală în orașul Cugir\nDealul „Cetățuia” din Cugir (495 m)\nBiserica Sfânta Treime din Cugir (monument istoric)\nBiserica Sfântul Gheorghe din Cugir\nMonumentul eroilor din Cugir\nBiserica Sfântul Nicolae din Cugir\nSatul Vinerea\nBiserica Sfântul Nicolae din Vinerea\nMonumentul eroilor din Vinerea\nOrașul Cugir este înfrățit cu următoarea localitate:\nWasserburg am Inn, Germania, din 2006\nCasalborgone, Italia, din 2011\nMellieha, Malta, din 2011\nVecpiebalgas, Letonia, din 2011",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/cugir.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

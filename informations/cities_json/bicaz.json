@@ -1,0 +1,75 @@
+{
+  "city_key": "bicaz",
+  "display_name": "Bicaz",
+  "metadata": {
+    "city": "Bicaz",
+    "city_key": "bicaz",
+    "country": "România",
+    "county": "Neamț",
+    "ethnic_roma_pct": 3.05,
+    "ethnic_romanians_pct": 83.08,
+    "ethnicity_unknown_pct": 13.58,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6543,
+    "religion_orthodox_pct": 83.18,
+    "religion_roman_catholic_pct": 1.13,
+    "religion_unknown_pct": 14.36,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5850,
+    "raw_char_count": 7739,
+    "section_count": 7,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 487,
+      "level": 1,
+      "text": "BicazAcest articol se referă la un oraș din România. Pentru un râu, vedeți râul Bicaz. Pentru alte sensuri, vedeți Bicaz (dezambiguizare).\nBicaz (în maghiară Békás) este un oraș în județul Neamț, Moldova, România, format din localitățile componente Bicaz (reședința), Capșa, Dodeni și Izvoru Muntelui, și din satele Izvoru Alb, Potoci și Secu. Are o populație de 6.543 locuitori.\nÎn 1957 a avut loc o descoperire întâmplătoare de 16 monede între care o tetradrahmă de Alexandru cel Mare.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 716,
+      "level": 1,
+      "text": "Orașul se situează în vestul județului, la poalele Munților Ceahlău, pe malurile Bistriței, acolo unde se află barajul ce formează lacul Izvorul Muntelui. Pe teritoriul orașului, Bistrița primește apele afluenților Bicaz și Izvorul Muntelui (care se varsă direct în Bistrița în aval de baraj), Izvorul Alb și Secu (care se varsă în lacul Izvorul Muntelui). Este străbătut de șoseaua națională DN15, care leagă Piatra Neamț de Toplița. La Bicaz, din acest drum se ramifică șoseaua națională DN12C care urcă pe valea râului Bicaz, trece prin cheile Bicazului și duce la Gheorgheni. Gara din oraș este capătul căii ferate Bacău–Bicaz, care se continuă pe valea râului Bicaz cu calea ferată industrială Bicaz–Bicaz Chei.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 854,
+      "level": 1,
+      "text": "Componența etnică a orașului Bicaz\nRomâni (83,08%) Romi (3,05%) Alte etnii (0,29%) Necunoscută (13,58%)\nComponența confesională a orașului Bicaz\nOrtodocși (83,18%) Romano-catolici (1,13%) Alte religii (1,33%) Necunoscută (14,36%)\nConform recensământului efectuat în 2021, populația orașului Bicaz se ridică la 6.106 locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.543 de locuitori. Majoritatea locuitorilor sunt români (83,08%), cu o minoritate de romi (3,05%), iar pentru 13,58% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (83,18%), cu o minoritate de romano-catolici (1,13%), iar pentru 14,36% nu se cunoaște apartenența confesională.\nBicaz - evoluția demografică\n0200040006000800010.00019661977199220022011populațiePopulația istorică din Bicaz",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 2125,
+      "level": 1,
+      "text": "O localitate cu numele de Bicaz apare menționată documentar pentru prima dată într-un document emis de voievodul Radu Mihnea la 10 ianuarie 1625. Într-un hrisov domnesc din 1855, Bicazul este aminitit ca târg. În 1884, Bicazul a devenit domeniu al Coroanei.\nLa sfârșitul secolului al XIX-lea, Bicazul era o comună rurală inclusă în plasa Piatra-Muntele a județului Neamț, formată din satele Bicaz, Chițirig, Capșa, Cârnu, Cheile-Bicazului, Crasna, Fârțigu, Floarea, Fundu Bicazului, Gura Bicazului, Hamzoaia, Izvorul Muntelui, Mărceni, Neagra, Poiana Corbului, Secu, Tașca și Ticoș, având o populație totală de 2416 locuitori. În comună funcționau șase mori, opt fierăstraie, o școală și patru biserici. Anuarul Socec din 1925 consemnează comuna ca reședință a plășii Muntele a aceluiași județ, având 2550 de locuitori în satele Ața, Bicaz, Capșa, Cârnu, Chișirig-Neagra, Ciungi, Hămzoaia, Izvoru Muntelui, Poiana Cârnului, Secu, Tașca, Ticoș, Floarea și în cătunul Mărceni. În 1931, câteva sate din comună au fost desprinse pentru a forma comuna Tașca, comuna Bicaz rămânând cu satele Bicaz, Capșa, Cârnu, Ciungi, Izvoru Muntelui, Mărăcini și Poiana Cârnului.\nÎn 1950, comuna a fost arondată raionului Piatra Neamț din regiunea Bacău. Un an mai târziu, au început lucrările de construcție a barajului pe lacul de acumulare Izvorul Muntelui. Satul din munte a devenit mai întâi o colonie muncitorească, apoi un mic oraș, cu cartiere de blocuri de locuințe, școli, biblioteci, muzeu. Lucrările la baraj s-au încheiat în 1960 și atunci a intrat în funcțiune și hidrocentrala de 210 MW „Stejaru”. În același an, comuna Bicaz a primit statut de oraș raional; au fost desființate cu această ocazie satele Bicaz Centru, Cojujna, Piatra Corbului, Cârnu, Poiana Cârnului, Gavrileșceni și Ruseni. În 1964, localitatea componentă Ciungi a primit numele de Cartierul-Nou. În 1968, orașul a revenit la județul Neamț, reînființat; tot atunci au fost desființate localitățile componente Mărcești și Cartierul Nou, comasate cu localitatea Bicaz, iar orașul a primit și satele Izvoru Alb, Potoci și Secu ale comunei Izvorul Alb, desființată.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 317,
+      "level": 1,
+      "text": "Două obiective din orașul Bicaz sunt incluse în lista monumentelor istorice din județul Neamț ca monumente de interes local, ambele clasificate ca monumente de arhitectură și aflate în localitatea principală a orașului: teatrul sătesc „Ion Calinderu” (1908–1912), astăzi muzeu; și Casa Regală (1912), astăzi primărie.",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 485,
+      "level": 1,
+      "text": "Bancă în Bicaz\nEconomia Bicazului este predominant industrială, dominată de producția de energie a centralei Stejaru. La Bicaz funcționează o fabrică de ciment înființată în 1951 cu scopul de a furniza materie prima în vederea construcției ulterioare a barajului de acumulare. Fabrica „Moldocim”, deținută în prezent de compania germană Carpat Cement, valorifică marnele și calcarele din carierele din zonă. Relevante sunt și industria de prelucrare a lemnului și industria alimentară.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 377,
+      "level": 1,
+      "text": "Muzeul de istorie și etnografie, găzduit de clădirea fostului Teatru, construită în 1909 după planurile arhitectului Carol Zane.\nBarajul Bicaz\nLacul Izvorul Muntelui\nPortul Bicaz\nOrhei, Republica Moldova (din 2000)\nHasselt, Belgia (din 2000)\nLausanne, Elveția\nPersonalități născute aici\nConstantin Turcu (1903 - 1980), istoric, arhivist;\nAndrei Kemenici (1936 - 2021), general.",
+      "title": "Obiective turistice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/bicaz.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

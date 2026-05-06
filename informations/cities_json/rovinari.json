@@ -1,0 +1,56 @@
+{
+  "city_key": "rovinari",
+  "display_name": "Rovinari",
+  "metadata": {
+    "area_ha": 2632,
+    "city": "Rovinari",
+    "city_key": "rovinari",
+    "country": "România",
+    "county": "Gorj",
+    "ethnic_romanians_pct": 90.15,
+    "ethnicity_unknown_pct": 9.08,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2021": 10246,
+    "religion_orthodox_pct": 88.41,
+    "religion_unknown_pct": 9.32,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3981,
+    "raw_char_count": 4714,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1787,
+      "level": 1,
+      "text": "RovinariRovinari este un oraș în județul Gorj, Oltenia, România, format din localitățile componente Rovinari (reședința) și Vârț.\nRovinari este un oraș minier, având ca baza economică exploatarea minieră de cărbune (de suprafață și subterană) și producerea energiei electrice în cadrul termocentralei orașului, una dintre primele din Europa ca mărime. Localitatea Rovinari a devenit oraș prin Decretul Prezidențial nr. 367/09.12.1981.\nAșezare geografică\nOrașul este situat la 25 Km SV de municipiul Târgu Jiu, fiind legat de acesta prin drumul național DN 66 (facand parte din drumul european E79) și calea ferată electrificată Târgu Jiu - Rovinari - Turceni - Filiași - Craiova.\nOrașul este amplasat pe suprafata de 2632 Ha, într-o zonă depresionară a Jiului, învecinată la Est cu dealul Bran, la Vest cu dealurile Mageac și Lupului, la Nord cu depresiunea Târgu Jiu-Câmpu Mare, iar la Sud depresiunea se deschide către lunca Jiului.\nExistă posibilitatea valorificării poziției geografice, ca urmare a creșterii importanței drumului european E79, prin realizarea unei zone turistice de tranzit, punând în valoare zona colinară din jur, sau chiar prin utilizarea în acest scop a carierelor dezafectate.\nTotodată, orașul Rovinari este situat de-a lungul căii ferate electrificate Filiași-Târgu-Jiu. Cele doua căi de comunicație, feroviară și rutieră, se desfășoară adiacent localității, dispuse împreună cu acestea pe malul drept al Jiului, în prezent regularizat și cu albia majoră îndiguită.\nOrașul Rovinari ocupă un loc important în sistemul localităților urbane ale județului Gorj, alături de Țicleni, Târgu Cărbunești, Motru, Bumbești-Jiu, Novaci și Tismana. Dintre toate, orașul Rovinari se află la cea mai mică distanță de reședința de județ, fiind în zona de influență a acesteia.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 955,
+      "level": 1,
+      "text": "Principala resursă minerală a orașului Rovinari este cărbunele inferior (lignit), folosit drept combustibil în centralele termoelectrice.\nSub aspect economic, orașul Rovinari dispune de resurse în sectorul primar, prin rezervele de cărbune energetic, respectiv lignitul exploatat în cariere.\nParticiparea exploatării lignitului la dezvoltarea activității economice a tării se manifestă direct prin asigurarea unei surse principale de producere a energiei electrice și termice, element esențial pentru celelalte domenii ale economiei naționale.\nPonderea economică a orașului o constituie industria extractivă reprezentând circa ½ din producția totală pe județ.\nMarii agenți economici ai orașului Rovinari sunt: S.C. COMPLEXUL ENERGETIC ROVINARI S.A., S.C. TERMOSERV S.A., S.N.L.O – E.M. ROSIA, S.C. TP SUT S.A., S.C. ENERGOCONSTRUCTIA S.A., S.C. ENERGOMONTAJ S.A., S.C. ENERGOREPARATII S.A., S.C. U.M.R. S.A., S.C. CAZARE – CANTINE S.A , S.C. MINPREST S.A.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 747,
+      "level": 1,
+      "text": "Componența etnică a orașului Rovinari\nRomâni (90,15%) Alte etnii (0,77%) Necunoscută (9,08%)\nComponența confesională a orașului Rovinari\nOrtodocși (88,41%) Alte religii (2,27%) Necunoscută (9,32%)\nConform recensământului efectuat în 2021, populația orașului Rovinari se ridică la 10.246 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 11.816 locuitori. Majoritatea locuitorilor sunt români (90,15%), iar pentru 9,08% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (88,41%), iar pentru 9,32% nu se cunoaște apartenența confesională.\nRovinari - evoluția demografică\n030006000900012.00015.000199220022011populațiePopulația istorică din Rovinari",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 201,
+      "level": 1,
+      "text": "Teodor D. Costescu (1864 - 1939), profesor, om politic, membru de onoare al Academiei Române.\nConstantin Iordăchescu (1893 - 1950), general român\nGheorghe Tătărescu, om politic\nMira, cântăreață româncă",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/rovinari.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

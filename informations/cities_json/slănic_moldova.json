@@ -1,0 +1,29 @@
+{
+  "city_key": "slănic_moldova",
+  "display_name": "Slănic Moldova",
+  "metadata": {
+    "city": "Slănic Moldova",
+    "city_key": "slănic_moldova",
+    "country": "România",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 14,
+    "raw_char_count": 14,
+    "section_count": 0,
+    "warnings": [
+      "missing_demografie_section",
+      "no_sections_detected",
+      "only_title",
+      "very_short_file"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [],
+  "source": {
+    "path": "cities_text/slănic_moldova.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

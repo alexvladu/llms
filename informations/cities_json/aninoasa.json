@@ -1,0 +1,71 @@
+{
+  "city_key": "aninoasa",
+  "display_name": "Aninoasa",
+  "metadata": {
+    "city": "Aninoasa",
+    "city_key": "aninoasa",
+    "country": "România",
+    "county": "Hunedoara",
+    "ethnic_roma_pct": 2.4,
+    "ethnic_romanians_pct": 83.85,
+    "ethnicity_unknown_pct": 11.99,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 4360,
+    "population_2021": 3369,
+    "religion_orthodox_pct": 74.77,
+    "religion_pentecostal_pct": 3.86,
+    "religion_roman_catholic_pct": 5.25,
+    "religion_unknown_pct": 12.47,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4240,
+    "raw_char_count": 5059,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 1259,
+      "level": 1,
+      "text": "Aninoasa\nPentru alte sensuri, vedeți Aninoasa (dezambiguizare).\nAninoasa (în maghiară Aninósza) este un oraș în județul Hunedoara, Transilvania, România, format din localitatea componentă Aninoasa (reședința), și din satul Iscroni. Are o populație de 3720 (2022), locuitori, fiind declarat oraș în anul 1989.\nDate geografice\nOrașul Aninoasa este situat în partea de sud a județului Hunedoara, în bazinul carbonifer Valea Jiului, având următorii vecini:\nnord-est: municipiul Petroșani\nsud: judetul Gorj\nvest: orașul Vulcan.\nAninoasa este localizat în depresiunea Valea Jiului, o depresiune destul de înaltă, altitudinea ei medie fiind de 556 m la confluența Jiurilor față de 800 m spre marginile de est și vest. În această regiune se găsesc munți cu înălțimi de peste 2000 m acoperiți cu păduri de foioase și conifere: Munții Parâng și Munții Vâlcan.\nOrașul Aninoasa este străbătut de pârâul Aninoasa, de-a lungul căruia se întinde mare parte a orașului. Forma alungită a localității a fost determinată de rețeaua hidrografică. Cel mai important râu este Jiul de Vest, care desparte orașul Aninoasa în două unități geografice: Iscroni și Aninoasa. Iscroniul este mult mai mic decât Aninoasa și se întinde în regiunea cuprinsă între podul de peste râu și DN 66.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 977,
+      "level": 1,
+      "text": "Componența etnică a orașului Aninoasa\nRomâni (83,85%) Romi (2,4%) Maghiari (1,6%) Alte etnii (0,15%) Necunoscută (11,99%)\nComponența confesională a orașului Aninoasa\nOrtodocși (74,77%) Romano-catolici (5,25%) Penticostali (3,86%) Reformați (1,22%) Alte religii (2,43%) Necunoscută (12,47%)\nConform recensământului efectuat în 2021, populația orașului Aninoasa se ridică la 3.369 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 4.360 de locuitori. Majoritatea locuitorilor sunt români (83,85%), cu minorități de romi (2,4%) și maghiari (1,6%), iar pentru 11,99% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (74,77%), cu minorități de romano-catolici (5,25%), penticostali (3,86%) și reformați (1,22%), iar pentru 12,47% nu se cunoaște apartenența confesională.\nAninoasa - evoluția demografică\n0100020003000400050006000199220022011populațiePopulația istorică din Aninoasa",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 298,
+      "level": 1,
+      "text": "Clima orașului Aninoasa este una de munte. Temperatura medie în luna ianuarie este cuprinsă între -6 și -3 °C, iar în luna august între 14 și 20 °C.\nDate la recensământul din 2002\nTotal populație\nTotal populație: 5.147\nBărbați: 2.547\nFemei: 2.600\nTotal populație stabilă\nBărbați: 2.525\nFemei: 2.595",
+      "title": "Climă"
+    },
+    {
+      "char_count": 266,
+      "level": 1,
+      "text": "Studii superioare: 139\nBărbați: 91\nFemei: 48\nStudii medii: 1.480\nBărbati: 844\nFemei: 636\nStudii generale: 1.958\nBărbați: 864\nFemei: 1.094\nStudenți: 44\nElevi: 912\nȘcoala primară: 293\nȘcoala gimnazială: 387\nLiceu: 232\nPreșcolari: 485\nSemianalfabeți: 48\nAnalfabeți: 104",
+      "title": "Educație"
+    },
+    {
+      "char_count": 762,
+      "level": 1,
+      "text": "În anul 2013, Aninoasa era considerat cel mai sărac oras din județul Hunedoara.\nOrașul a intrat în insolvență în iunie 2013 și a ieșit din procedura de reorganizare un an mai târziu, după ce și-a achitat integral datoriile de aproape 5,9 milioane de lei, cu mult peste bugetul local.\nLucrători în minerit: 676\nBărbați: 584\nFemei: 92\nLucrători în alte ramuri: 416\nBărbați: 192\nFemei: 224\nLucrători în domeniul privat: 260\nBărbați: 132\nFemei: 128\nCasnice: 748\nSocial\nȘomeri: 283\nPensionari: 945\nBărbați: 543\nFemei: 402\nFără ocupație: 378\nRata natalității (număr de nașteri/an)\nÎn 1996: 102\nÎn 1997: 95\nÎn 1998: 67\nÎn 1999: 59\nÎn 2000: 54\nÎn 2001: 10\nÎn 2002: 53\nÎn 2003: 56\nStructura populației după naționalitate\nRomâni: 81%\nMaghiari: 12%\nRromi: 5%\nAlte etnii: 2%",
+      "title": "Economie"
+    },
+    {
+      "char_count": 118,
+      "level": 1,
+      "text": "Personalități născute aici\nNicolae Guță (n. 1967), cântăreț de manele;\nȘtefania Stănilă (n. 1997), gimnastă artistică.",
+      "title": "Administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/aninoasa.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

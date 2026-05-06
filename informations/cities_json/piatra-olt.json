@@ -1,0 +1,45 @@
+{
+  "city_key": "piatra-olt",
+  "display_name": "Piatra-Olt",
+  "metadata": {
+    "city": "Piatra-Olt",
+    "city_key": "piatra-olt",
+    "country": "România",
+    "county": "Olt",
+    "ethnic_roma_pct": 15.72,
+    "ethnic_romanians_pct": 73.65,
+    "ethnicity_unknown_pct": 10.57,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 6299,
+    "population_2021": 6000,
+    "religion_orthodox_pct": 86.93,
+    "religion_unknown_pct": 11.42,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2208,
+    "raw_char_count": 2814,
+    "section_count": 2,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 991,
+      "level": 1,
+      "text": "Piatra-OltPiatra-Olt este un oraș în județul Olt, Oltenia, România, format din localitatea componentă Piatra-Olt (reședința), și din satele Bistrița Nouă, Criva de Jos, Criva de Sus, Enoșești și Piatra. Este un important nod de cale ferată cu 4 direcții: Craiova, Râmnicu Vâlcea, Caracal și Pitești. Aspectul său este destul de rural, caracteristicile urbane fiind identificate doar în jurul gării. [necesită citare].\nÎn satul Enoșești se găsesc urmele castrului și ale așezării civile romane Acidava care a păstrat numele vechii așezări, Davae, a tribului getic al acilor. Castrul a făcut parte din sistemul limesului alutan.\nSatul Criva este menționat pe 16 septembrie 1519 într-un document în care Neagoe Basarab întărește mănăstirii Seaca (Olt) cu mai multe sate dăruite de Manea clucerul între care și Criva toată cu tot hotarul.\nSatul Piatra este atestat la 14 aprilie 1529 într-un document dat de Pârvu, mare ban al Craiovei, în care este menționată dania sa către mănăstirea Tismana.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 872,
+      "level": 1,
+      "text": "Componența etnică a orașului Piatra-Olt\nRomâni (73,65%) Romi (15,72%) Alte etnii (0,07%) Necunoscută (10,57%)\nComponența confesională a orașului Piatra-Olt\nOrtodocși (86,93%) Adventiști (1,03%) Alte religii (0,62%) Necunoscută (11,42%)\nConform recensământului efectuat în 2021, populația orașului Piatra-Olt se ridică la 6.000 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 6.299 de locuitori. Majoritatea locuitorilor sunt români (73,65%), cu o minoritate de romi (15,72%), iar pentru 10,57% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (86,93%), cu o minoritate de adventiști (1,03%), iar pentru 11,42% nu se cunoaște apartenența confesională.\nPiatra-Olt - evoluția demografică\n01000200030004000500060007000199220022011populațiePopulația istorică din Piatra-Olt",
+      "title": "Demografie"
+    }
+  ],
+  "source": {
+    "path": "cities_text/piatra-olt.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "city_key": "hârlău",
+  "display_name": "Hârlău",
+  "metadata": {
+    "city": "Hârlău",
+    "city_key": "hârlău",
+    "country": "România",
+    "county": "Iași",
+    "education_institutions": [
+      "Ștefan cel Mare"
+    ],
+    "ethnic_roma_pct": 8.49,
+    "ethnic_romanians_pct": 76.66,
+    "ethnicity_unknown_pct": 14.8,
+    "has_hospital": true,
+    "has_national_roads": true,
+    "has_polyclinic": true,
+    "has_railway": true,
+    "national_roads": [
+      "DN28B"
+    ],
+    "population_2021": 10349,
+    "religion_orthodox_pct": 82.88,
+    "religion_pentecostal_pct": 1.12,
+    "religion_unknown_pct": 15.2,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 6329,
+    "raw_char_count": 7669,
+    "section_count": 9,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 258,
+      "level": 1,
+      "text": "Hârlău\nHârlău (germană Crolow, latină Civitas Bachloviae) este un oraș în județul Iași, Moldova, România, format din localitatea componentă Hârlău (reședința), și din satul Pârcovaci.\nAșezare\nOrașul se află în nord-vestul județului Iași, pe malul Bahluiului.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 1612,
+      "level": 1,
+      "text": "Prima atestare documentară datează din anul 1384 când mama domnitorului Petru Mușat își stabilește curtea aici. În Evul Mediu aici a funcționat o curte domnească, în care Ștefan cel Mare a ridicat o biserică, care poate fi văzută și azi. Hârlău a fost temporar reședință domnească după ce curtea de la Iași a ars în 1624 în timpul lui Radu Mihnea. Târg medieval, Hârlăul și-a pierdut privilegiile în 1783, când deținătorul moșiei, Constantin Mihail Cecan Racoviță, a dat moșia mănăstirii Precista din Roman. Ei au fost obligați să plătească dări mănăstirii până când domnitorul Alexandru Moruzi a cerut în 1805 delimitarea moșiei și a târgului care își redobândea astfel libertatea în schimbul plății unei dări anuale de 35 de ocale de ceară. Hârlăul a devenit atunci reședința ținutului Hârlău, până când acesta a fost desființat în 1834 și împărțit între ceea ce urma să fie județele Botoșani și Iași.\nLa sfârșitul secolului al XIX-lea, orașul era reședința plășii Coșula a județului Botoșani, fiind alcătuit din centrul orașului, plus suburbiile Bojica, Siliștea, Munteni, Burdujani și Bahluiul, populația totală fiind de 4196 de locuitori. Funcționau în oraș o farmacie, un spital, un birou telegrafo-poștal, trei biserici, o școală de băieți cu 133 de elevi și o școală de fete cu 95 de eleve. Anuarul Socec din 1925 îl consemnează ca reședință a plășii Hârlău din același județ, având 4352 de locuitori.\nÎn 1950, a fost retrogradat la rang de comună, dar și-a păstrat un rol administrativ, devenind reședința raionului Hârlău din regiunea Iași. În 1968, Hârlău a redevenit oraș și a trecut la județul Iași.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 864,
+      "level": 1,
+      "text": "Componența etnică a orașului Hârlău\nRomâni (76,66%) Romi (8,49%) Alte etnii (0,04%) Necunoscută (14,8%)\nComponența confesională a orașului Hârlău\nOrtodocși (82,88%) Penticostali (1,12%) Alte religii (0,8%) Necunoscută (15,2%)\nConform recensământului efectuat în 2021, populația orașului Hârlău se ridică la 10.349 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 10.905 locuitori. Majoritatea locuitorilor sunt români (76,66%), cu o minoritate de romi (8,49%), iar pentru 14,8% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (82,88%), cu o minoritate de penticostali (1,12%), iar pentru 15,2% nu se cunoaște apartenența confesională.\nHârlău - evoluția demografică\n0200040006000800010.00012.0001912193019481977199220022011populațiePopulația istorică din Hârlău",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 558,
+      "level": 1,
+      "text": "Judecătoria din Hârlău\nÎn economia localității se remarcă industria textilă, de prelucrare a lemnului și alimentară. La sud de oraș se află cunoscuta regiune viticolă Cotnari.\nLa sud-vest și în zonele limitrofe ale orașului se află domeniile familiei Cavaler Lupu de Totoescu, familie de boieri ce-și are originile în secolul al XII-lea.[necesită citare] În anii pre-comuniști domeniile au fost preluate de către regimul comunist, iar conacul preluat de poliția secretă, Securitatea, după alungarea din postul de primar a lui Eugen Nicolae Totoescu, în 1956.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 302,
+      "level": 1,
+      "text": "Orașul este străbătut de șoseaua națională DN28B, care leagă Iașiul de Botoșani. La Hârlău, din acest drum se ramifică șoseaua județeană DJ281A, care deservește comuna Deleni. La Hârlău se află capătul de linie al căii ferate Podu Iloaiei-Hârlău, pe care circulă trenuri de călători cu destinația Iași.",
+      "title": "Transport"
+    },
+    {
+      "char_count": 127,
+      "level": 1,
+      "text": "În oraș funcționează două școli generale și două licee: Colegiul Național „Ștefan cel Mare\" Hârlău și Liceul Tehnologic Hârlău.",
+      "title": "Educație"
+    },
+    {
+      "char_count": 135,
+      "level": 1,
+      "text": "Asistența medicală este asigurată de un spital, „Spitalul Orășenesc Hârlău”, o policlinică și cabinete medicale de medicină de familie.",
+      "title": "Sănătate"
+    },
+    {
+      "char_count": 1159,
+      "level": 1,
+      "text": "Curtea Domnească din Hârlău, monument istoric\nMonumente istorice de interes național\nansamblul curții domnești din secolele al XIV-lea–al XVII-lea, format din curtea propriu-zisă și din Biserica „Sf. Gheorghe” (1492);\nBiserica „Sfântul Dumitru” (1535).\nMonumente de arheologie\n„Între Islazuri”, pe versantul nordic al dealului Miriște de la vest de satul Pârcovaci, sit ce cuprinde așezări din perioada Halstatt, secolele al VI-lea–al VIII-lea (epoca migrațiilor), secolele al XI-lea–al XII-lea (Evul Mediu Timpuriu) și din secolul al XVII-lea.\nMonumente de arhitectură\nSpitalul vechi (1858);\nCasa de cultură (începutul secolului al XIX-lea);\nCasa Grigoriu (aceeași perioadă, aflată în strada Mihai Eminescu; începutul secolului al XIX-lea);\nParaclisul caselor Ghica (prima jumătate a secolului al XIX-lea);\nPrimăria orașului, denumită Casa Zoltman (începutul secolului al XIX-lea);\nCasa parohială a bisericii „Sf. Dumitru”;\nȘcoala tip „Spiru Haret” (începutul secolului al XX-lea);\nBiserica „Sfântul Nicolae” (1848);\nMuzeul de Istorie Casa Tăutu (secolele al XVII-lea–al XVIII-lea);\nCasă, sfârșitul secolului al XIX-lea aflată în strada Logofăt Tăutu nr. 14.",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 567,
+      "level": 1,
+      "text": "Petru Rareș (1483-1546), domn al Moldovei\nHoria Carp (1869 - 1943), jurnalist, senator, secretar general al Comunității Evreilor din București\nGheorghe Petz (1894-1974), cleric romano-catolic, deținut politic\nMichel Landau (1895-1976), jurist și om politic evreu din România\nLucian Boz (1908-2003), critic literar, eseist, poet și traducător\nMihail Davidoglu (1910-1987), dramaturg\nSimon Fișel (1921-2007), profesor universitar, chimist\nAdrian Bîrzu (1968-2017), profesor universitar, chimist\nNicolae Țațomir (1914-1996), poet și jurist\nCarol Iancu (n. 1946), istoric",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/hârlău.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

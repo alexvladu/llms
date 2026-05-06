@@ -1,0 +1,56 @@
+{
+  "city_key": "techirghiol",
+  "display_name": "Techirghiol",
+  "metadata": {
+    "city": "Techirghiol",
+    "city_key": "techirghiol",
+    "country": "România",
+    "county": "Constanța",
+    "ethnic_romanians_pct": 71.33,
+    "ethnicity_unknown_pct": 15.06,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 7292,
+    "population_2021": 8061,
+    "religion_orthodox_pct": 68.24,
+    "religion_unknown_pct": 16.5,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 2785,
+    "raw_char_count": 3494,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 809,
+      "level": 1,
+      "text": "Techirghiol\nTechirghiol (sau Tekirghiol, turcă Tekirgöl, însemnând \"lacul barbunului\") este un oraș în județul Constanța, Dobrogea, România. Are o populație de 7.292 locuitori. Se află la 15 km de Constanța, la 2 km de Eforie Nord, la 4 km de Movilița. Orașul este cunoscut pentru lacul cu același nume, Sanatoriul Balnear și Mănăstirea Sfânta Maria.\nComunitatea germană din Techirghiol (formată din așa-numiții germani dobrogeni) a fost înființată în 1907. Viața religioasă și educația în această comunitate au fost susținute sub îndrumarea părintelui Pieger, care a contribuit la ridicarea bisericii, finalizată în anul 1934. În 1940, au părăsit așezarea 256 de germani, fiind strămutați cu forța în Germania, sub lozinca Heim ins Reich (Acasă în Reich), în sat rămânând numai 19..\nMoscheea din Techirghiol.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 1335,
+      "level": 1,
+      "text": "Componența etnică a orașului Techirghiol\nRomâni (71,33%) Tătari (7,77%) Turci (4,9%) Alte etnii (0,94%) Necunoscută (15,06%)\nComponența confesională a orașului Techirghiol\nOrtodocși (68,24%) Musulmani (13,36%) Alte religii (1,9%) Necunoscută (16,5%)\nConform recensământului efectuat în 2021, populația orașului Techirghiol se ridică la 8.061 de locuitori, în creștere față de recensământul anterior din 2011, când fuseseră înregistrați 7.292 de locuitori. Majoritatea locuitorilor sunt români (71,33%), cu minorități de tătari (7,77%) și turci (4,9%), iar pentru 15,06% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (68,24%), cu o minoritate de musulmani (13,36%), iar pentru 16,5% nu se cunoaște apartenența confesională.\nTechirghiol este și printre primele stațiuni din România cu o companie din domeniul farmaceutic, care folosește ingrediente extrase din Lacul Techirghiol în scop terapeutic. Techir este brandul cosmetic terapeutic care utilizează ingrediente precum nămolul sapropelic și apa salină în compoziția produselor sale. Produsele cunoscute sunt săpunurile cu ingrediente naturale, uleiurile pentru masaj și cremele de îngrijire pentru ten.\nTechirghiol - evoluția demografică\n0200040006000800010.0001930195619772002populațiePopulația istorică din Techirghiol",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 45,
+      "level": 1,
+      "text": "Biserica mănăstirii Adormirea Maicii Domnului",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 48,
+      "level": 1,
+      "text": "Jean Constantin (1928 - 2010), actor de comedie.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/techirghiol.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

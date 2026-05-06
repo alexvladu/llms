@@ -1,0 +1,62 @@
+{
+  "city_key": "bragadiru",
+  "display_name": "BragadiruPentru alte sensuri, vedeți Bragadiru (dezambiguizare).",
+  "metadata": {
+    "city": "BragadiruPentru alte sensuri, vedeți Bragadiru (dezambiguizare).",
+    "city_key": "bragadiru",
+    "country": "România",
+    "county": "Ilfov",
+    "ethnic_romanians_pct": 79.77,
+    "ethnicity_unknown_pct": 19.35,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 15329,
+    "population_2021": 40080,
+    "religion_orthodox_pct": 74.74,
+    "religion_unknown_pct": 21.22,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 3902,
+    "raw_char_count": 5552,
+    "section_count": 5,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 436,
+      "level": 1,
+      "text": "BragadiruPentru alte sensuri, vedeți Bragadiru (dezambiguizare).\nBragadiru este un oraș în județul Ilfov, Muntenia, România. Localitatea se află în vecinătatea sud-vestică a municipiului București, la ieșirea către Alexandria, fiind un oraș-satelit al Capitalei. Conform recensământului din anul 2022, în Bragadiru trăiesc 40.080 de locuitori, fiind al treilea cel mai populat oraș din județul Ilfov, după Popești-Leordeni și Voluntari.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 518,
+      "level": 1,
+      "text": "Orașul este așezat în partea de sud-vest a județului, la sud-vest de București, pe malurile râului Ciorogârla. El este traversat de șoseaua națională DN6, care leagă Bucureștiul de Alexandria și mai departe de Craiova și Timișoara până la granița cu Ungaria de la Cenad. Acest drum se intersectează la Bragadiru cu șoseaua județeană DJ401A, care duce spre nord-vest la Domnești, Ciorogârla și mai departe în județul Giurgiu la Bolintin-Vale; și spre sud-est la Măgurele, Jilava (unde se intersectează cu DN5) și Vidra.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 1450,
+      "level": 1,
+      "text": "La sfârșitul secolului al XIX-lea, Bragadiru purta numele de Bragadiru-Bulgaru, fiind o comună rurală din componența plășii Sabarul din județul Ilfov, comună formată din satele Bragadiru, Bulgarul și Cornetu-Glogoveanu, totalizând 1061 de locuitori și 187 de case. În comună funcționau o moară cu apă, o fabrică de spirt și una de făină (ambele deținute de Dumitru Marinescu-Bragadiru), o școală mixtă frecventată de 34 de elevi (din care 9 fete) și o biserică ortodoxă aflată în curtea fabricii de spirt. De la aceasta s-a păstrat numai pisania, care menționează:\n„Zidită în anul 1851 de catre vornicul Alexandru Scarlat Ghica, mitropolit al Ungrovalahiei fiind Nifon.”\nBiserica Sfantul Dimitrie Izvoratorul de Mir este ctitoria ulterioară a familiei Marinescu-Bragadiru, sfințită în 26 octombrie 1899.\nÎn 1925, comuna purta numele de Bragadiru, făcând parte din plasa Domnești a aceluiași județ și fiind formată din satele Bragadiru, Bulgaru și Lupeasca, cu o populație de 1499 de locuitori\nÎn 1950, comuna a fost inclusă în raionul V.I. Lenin al orașului republican București, când a devenit comună suburbană a municipiului București, formată doar din satul Bragadiru (satul Bulgaru a fost desființat cu această ocazie și inclus în satul Bragadiru). În 1981, comuna Bragadiru a fost arondată Sectorului Agricol Ilfov aflat în subordinea municipiului București, sector devenit în 1997 județul Ilfov. În 2005, comuna Bragadiru a fost declarată oraș.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 648,
+      "level": 1,
+      "text": "Componența etnică a orașului Bragadiru\nRomâni (79,77%) Alte etnii (0,88%) Necunoscută (19,35%)\nComponența confesională a orașului Bragadiru\nOrtodocși (74,74%) Alte religii (4,05%) Necunoscută (21,22%)\nConform recensământului efectuat în 2021, populația orașului Bragadiru se ridică la 40.080 de locuitori, în creștere față de recensământul anterior din 2011, când fuseseră înregistrați 15.329 de locuitori. Majoritatea locuitorilor sunt români (79,77%), iar pentru 19,35% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (74,74%), iar pentru 21,22% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 489,
+      "level": 1,
+      "text": "Cinci obiective din orașul Bragadiru sunt incluse în Lista monumentelor istorice din județul Ilfov. Patru dintre ele sunt situri arheologice – cel de „La Moară”, de la „Stația de Epurare”, altul pe malul stâng al Ciorogârlei lângă cărămidărie și altul tot pe malul stâng al Ciorogârlei, la 1 km aval de șoseaua națională.\nAl cincilea este monumentul ce folosește elemente din crucea comemorativă ridicată în memoria victimelor Primului Război Mondial, clasificat ca monument de for public.",
+      "title": "Monumente istorice"
+    }
+  ],
+  "source": {
+    "path": "cities_text/bragadiru.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

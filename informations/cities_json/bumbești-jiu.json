@@ -1,0 +1,69 @@
+{
+  "city_key": "bumbești-jiu",
+  "display_name": "Bumbești-Jiu",
+  "metadata": {
+    "city": "Bumbești-Jiu",
+    "city_key": "bumbești-jiu",
+    "country": "România",
+    "county": "Gorj",
+    "ethnic_roma_pct": 2.12,
+    "ethnic_romanians_pct": 85.37,
+    "ethnicity_unknown_pct": 12.34,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 8932,
+    "population_2021": 7684,
+    "religion_orthodox_pct": 85.66,
+    "religion_unknown_pct": 13.5,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4016,
+    "raw_char_count": 4790,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 585,
+      "level": 1,
+      "text": "Bumbești-JiuBumbești-Jiu este un oraș în județul Gorj, Oltenia, România, format din localitatea componentă Bumbești-Jiu (reședința), și din satele Curtișoara, Lăzărești, Pleșa și Tetila. Localitate situată la ieșirea Jiului din defileu. Pe teritoriul său este situat un castru roman, lucru ce dovedește vechimea sa precum și Mănăstirile Lainici și Vișina (secolul al XIV-lea) fondate de Nicodim. Odinioară era locuit de oameni liberi (moșneni).\nTot pe raza localității se regăsește clădirea Oficiului Vamal dintre Regat și Transilvania, clădire aflată în momentul de față în degradare.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 366,
+      "level": 1,
+      "text": "Orașul a fost scena unor lupte crâncene atât în primul cât și în al doilea război mondial, poziția sa geografică, la ieșirea din Defileul Jiului, fiind considerată strategică de armată.\nÎn ianuarie 1999 Bumbești-Jiu a revenit în atenția publică din cauza luptelor de stradă dintre jandarmi și minerii conduși de Miron Cozma.\nBumbești-Jiu a devenit oraș în anul 1989.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 824,
+      "level": 1,
+      "text": "Localitatea se întinde pe circa 6 km de la Vișina până în Comuna Curtișoara, aliniidu-se la poala dealurilor pe care se cultivă viță de vie și pomi fructiferi, până la lunca Jiului, azi în curs de includere într-un viitor lac de acumulare. Alte terenuri se întind pe munții Parâng până la limita administrativă cu județul Hunedoara. Odinioară aceste terenuri constituiau pășuni bogate pentru turmele de oi ale bumbeștenilor.\nOrașul se împarte în două zone urbanistice distincte: Bumbești și Valea Sadului (denumită de localnici și „colonia”). Bumbeștiul este fostul sat Bumbești Jiu, marcat de case cu arhitectură veche, specifică zonei de sub-munte. Valea Sadului este un cartier de blocuri și unități comerciale, construit în jurul anilor 1940 - 1950 pentru a găzdui muncitorii aduși din toată țara la fabrica de armament.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 626,
+      "level": 1,
+      "text": "În Bumbești-Jiu se află una dintre cele mai importante uzine de armament din țară, situată chiar la intrarea în Defileul Jiului spre Petroșani. În perioada comunistă, fabrica de armament era camuflată sub o fabrică industrială de frigidere, aici producîndu-se celebrul frigider românesc „Fram”. Localnicii porecliseră fabrica Fram ca fiind „fabrica de răcit oameni” (cu trimitere la activitatea de producere de armament).\nLângă Mânăstirea Vișina, se găsesc câteva unități de alimentație (restaurante, un motel, o parcare pentru mașini de mare tonaj) renumite în județele Gorj și Hunedoara, cunoscute sub numele de \"La Vișina\".",
+      "title": "Economie"
+    },
+    {
+      "char_count": 820,
+      "level": 1,
+      "text": "Componența etnică a orașului Bumbești-Jiu\nRomâni (85,37%) Romi (2,12%) Alte etnii (0,17%) Necunoscută (12,34%)\nComponența confesională a orașului Bumbești-Jiu\nOrtodocși (85,66%) Alte religii (0,85%) Necunoscută (13,5%)\nConform recensământului efectuat în 2021, populația orașului Bumbești-Jiu se ridică la 7.684 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 8.932 de locuitori. Majoritatea locuitorilor sunt români (85,37%), cu o minoritate de romi (2,12%), iar pentru 12,34% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (85,66%), iar pentru 13,5% nu se cunoaște apartenența confesională.\nBumbești-Jiu - evoluția demografică\n0200040006000800010.00012.000199220022011populațiePopulația istorică din Bumbești-Jiu",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 228,
+      "level": 1,
+      "text": "Personalități născute aici\nDorin Arcanu (n. 1970), fotbalist;\nCorina Peptan (n. 1978), șahistă;\nDan Vîlceanu (n. 1979), om politic, fost ministru al finanțelor.\nNarcis Tran-Korsar (n.1987), muzician, textier și compozitor român.",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/bumbești-jiu.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "city_key": "seini",
+  "display_name": "Seini",
+  "metadata": {
+    "city": "Seini",
+    "city_key": "seini",
+    "country": "România",
+    "county": "Maramureș",
+    "ethnic_roma_pct": 2.71,
+    "ethnic_romanians_pct": 77.03,
+    "ethnicity_unknown_pct": 7.79,
+    "european_roads": [
+      "E58"
+    ],
+    "has_national_roads": true,
+    "has_railway": false,
+    "national_roads": [
+      "DN1C"
+    ],
+    "population_2011": 8987,
+    "population_2021": 8198,
+    "religion_orthodox_pct": 58.65,
+    "religion_pentecostal_pct": 4.33,
+    "religion_roman_catholic_pct": 6.31,
+    "religion_unknown_pct": 8.18,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 5480,
+    "raw_char_count": 6496,
+    "section_count": 8,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 516,
+      "level": 1,
+      "text": "Seini\nSeini (în germană Leuchtenburg; maghiară Szinérváralja) este un oraș în județul Maramureș, Transilvania, România, format din localitatea componentă Seini (reședința), și din satele Săbișa și Viile Apei. Are o populație de 8.987 locuitori (conform recensământului din anul 2011) și se întinde pe o suprafață de 58,91 km². Localitatea a primit statutul de oraș în anul 1988.\nEtimologie\nEtimologia numelui localității: din hidron. (Valea) Seină (< adj. sein „sur, cenușiu, gri”) > Seinel > Seini (Sein + suf. -i).",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 428,
+      "level": 1,
+      "text": "Seini este situat la 26 km vest de Baia Mare, 42 km est de Satu Mare și 24 km sud-est de Negrești-Oaș. La sud de oraș curge râul Someș. Are în componență două sate: Săbișa (la est) și Viile Apei (la nord-vest). Cel mai înalt punct din zonă este dealul Comja (960 metri) aflat la nord de oraș. Principala ocupație este agricultura. Orașul este traversat de pârâul Seinel, ce curge pe direcția nord-sud, vărsându-se în râul Someș.",
+      "title": "Geografie"
+    },
+    {
+      "char_count": 1047,
+      "level": 1,
+      "text": "Cetatea Seini este menționată deja în anul 1490 (după alte surse, prima atestare datează din 1334 Synir ), iar în anul 1677 a fost distrusă de tătari, populația refugiindu-se în pădurile învecinate. În anul 1717 tătarii au măcelarit sau au luat ca robi cea mai mare parte a populației Seinului. Ruinele cetății se pot vedea și astăzi pe dealul de la Apa. De asemenea, Seiniul este menționat printre cetățile existente în secolele X-XIII sub numele de Castrum Zynyr sau apare și sub alte denumiri ca Seinen sau Seini. Cetatea cuprinde Țara Oașului, Lunca Someșului până la Bușag și Lipău. Localitatea este atestată documentar, din nou, în secolul al XIV-lea în \"Notațiile privind zeciuiala papală din 1334\". La 1344 Seiniul devine opidum (târg) care va supraviețui și după distrugerea cetății din anul 1563.\nÎn 1920 la Seini locuiau 4.374 de persoane, dintre care 2.274 români, 1.648 maghiari și 452 evrei.\nÎn data de 14 aprilie 2022 a fost deschis podul peste râul Someș, care face legătura între orașul Seini și comuna Pomi din județul Satu Mare.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 1172,
+      "level": 1,
+      "text": "Componența etnică a orașului Seini\nRomâni (77,03%) Maghiari (12,2%) Romi (2,71%) Alte etnii (0,27%) Necunoscută (7,79%)\nComponența confesională a orașului Seini\nOrtodocși (58,65%) Greco-catolici (9,78%) Reformați (9,01%) Romano-catolici (6,31%) Penticostali (4,33%) Baptiști (1,7%) Martori ai lui Iehova (1,34%) Alte religii (0,7%) Necunoscută (8,18%)\nConform recensământului efectuat în 2021, populația orașului Seini se ridică la 8.198 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 8.987 de locuitori. Majoritatea locuitorilor sunt români (77,03%), cu minorități de maghiari (12,2%) și romi (2,71%), iar pentru 7,79% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (58,65%), cu minorități de greco-catolici (9,78%), reformați (9,01%), romano-catolici (6,31%), penticostali (4,33%), baptiști (1,7%) și martori ai lui Iehova (1,34%), iar pentru 8,18% nu se cunoaște apartenența confesională.\nSeini - evoluția demografică\n0200040006000800010.00012.000199220022011populațiePopulația istorică din Seini\nBiserica Ortodoxă „Sfinții Arhangheli Mihail și Gavril” din Seini",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 652,
+      "level": 1,
+      "text": "Date generale\nSinagoga din Seini\nSuprafața totală a orașului: 5891 hectare;\nSuprafața intravilan: 986 hectare;\nSuprafața extravilan: 4905 hectare;\nBiserica romano-catolică SeiniNumăr de gospodării: 3677;\nNumăr de locuințe: 3064;\nNumăr de grădinițe: 5;\nNumăr de școli: 5;\nNumăr de licee: 1;\nActivități economice: agricultura, industria alimentară, creșterea animalelor, pomicultura, viticultura;\nActivități zonale: creșterea animalelor, cultivarea terenurilor agricole, prestări servicii în construcții;\nFacilități pentru investitori: scutiri la impozite și taxe locale;\nProiecte investiții: amenajarea barajului pe pârâul Seinel, sala de sport școlară.",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 248,
+      "level": 1,
+      "text": "Orașul Seini este situat pe DN1C și pe drumul european E58. În Seini, din DN1C se desprinde drumul județean care face legătura cu Negrești-Oaș.\nStația C.F.R. Seini este situată pe magistrala 400 a Căilor Ferate Române, între Baia Mare și Satu Mare.",
+      "title": "Transport"
+    },
+    {
+      "char_count": 876,
+      "level": 1,
+      "text": "Rezervația naturală „Pădurea cu pini Comja” (arie protejată de tip forestier cu o suprafață de 0,5 hectare).\nCetatea medievală („Dealul Cetății”).\nObeliscul în memoria lui Erdosy Syilvester Janos (în fața bisericii reformate).\nSinagoga (construită în anul 1904 și situată pe Strada Cuza Vodă nr. 25).\nBiserica ortodoxă din piatră „Sfinții Arhangheli Mihail și Gavril” (construită în anul 1882, proiectată de Alexiu Berinde și situată pe Strada Băii nr. 1).\nFosta școală confesională românească (construită în perioada 1860-1865 și situată pe Strada Băii nr. 4).\nBiserica reformată (calvină) (datând din 1796 și aflată pe Strada Libertății nr. 3).\nȘcoala confesională romano-catolică (datând de la sfârșitul secolului al XVIII-lea și situată pe Str. Unirii nr. 1A).\nBiserica romano-catolică (ridicată în 1421, a suferit transformări ulterioare, situată pe Strada Unirii nr. 3).",
+      "title": "Obiective turistice"
+    },
+    {
+      "char_count": 374,
+      "level": 1,
+      "text": "Sylvester János (1504-1551), cărturar și scriitor maghiar, primul traducător al Bibliei în limba maghiară, în onoarea căruia în anul 1902 s-a ridicat un monument.\nAlexiu Berinde (1844-1923), memorandist, preot-protopop, politician și arhitect român, membru al mișcării unioniste.\nÎn anul 1934 a fost înmormântat la Seini, Szende Pál (1879-1934), ministru de finanțe maghiar.",
+      "title": "Personalități"
+    }
+  ],
+  "source": {
+    "path": "cities_text/seini.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

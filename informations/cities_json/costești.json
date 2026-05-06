@@ -1,0 +1,29 @@
+{
+  "city_key": "costești",
+  "display_name": "Costești",
+  "metadata": {
+    "city": "Costești",
+    "city_key": "costești",
+    "country": "România",
+    "has_national_roads": false,
+    "has_railway": false,
+    "settlement_type": "unknown"
+  },
+  "quality": {
+    "clean_char_count": 8,
+    "raw_char_count": 8,
+    "section_count": 0,
+    "warnings": [
+      "missing_demografie_section",
+      "no_sections_detected",
+      "only_title",
+      "very_short_file"
+    ]
+  },
+  "schema_version": "1.0",
+  "sections": [],
+  "source": {
+    "path": "cities_text/costești.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

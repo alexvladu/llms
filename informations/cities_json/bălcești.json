@@ -1,0 +1,55 @@
+{
+  "city_key": "bălcești",
+  "display_name": "BălceștiPentru alte sensuri, vedeți Bălcești (dezambiguizare).",
+  "metadata": {
+    "city": "BălceștiPentru alte sensuri, vedeți Bălcești (dezambiguizare).",
+    "city_key": "bălcești",
+    "country": "România",
+    "county": "Vâlcea",
+    "ethnic_romanians_pct": 88.67,
+    "ethnicity_unknown_pct": 11.36,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 4864,
+    "population_2021": 4235,
+    "religion_orthodox_pct": 88.19,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 4017,
+    "raw_char_count": 4827,
+    "section_count": 4,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 2227,
+      "level": 1,
+      "text": "BălceștiPentru alte sensuri, vedeți Bălcești (dezambiguizare).\nBălcești este un oraș în județul Vâlcea, Oltenia, România, format din localitatea componentă Bălcești (reședința), și din satele Benești, Cârlogani, Chirculești, Gorunești, Irimești, Otetelișu, Preoțești și Satu Poieni.\nComună până în anul 2002, Bălcești este, în esență, un vechi târgușor bine dezvoltat social și economic de-a lungul timpului, favorizat și de așezarea sa la răscrucea drumurilor ancestrale ce leagă Craiova (39 km) de Râmnicu Vâlcea (81 km), Horezu ( 70 km) de Drăgășani (44 km). Prin Legea nr. 353 din 6 iunie 2002, comuna Bălcești a fost declarată oraș. Se compune din localitățile: Benești, Gorunești, Chirculești, Ulicioiu, Irimești, Otetelișu, Preotești și Poieni, foste sate, astăzi cartiere cuprinse în administrarea noului oraș. Satele Gorunești, Irimești și Otetelișu au fost comune până pe la începutul anului 1970, însă dezvoltarea fostei comune Bălcești a cauzat unificarea. între localități.\nIstoric\nSe remarcă faptul că Benești era cunoscut de foarte mult timp ca locul unde în anul 1750, dascălul grec Hristodor înființează o școală sătească. Aceast locaș de învățătură, în anul 1838 se transforma în școală preparandă care pregătea primii învățători rurali pentru satele plasei Oltețu.\nÎn pridvorul acestei școli din Benești poposea la 2 martie 1821 revoluționarul Tudor Vladimirescu în drumul său cu pandurii, ai căror comandant era, către București.\nBenești este și locul care a dat umanității pe cărturarul Petrache Poenaru, cel care în anul 1827 obținea la Paris brevetul pentru condei portăreț fără sfârșit, stiloul de astăzi. Însă, Petrache Poenaru, omul de taină a lui Tudor Vladimirescu este cel care concepe steagul național, steag ce a fost purtat pentru prima dată de pandurii marelui revoluționar. Este de asemeni editorul primului ziar românesc „Foaie de propagandă” pentru armata de panduri a lui Tudor Vladimirescu. Este organizatorul învățământului național românesc, fondatorul colegiilor naționale din București și Craiova, membru al Academiei Române din anul 1870.\nNumele satului Otetelișu, vine de la numele dat de familia boierilor Otetelișeni, sprijinitoare a acțiunilor revoluționarului Tudor Vladimirescu.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 516,
+      "level": 1,
+      "text": "Economia orașului se bazează în general pe producția agricolă, dipunând de o suprafață agricolă mare, de specialiști agrari, de asociații agricole. De asemeni se mai bazează și pe producția IMM-urilor.\nSocial\nLocalitatea a dispus de un spital zonal (unul dintre primele spitale „rurale” din România) cu policlinică, acesta fiind însă transformat în azil de bătrâni. De asemenea, aici funcționează un liceu tehnologic, școli generale și grădinițe în fiecare localitate componentă. Are o casa de cultură și bibliotecă.",
+      "title": "Economie"
+    },
+    {
+      "char_count": 569,
+      "level": 1,
+      "text": "Componența etnică a orașului Bălcești\nRomâni (88,67%) Alte etnii (11,33%)\nComponența confesională a orașului Bălcești\nOrtodocși (88,19%) Alte religii (0,45%) Necunoscută (11,36%)\nConform recensământului efectuat în 2021, populația orașului Bălcești se ridică la 4.235 de locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 4.864 de locuitori. Majoritatea locuitorilor sunt români (88,67%). Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (88,19%), iar pentru 11,36% nu se cunoaște apartenența confesională.",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 605,
+      "level": 1,
+      "text": "Personalități născute aici\nPavel Lotru (secolul al XVII-lea), haiduc;\nPetrache Poenaru (1799 - 1875), pedagog, inventator (a brevetat primul toc rezervor din lume), inginer și matematician român, membru titular al Academiei Române;\nAlexandru Oprea (1931 - 1983), scriitor, critic literar, membru al Uniunii Scriitorilor din România;\nDumitru Dragomir (n. 1946), manager sportiv, om politic, fost președinte al Ligii Profesioniste de Fotbal;\nGheorghe Catrina (n. 1953), general de aviație, fost șef al Statului Major al Forțelor Aeriene Române.\nFlorentin Smarandache ( n. 1954), inventatorul paradoxismului.",
+      "title": "Politică și administrație"
+    }
+  ],
+  "source": {
+    "path": "cities_text/bălcești.txt",
+    "type": "wikipedia_text_dump"
+  }
+}

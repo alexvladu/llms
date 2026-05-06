@@ -18,10 +18,34 @@ Our conversational city recommendation system comprises three integrated layers:
 - Information Density: 8+ structured evaluation dimensions per city
 - Quality Baseline: Wikipedia-grade sourcing, real-time validation capability
 
-## 3. Chunking Strategy (with overlap)
+## 3. Preprocessing & Chunking Strategy
 
-- Chunk size: 1,000–2,000 tokens per semantic section (balance between context density and retrieval precision)
-- Overlap: 200-token windows to preserve boundary context
+Raw Wikipedia text is no longer chunked directly. The preprocessing pipeline now follows:
+
+```text
+City Text Files
+    ↓
+Wikipedia Cleaner + Section Parser
+    ↓
+Structured City JSON + Section Documents
+    ↓
+RecursiveCharacterTextSplitter
+    ↓
+Embeddings
+    ↓
+Chroma
+    ↓
+Metadata-aware retrieval
+    ↓
+Qwen answer generation
+```
+
+- One structured profile document is created per city.
+- One RAG document is created per useful section, such as `Introducere`, `Geografie`, `Istorie`, `Demografie`, `Transport`, `Educație`, and `Sănătate`.
+- Noisy footer sections such as `Note`, `Bibliografie`, `Vezi și`, and `Legături externe` are excluded from RAG chunks.
+- Chunk size: 1,400 characters.
+- Overlap: 150 characters.
+- Metadata stored with each chunk includes `city_key`, `county`, `section`, and `source_type`.
 
 ## 4. Vector Database & Retrieval Infrastructure
 
@@ -45,8 +69,16 @@ Our conversational city recommendation system comprises three integrated layers:
 
 **Primary Strategy: Preference-Conditioned Retrieval**
 1. User provides preference signal → embed into vector space
-2. Query Chroma DB with dimension-filtered retrieval (e.g., climate-focused queries → geography/climate chunks)
+2. Query Chroma DB with metadata-aware retrieval (e.g., population queries → `Demografie`, transport queries → `Transport`)
 3. Qwen 9B generates follow-up preference questions or synthesizes dimensions into explanations
+
+**Prompt Grounding Rules:**
+- Answer in Romanian.
+- Use only retrieved context.
+- Mention the source city and section.
+- If data has a year, mention the year.
+- If context is insufficient, say so explicitly.
+- For relocation questions, distinguish between facts present in Wikipedia-derived data and missing information such as rent, salaries, safety, or jobs.
 
 **Ranking & Recommendation Generation:**
 - Weighted aggregation across 8 dimensions using normalized city indices

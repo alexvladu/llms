@@ -1,0 +1,68 @@
+{
+  "city_key": "azuga",
+  "display_name": "Azuga",
+  "metadata": {
+    "city": "Azuga",
+    "city_key": "azuga",
+    "country": "România",
+    "county": "Prahova",
+    "ethnic_romanians_pct": 90.13,
+    "ethnicity_unknown_pct": 9.02,
+    "has_national_roads": false,
+    "has_railway": false,
+    "population_2011": 4440,
+    "religion_orthodox_pct": 86.31,
+    "religion_roman_catholic_pct": 1.72,
+    "religion_unknown_pct": 10.1,
+    "settlement_type": "oraș"
+  },
+  "quality": {
+    "clean_char_count": 6699,
+    "raw_char_count": 7656,
+    "section_count": 6,
+    "warnings": []
+  },
+  "schema_version": "1.0",
+  "sections": [
+    {
+      "char_count": 726,
+      "level": 1,
+      "text": "Azuga\nAzuga (în trecut, Între Prahove) este un oraș în județul Prahova, Muntenia, România. Localitatea este situată pe Valea Prahovei, la confluența cu râul Azuga, la poalele Munților Bucegi și Munților Baiului, în vecinătatea culmilor Sorica și Cazacu. Este o importantă stațiune climaterică și turistică, remarcându-se în special prin infrastructura pentru sporturile de iarnă.\nAșezare\nOrașul se află în nordul extrem al județului, în Munții Baiului, la limita cu județul Brașov, pe cursul superior al râului Prahova, acolo unde primește apele afluentului Azuga. Este străbătut de șoseaua națională DN1, care leagă Ploieștiul de Brașov. Prin oraș trece și calea ferată Ploiești-Brașov, pe care este deservit de stația Azuga.",
+      "title": "Introducere"
+    },
+    {
+      "char_count": 814,
+      "level": 1,
+      "text": "Componența etnică a orașului Azuga\nRomâni (90,13%) Alte etnii (0,85%) Necunoscută (9,02%)\nComponența confesională a orașului Azuga\nOrtodocși (86,31%) Romano-catolici (1,72%) Alte religii (1,87%) Necunoscută (10,1%)\nConform recensământului efectuat în 2021, populația orașului Azuga se ridică la 3.901 locuitori, în scădere față de recensământul anterior din 2011, când fuseseră înregistrați 4.440 de locuitori. Majoritatea locuitorilor sunt români (90,13%), iar pentru 9,02% nu se cunoaște apartenența etnică. Din punct de vedere confesional, majoritatea locuitorilor sunt ortodocși (86,31%), cu o minoritate de romano-catolici (1,72%), iar pentru 10,1% nu se cunoaște apartenența confesională.\nAzuga - evoluția demografică\n01000200030004000500060007000195619661977199220022011populațiePopulația istorică din Azuga",
+      "title": "Demografie"
+    },
+    {
+      "char_count": 307,
+      "level": 1,
+      "text": "Primarul ales la scrutinul din 9 iunie 2024 este Adrian Gheorghe Purcaru, care își va începe cel de-al patrulea mandat în luna octombrie 2024. Primele trei mandate au fost între anii 2000-2012, în timpul primului mandat fiind cel mai tânăr primar din țară. Componența noului Consiliu Local va fi următoarea:",
+      "title": "Politică și administrație"
+    },
+    {
+      "char_count": 2612,
+      "level": 1,
+      "text": "Un vechi document din anul 1815 menționează hanul Căciula Mare, numit și Hanul Între Prahove, descris de istoricii români V. A. Urechia, în lucrarea sa Drumul Brașovului și de Nicolae Iorga, în lucrarea Scrisori de negustori. Datorită vieții pastorale intense, această așezare s-a extins ulterior. Potrivit unor afirmații, hanul s-a construit intre anii 1720-1725, fiind ars în mai multe rânduri de turci. Acest han se află în locul unde este astăzi Biserica Ortodoxă. Hanul Căciula Mare a fost prima cladire construită în aceasta zonă, iar abia în primii ani ai secolului al XIX-lea au apărut primele locuințe omenești.\nPrimii locuitori din zona Valea Prahovei au fost păstorii de vite, iar primul locuitor care s-a stabilit în actualul oraș Azuga a fost ciobanul Gheorghe Zangor, care avea în jur de 500 de oi, acesta construindu-și prima casă în jurul anului 1800. Până în 1881, așezarea s-a numit Întreprahove/Între Prahove. În anul 1884 localitățile Predeal, Azuga, Bușteni și Poiana Țapului au format împreună o comună, sub numele de Predeal, ce făcea parte din plaiul Prahova, iar în anul 1889 reședința Primăriei s-a mutat de la Predeal la Azuga, într-o clădire pusă la dispoziție de regele Carol I.\nDe-a lungul timpului s-au construit numeroase fabrici în Azuga, prima fiind Fabrica de Sticlă, construită de Aslan în anul 1830, însa aceasta a fost închisă după doar câteva luni; banul Filipescu, proprietarul moșiei, a încercat să o mai închirieze unui bucureștean, dar acesta a dispărut înainte de reluarea producției. În anul 1879 s-a construit o nouă fabrică de sticlă, proprietatea lui S. Grunfeld, fabrica având în jur de 250 de angajați, majoritatea din Boemia. Apoi au urmat fabrica de cașcaval (1882), fabrica de var hidraulic (1885), fabrica de ciment (1885), fabrica de postav (1887), fabrica de salam (1877), fabrica de cherestea (1888), fabrica de șampanie (1892) și fabrica de șamotă (1908), fabrica de bere (1898). Însă cea mai importantă fabrică construită în Azuga a fost fabrica de Bere, ridicată în perioada 1898-1900 de către specialistul de origine germană Grundt.\nÎn secolul al XIX-lea, locul cuprins între apele Azuga și Prahova a fost un renumit loc de popas, pe drumul care traversa munții. Pe locul unuia dintre aceste hanuri, între anii 1902-1903, a fost construită actuala biserică, închinată Sfintei Treimi. Pe lângă darurile oferite de credincioși, un ajutor semnificativ a fost oferit de Casa Regală. Biserica este împodobită cu o serie de vitralii deosebite, lucrate de un meșter german, în anul 1902, la cererea regelui Carol I și a reginei Elisabeta, ctitorii bisericii.",
+      "title": "Istorie"
+    },
+    {
+      "char_count": 671,
+      "level": 1,
+      "text": "În orașul Azuga se află cimitirul eroilor din Primul Război Mondial (amenajat în 1920), monument istoric memorial sau funerar de interes național.\nÎn rest, alte zece obiective din oraș sunt incluse în lista monumentelor istorice din județul Prahova ca monumente de interes local, toate fiind clasificate ca monumente de arhitectură: clădirea birourilor ADP (sfârșitul secolului al XIX-lea), casa cu parter comercial Ion Vasilescu (circa 1910), casa cu parter comercial Ion Taraș, casele Lucian Marcu, Petre Tibeică, Ion Seu și Nicolae Irimia, casa parohială (începutul secolului al XX-lea), o altă casă din 1890 din strada Independenței, și cășeria lui Ghimbășanu (1878).",
+      "title": "Monumente istorice"
+    },
+    {
+      "char_count": 1121,
+      "level": 1,
+      "text": "Pârtiile amenajate din Azuga sunt:[necesită citare]\nSorica: lungime 2100 m, dificultate medie, diferența de nivel de 561 m, instalație de iluminat nocturn și tunuri de zăpadă\nCazacu: lungime 1920 m, dificultate medie, diferența de nivel 530 m\nCazacu variantă: lungime 400 m, dificultate medie, dispune de zăpadă artificială\nCazacu bretea: lungime 715 m, diferența de nivel 163 m\nSorica Sud - lungime 770 m, ușoară\nLa Stână - lungime 910 m, ușoară\nAlte pârtii de schi fond, precum și un traseu de snowboard, situate în vecinătatea pârtiei Cazacu, însumează 10 km.\nAzuga dispune de o telegondolă inaugurată la sfârșitul anului 2007, care oferă acces din punctul superior către toate pârtiile din stațiune. Există de asemenea și instalații de teleschi, miniteleschi și babyschi.\nPersonalități născute aici\nHoria Igiroșanu (1896 - 1960), regizor, scenarist;\nIon Zangor (1938 - 1973), bober;\nGheorghe Voicu (n. 1950), biatlonist;\nStelian Morcov (n. 1951), luptator;\nSimona Păucă (n. 1969), gimnastă;\nAlexandru Vagner (1989 - 2022), fotbalist;\nAlexandru Stefan Stefanescu (n. 1999), schior;\nGabriel Cojocaru (n. 2003), fondist;",
+      "title": "Turism"
+    }
+  ],
+  "source": {
+    "path": "cities_text/azuga.txt",
+    "type": "wikipedia_text_dump"
+  }
+}
