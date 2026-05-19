@@ -28,6 +28,47 @@ from pathlib import Path
 import chromadb
 import requests
 from openai import OpenAI
+from flask import Flask, request, jsonify
+import uuid
+from threading import Lock
+import traceback
+
+
+def _init_resources():
+    """Initialize ChromaDB collection and LLM client; return (llm_client, collection, city_map)."""
+    if not CHROMA_DIR.exists():
+        print(
+            f"EROARE: ChromaDB nu a fost găsit la «{CHROMA_DIR}».\n"
+            "Rulați mai întâi celulele 1-5 din main.ipynb pentru a construi baza de date."
+        )
+        sys.exit(1)
+
+    chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+    try:
+        collection = chroma_client.get_collection(name=COLLECTION_NAME)
+    except Exception as exc:
+        print(f"EROARE: Nu s-a putut deschide colecția «{COLLECTION_NAME}»: {exc}")
+        sys.exit(1)
+
+    city_map = _load_city_map(collection)
+    print(f"✓ ChromaDB: {collection.count()} fragmente, {len(city_map)} orașe")
+
+    llm_client = OpenAI(base_url=LM_STUDIO_URL, api_key="not-needed")
+
+    try:
+        test_vec = get_embedding("test de conexiune")
+        print(f"✓ Embedding model: {len(test_vec)} dimensiuni")
+    except Exception as exc:
+        print(f"EROARE la embedding: {exc}\nVerificați că LM Studio rulează pe {LM_STUDIO_URL}")
+        sys.exit(1)
+
+    try:
+        llm_client.models.list()
+        print("✓ LLM conectat")
+    except Exception as exc:
+        print(f"AVERTISMENT: Nu s-a putut verifica LLM-ul ({exc}). Continuăm oricum...")
+
+    return llm_client, collection, city_map
 
 # ---------------------------------------------------------------------------
 # Paths & constants
@@ -44,10 +85,15 @@ CHAT_MODEL    = "qwen"          # LM Studio serves the loaded model under any na
 EMBED_MODEL   = "text-embedding-nomic-embed-text-v1.5"
 
 RAG_TRIGGER_TURNS   = 3   # fallback: always trigger RAG after this many user turns
-RAG_TRIGGER_WORDS   = 30  # trigger early if user has typed this many words total
+RAG_TRIGGER_WORDS   = 70  # trigger early if user has typed this many words total
                           # (~2 detailed sentences covers most preference dimensions)
 RAG_TOP_K           = 6   # chunks to retrieve per query
 MAX_RESPONSE_TOKENS = 700
+
+RESPONSE_LIMIT_PROMPT = (
+    "Răspunde în limba română, direct și concis, în maximum 150 de cuvinte. "
+    "Nu include raționament intern, pași de analiză sau explicații despre cum gândești."
+)
 
 # Reuse the exact system prompt from dataset_formatter so inference behaviour
 # mirrors what the fine-tuned model will see.
@@ -217,9 +263,11 @@ def llm_chat(
     max_tokens: int = MAX_RESPONSE_TOKENS,
     temperature: float = 0.7,
 ) -> str:
+    constrained_messages = [{"role": "system", "content": RESPONSE_LIMIT_PROMPT}]
+    constrained_messages.extend(messages)
     response = client.chat.completions.create(
         model=CHAT_MODEL,
-        messages=messages,
+        messages=constrained_messages,
         max_tokens=max_tokens,
         temperature=temperature,
     )
@@ -355,47 +403,9 @@ class CityAdvisor:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    # ------------------------------------------------------------------
-    # 1. Connect to ChromaDB
-    # ------------------------------------------------------------------
-    if not CHROMA_DIR.exists():
-        print(
-            f"EROARE: ChromaDB nu a fost găsit la «{CHROMA_DIR}».\n"
-            "Rulați mai întâi celulele 1-5 din main.ipynb pentru a construi baza de date."
-        )
-        sys.exit(1)
-
-    chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
-    try:
-        collection = chroma_client.get_collection(name=COLLECTION_NAME)
-    except Exception as exc:
-        print(f"EROARE: Nu s-a putut deschide colecția «{COLLECTION_NAME}»: {exc}")
-        sys.exit(1)
-
-    city_map = _load_city_map(collection)
-    print(f"✓ ChromaDB: {collection.count()} fragmente, {len(city_map)} orașe")
-
-    # ------------------------------------------------------------------
-    # 2. Connect to LM Studio
-    # ------------------------------------------------------------------
-    llm_client = OpenAI(base_url=LM_STUDIO_URL, api_key="not-needed")
-
-    try:
-        test_vec = get_embedding("test de conexiune")
-        print(f"✓ Embedding model: {len(test_vec)} dimensiuni")
-    except Exception as exc:
-        print(f"EROARE la embedding: {exc}\nVerificați că LM Studio rulează pe {LM_STUDIO_URL}")
-        sys.exit(1)
-
-    try:
-        llm_client.models.list()
-        print("✓ LLM conectat")
-    except Exception as exc:
-        print(f"AVERTISMENT: Nu s-a putut verifica LLM-ul ({exc}). Continuăm oricum...")
-
-    # ------------------------------------------------------------------
-    # 3. Start conversation
-    # ------------------------------------------------------------------
+    # Initialize resources (ChromaDB, embeddings, LLM)
+    llm_client, collection, city_map = _init_resources()
+    # Start conversation (CLI mode)
     advisor = CityAdvisor(llm_client, collection, city_map)
 
     print()
@@ -448,4 +458,64 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    # Support a web mode: `python chat.py --web` to run a simple Flask API
+    if "--web" in sys.argv:
+        # Create resources and run a small Flask app exposing the same behavior
+        def run_web(host: str = "127.0.0.1", port: int = 5000):
+            llm_client, collection, city_map = _init_resources()
+
+            app = Flask(__name__, static_folder=str(REPO_ROOT / "web_console"), static_url_path="")
+
+            sessions: dict[str, CityAdvisor] = {}
+            lock = Lock()
+
+            @app.route("/", methods=["GET"])
+            def index():
+                return app.send_static_file("index.html")
+
+            @app.route("/api/chat", methods=["POST"])
+            def api_chat():
+                data = request.get_json(force=True) or {}
+                prompt = (data.get("prompt") or "").strip()
+                if not prompt:
+                    return jsonify({"error": "missing prompt"}), 400
+                session_id = data.get("session_id")
+
+                if not session_id:
+                    session_id = str(uuid.uuid4())
+                with lock:
+                    if session_id not in sessions:
+                        sessions[session_id] = CityAdvisor(llm_client, collection, city_map)
+                    advisor = sessions[session_id]
+
+                try:
+                    reply = advisor.chat(prompt)
+                except Exception as exc:
+                    tb = traceback.format_exc()
+                    print(f"[ERROR] exception in /api/chat:\n{tb}", file=sys.stderr)
+                    # Return limited traceback lines for local debugging
+                    tb_lines = tb.splitlines()[-10:]
+                    return jsonify({"error": str(exc), "trace": tb_lines}), 500
+
+                return jsonify({"session_id": session_id, "reply": reply})
+
+            @app.route("/api/ping", methods=["GET"])
+            def api_ping():
+                return jsonify({"ok": True})
+
+            @app.route("/api/reset", methods=["POST"])
+            def api_reset():
+                data = request.get_json(force=True)
+                session_id = data.get("session_id")
+                if not session_id:
+                    return jsonify({"error": "missing session_id"}), 400
+                with lock:
+                    if session_id in sessions:
+                        sessions[session_id].reset()
+                return jsonify({"ok": True})
+
+            app.run(host=host, port=port)
+
+        run_web()
+    else:
+        main()

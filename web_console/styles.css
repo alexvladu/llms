@@ -1,0 +1,19 @@
+*{box-sizing:border-box;font-family:Inter,Segoe UI,Roboto,Arial,sans-serif}
+html,body,#app{height:100%;margin:0}
+body{background:#0b1221;color:#e6eef8;display:flex;align-items:center;justify-content:center;padding:24px}
+#app{width:900px;max-width:100%;background:#0f1724;border-radius:8px;padding:18px;box-shadow:0 10px 30px rgba(2,6,23,.6)}
+header h1{margin:0;font-size:18px}
+#console{background:#071021;border-radius:6px;padding:14px;height:420px;overflow:auto;margin:12px 0;font-family:monospace;font-size:14px;line-height:1.5}
+.entry{margin-bottom:12px}
+.entry .who{display:inline-block;padding:2px 8px;border-radius:4px;font-weight:600;margin-right:8px}
+.user .who{background:#134e4a;color:#c7f9f1}
+.ai .who{background:#2a4366;color:#dbeafe}
+.user .text{color:#9ae6b4}
+.ai .text{color:#cfe3ff}
+form{display:flex;gap:8px}
+input{flex:1;padding:10px;border-radius:6px;border:1px solid rgba(255,255,255,.06);background:#031122;color:inherit}
+button{padding:8px 12px;border-radius:6px;border:none;background:#1f6feb;color:white;cursor:pointer}
+button#resetBtn{background:#374151}
+small{color:#94a3b8}
+.typing{display:inline-block;width:8px;height:8px;border-radius:50%;background:#cfe3ff;margin-left:6px;animation:blink 1s infinite}
+@keyframes blink{0%{opacity:0.2}50%{opacity:1}100%{opacity:0.2}}

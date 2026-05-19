@@ -4,3 +4,4 @@ langchain-core>=0.3.0
 langchain-text-splitters>=0.3.0
 requests>=2.32.0
 sentence-transformers>=3.0.0
+Flask>=2.0.0
