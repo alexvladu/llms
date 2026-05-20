@@ -25,6 +25,12 @@ import sys
 import unicodedata
 from pathlib import Path
 
+# Windows consoles often default to cp1252, which cannot print Romanian
+# status text/check marks reliably during startup.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 import chromadb
 import requests
 from openai import OpenAI
@@ -70,6 +76,7 @@ def _init_resources():
 
     return llm_client, collection, city_map
 
+
 # ---------------------------------------------------------------------------
 # Paths & constants
 # ---------------------------------------------------------------------------
@@ -89,6 +96,13 @@ RAG_TRIGGER_WORDS   = 70  # trigger early if user has typed this many words tota
                           # (~2 detailed sentences covers most preference dimensions)
 RAG_TOP_K           = 6   # chunks to retrieve per query
 MAX_RESPONSE_TOKENS = 700
+
+NO_THINK_TOKEN = "/no_think"
+INTERNAL_LABELS_PROMPT = (
+    "Nu menționa niciodată etichete interne precum [CONTEXT RAG], context RAG, bloc de context, "
+    "sistem, prompt sau bază de date externă. Nu spune utilizatorului că nu ai acces la context; "
+    "dacă nu ai suficiente informații, formulează natural o întrebare de clarificare."
+)
 
 RESPONSE_LIMIT_PROMPT = (
     "Răspunde în limba română, direct și concis, în maximum 150 de cuvinte. "
@@ -257,21 +271,62 @@ def build_rag_block(chunks: list[dict]) -> str:
 # LLM helper
 # ---------------------------------------------------------------------------
 
+def _add_no_think(messages: list[dict]) -> list[dict]:
+    """Ask Qwen-style chat templates to answer directly without thinking text."""
+    patched = [dict(message) for message in messages]
+    for message in reversed(patched):
+        if message["role"] == "user":
+            content = message["content"].rstrip()
+            if NO_THINK_TOKEN not in content:
+                message["content"] = f"{content}\n\n{NO_THINK_TOKEN}"
+            break
+    return patched
+
+
+def _strip_thinking(text: str) -> str:
+    """Defensive cleanup for models that still emit hidden-reasoning wrappers."""
+    text = re.sub(r"(?is)^\s*<think>.*?</think>\s*", "", text.strip())
+
+    final_markers = ("Final Answer:", "Final:", "Răspuns:", "Raspuns:")
+    if text.lower().startswith("thinking process"):
+        for marker in final_markers:
+            index = text.lower().find(marker.lower())
+            if index != -1:
+                return text[index + len(marker):].strip()
+
+    return text
+
+
 def llm_chat(
     client: OpenAI,
     messages: list[dict],
     max_tokens: int = MAX_RESPONSE_TOKENS,
     temperature: float = 0.7,
 ) -> str:
-    constrained_messages = [{"role": "system", "content": RESPONSE_LIMIT_PROMPT}]
-    constrained_messages.extend(messages)
+    system_parts = [RESPONSE_LIMIT_PROMPT, INTERNAL_LABELS_PROMPT]
+    conversation: list[dict] = []
+
+    for message in messages:
+        if message["role"] == "system":
+            system_parts.append(message["content"])
+        else:
+            conversation.append(message)
+
+    # Some LM Studio prompt templates fail when system messages appear after
+    # user/assistant turns. Keep one initial system prompt and a clean chat.
+    constrained_messages = [
+        {"role": "system", "content": "\n\n".join(system_parts)},
+        *conversation,
+    ]
+    constrained_messages = _add_no_think(constrained_messages)
+
     response = client.chat.completions.create(
         model=CHAT_MODEL,
         messages=constrained_messages,
         max_tokens=max_tokens,
         temperature=temperature,
     )
-    return response.choices[0].message.content.strip()
+    return _strip_thinking(response.choices[0].message.content)
 
 
 def extract_search_query(conversation: list[dict], client: OpenAI) -> str:
@@ -493,7 +548,6 @@ if __name__ == "__main__":
                 except Exception as exc:
                     tb = traceback.format_exc()
                     print(f"[ERROR] exception in /api/chat:\n{tb}", file=sys.stderr)
-                    # Return limited traceback lines for local debugging
                     tb_lines = tb.splitlines()[-10:]
                     return jsonify({"error": str(exc), "trace": tb_lines}), 500
 
@@ -505,7 +559,7 @@ if __name__ == "__main__":
 
             @app.route("/api/reset", methods=["POST"])
             def api_reset():
-                data = request.get_json(force=True)
+                data = request.get_json(force=True) or {}
                 session_id = data.get("session_id")
                 if not session_id:
                     return jsonify({"error": "missing session_id"}), 400

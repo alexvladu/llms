@@ -1,11 +1,11 @@
 *{box-sizing:border-box;font-family:Inter,Segoe UI,Roboto,Arial,sans-serif}
 html,body,#app{height:100%;margin:0}
 body{background:#0b1221;color:#e6eef8;display:flex;align-items:center;justify-content:center;padding:24px}
-#app{width:900px;max-width:100%;background:#0f1724;border-radius:8px;padding:18px;box-shadow:0 10px 30px rgba(2,6,23,.6)}
+#app{display:flex;flex-direction: column;width:900px;max-width:100%;background:#181e28;border-radius:8px;padding:18px;box-shadow:0 10px 30px rgba(2,6,23,.6)}
 header h1{margin:0;font-size:18px}
-#console{background:#071021;border-radius:6px;padding:14px;height:420px;overflow:auto;margin:12px 0;font-family:monospace;font-size:14px;line-height:1.5}
-.entry{margin-bottom:12px}
-.entry .who{display:inline-block;padding:2px 8px;border-radius:4px;font-weight:600;margin-right:8px}
+#console{background:#071021;border-radius:6px;padding:14px;height:100%;overflow:auto;margin:12px 0;font-family:monospace;font-size:14px;line-height:1.5}
+.entry{margin-bottom:12px; p { margin: 6px 0 8px 0;}}
+.entry .who{display:inline;padding:0px 8px;border-radius:4px;font-weight:600;margin-right:8px; float:left}
 .user .who{background:#134e4a;color:#c7f9f1}
 .ai .who{background:#2a4366;color:#dbeafe}
 .user .text{color:#9ae6b4}
